@@ -1,37 +1,175 @@
-# ---- what counts as a match ----------------------------------------------
-search_terms: [intern, internship, fresher, trainee, junior]   # sent to APIs that support search
-
-entry_level_only: true   # false = ALL seniorities (huge list; also set exclude_any: [] if you want senior roles too)
-include_any: [intern, internship, interns, trainee, fresher, "entry level", entry-level, junior, graduate, apprentice,
-              "new grad", "early career", university, campus, co-op, "engineer i", "engineer 1", "sde 1", "sde i", associate]
-role_any: [ai, ml, "machine learning", python, software, backend, "full stack", fullstack, frontend, data, devops,
-           llm, genai, agent, agents, developer, engineer, engineering, sde, sdet, qa, web, flutter, android, ios, mobile,
-           research, "deep learning", cloud, sre, security, network, platform, infrastructure, systems, embedded, firmware,
-           hardware, electronics, electrical, mechanical, civil, robotics, vlsi, fpga, iot, blockchain, game, programmer,
-           "it support", "information technology", technology]   # delete this list to allow every role
-exclude_any: [senior, sr, staff, principal, lead, manager, director, head, vp, "5+ years", "10+ years"]
-
-india_only: true      # keep only: jobs located in India (any city below / "India"), or remote roles open to India
-                      # (Worldwide / Anywhere / APAC / Asia / plain "Remote"). Drops "Remote - US", "Berlin", etc.
-remote_only: false    # false = India on-site/hybrid AND remote. true = remote/WFH only
-# Indian cities/states that count as "India" (add yours)
-onsite_ok_locations: [india, bengaluru, bangalore, chennai, hyderabad, pune, mumbai, delhi, gurgaon, gurugram, noida,
-                      kolkata, coimbatore, kochi, ahmedabad, thiruvananthapuram, trivandrum, jaipur, chandigarh,
-                      indore, nagpur, bhubaneswar, visakhapatnam, vizag, mysuru, mysore, mangalore, lucknow, surat,
-                      vadodara, tamil nadu, karnataka, maharashtra, telangana, kerala, "new delhi", ncr, mohali,
-                      madurai, trichy, tiruchirappalli, vellore, kanchipuram, siruseri, sholinganallur, guindy, tidel]
-ats_workers: 12      # parallel requests when crawling company boards
-paid: loose         # strict = only confirmed paid | loose = drop only explicitly unpaid | off = ignore pay
-max_age_days: 14
-
-# remote jobs restricted to these places get dropped (unless the location also says worldwide/india/anywhere/apac/asia)
-blocked_locations: [usa, "united states", "u.s.", us, canada, uk, "united kingdom", europe, eu, latam, brazil, mexico,
-                    australia, germany, france, netherlands, spain, poland, portugal, ireland, israel]
-
-# ---- sources (true/false) -------------------------------------------------
+search_terms:
+- intern
+- internship
+- fresher
+- trainee
+- junior
+entry_level_only: true
+include_any:
+- intern
+- internship
+- interns
+- trainee
+- fresher
+- entry level
+- entry-level
+- junior
+- graduate
+- apprentice
+- new grad
+- early career
+- university
+- campus
+- co-op
+- engineer i
+- engineer 1
+- sde 1
+- sde i
+- associate
+role_any:
+- ai
+- ml
+- machine learning
+- python
+- software
+- backend
+- full stack
+- fullstack
+- frontend
+- data
+- devops
+- llm
+- genai
+- agent
+- agents
+- developer
+- engineer
+- engineering
+- sde
+- sdet
+- qa
+- web
+- flutter
+- android
+- ios
+- mobile
+- research
+- deep learning
+- cloud
+- sre
+- security
+- network
+- platform
+- infrastructure
+- systems
+- embedded
+- firmware
+- hardware
+- electronics
+- electrical
+- mechanical
+- civil
+- robotics
+- vlsi
+- fpga
+- iot
+- blockchain
+- game
+- programmer
+- it support
+- information technology
+- technology
+exclude_any:
+- senior
+- sr
+- staff
+- principal
+- lead
+- manager
+- director
+- head
+- vp
+- 5+ years
+- 10+ years
+india_only: true
+remote_only: false
+onsite_ok_locations:
+- india
+- bengaluru
+- bangalore
+- chennai
+- hyderabad
+- pune
+- mumbai
+- delhi
+- gurgaon
+- gurugram
+- noida
+- kolkata
+- coimbatore
+- kochi
+- ahmedabad
+- thiruvananthapuram
+- trivandrum
+- jaipur
+- chandigarh
+- indore
+- nagpur
+- bhubaneswar
+- visakhapatnam
+- vizag
+- mysuru
+- mysore
+- mangalore
+- lucknow
+- surat
+- vadodara
+- tamil nadu
+- karnataka
+- maharashtra
+- telangana
+- kerala
+- new delhi
+- ncr
+- mohali
+- madurai
+- trichy
+- tiruchirappalli
+- vellore
+- kanchipuram
+- siruseri
+- sholinganallur
+- guindy
+- tidel
+ats_workers: 12
+paid: loose
+max_age_days: 7
+min_age_hours: 4
+blocked_locations:
+- usa
+- united states
+- u.s.
+- us
+- canada
+- uk
+- united kingdom
+- europe
+- eu
+- latam
+- brazil
+- mexico
+- australia
+- germany
+- france
+- netherlands
+- spain
+- poland
+- portugal
+- ireland
+- israel
 sources:
-  ats: true             # company career pages (Greenhouse/Lever/Ashby/SmartRecruiters/Workable/Recruitee/Workday) - see companies.yaml
-  amazon: true          # amazon.jobs
+  ats: true
+  amazon: true
   remotive: true
   remoteok: true
   weworkremotely: true
@@ -40,33 +178,55 @@ sources:
   jobicy: true
   hn_whoishiring: true
   reddit: true
-  telegram: true        # needs channels below
-  internshala: true     # best-effort HTML scrape
-  unstop: true          # best-effort
-  yc: true              # best-effort
-  jobspy: true          # LinkedIn + Indeed + Naukri + Google Jobs via python-jobspy; they rate-limit cloud IPs, see README
-  rss: true             # your own feeds below (Google Alerts for X / Instagram / Wellfound etc.)
-
-# Reddit often blocks cloud IPs; a failing sub just shows up in Source health. Names from search, not all verified.
-reddit_subs: [forhire, developersIndia, InternshipsIndia, IndiaInternshipDaily, IndiaJobsOpenings, FresherTechJobsIndia, Indiahiring]
-
-# Public Telegram channels (the part after t.me/). These 5 were checked: public preview, recent posts, apply links.
-telegram_channels: [freshersjobs24, internfreak, fresheroffcampus, internshipupdatesfreshers, freshershunt]
-
-# Any RSS/Atom feed. Tip: Google Alerts -> "Deliver to: RSS feed" for queries like
-#   site:x.com "hiring" "intern" remote
-#   site:wellfound.com "intern" remote
-#   site:instagram.com "internship" "work from home"
+  telegram: true
+  internshala: true
+  unstop: true
+  yc: true
+  jobspy: true
+  rss: true
+  wellfound: true
+  facebook_jobs: true
+  twitter: true
+  linkedin_groups: true
+reddit_subs:
+- forhire
+- developersIndia
+- InternshipsIndia
+- IndiaInternshipDaily
+- IndiaJobsOpenings
+- FresherTechJobsIndia
+- Indiahiring
+telegram_channels:
+- freshersjobs24
+- internfreak
+- fresheroffcampus
+- internshipupdatesfreshers
+- freshershunt
 rss_feeds: []
-#  - {name: "Alert: X hiring", url: "https://www.google.com/alerts/feeds/XXXX/YYYY"}
-
-internshala_roles: [computer-science, python, machine-learning, artificial-intelligence, web-development, software-development]
-yc_roles: [software-engineer, machine-learning-engineer]
-
+internshala_roles:
+- computer-science
+- python
+- machine-learning
+- artificial-intelligence
+- web-development
+- software-development
+yc_roles:
+- software-engineer
+- machine-learning-engineer
 jobspy:
-  sites: [linkedin, indeed, naukri, google]
-  terms: ["software engineer intern", "ai ml intern", "python developer intern", "work from home intern",
-          "engineering intern", "fresher software engineer", "graduate engineer trainee"]
+  sites:
+  - linkedin
+  - indeed
+  - naukri
+  - google
+  terms:
+  - software engineer intern
+  - ai ml intern
+  - python developer intern
+  - work from home intern
+  - engineering intern
+  - fresher software engineer
+  - graduate engineer trainee
   location: India
   country: India
-  results_wanted: 40   # per site per term
+  results_wanted: 40

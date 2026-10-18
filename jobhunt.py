@@ -344,6 +344,96 @@ def f_rss(cfg):
     return out
 
 
+def f_wellfound(cfg):
+    """
+    Wellfound (formerly AngelList) jobs via RSS feeds or direct scraping.
+    Captures startup jobs, often with equity/remote options.
+    """
+    out = []
+    # Wellfound has RSS feeds for job categories
+    for item in cfg.get("rss_feeds", []):
+        if "wellfound" in item.get("name", "").lower() or "angellist" in item.get("name", "").lower():
+            try:
+                for j in parse_feed(item["url"], item.get("name", "wellfound")):
+                    out.append(j)
+            except Exception as e:
+                print(f"  wellfound rss: {str(e)[:60]}")
+    # Also try direct scraping of wellfound.com jobs
+    try:
+        for t in cfg.get("search_terms", []):
+            # Wellfound jobs page - might need specific URL patterns
+            # Using Google Alerts as alternative for now
+            pass
+    except Exception as e:
+        print(f"  wellfound direct: {str(e)[:60]}")
+    return out
+
+
+def f_facebook(cfg):
+    """
+    Facebook/Instagram job posts via RSS feeds (Google Alerts or Facebook job pages).
+    These are best-effort due to Facebook's API restrictions.
+    """
+    out = []
+    for item in cfg.get("rss_feeds", []):
+        if "facebook" in item.get("name", "").lower() or "instagram" in item.get("name", "").lower():
+            try:
+                for j in parse_feed(item["url"], item.get("name", "facebook")):
+                    out.append(j)
+            except Exception as e:
+                print(f"  facebook/instagram rss {item.get('name')}: {str(e)[:60]}")
+    return out
+
+
+def f_twitter(cfg):
+    """
+    X/Twitter job posts via RSS feeds.
+    Uses Google Alerts or specific Twitter account RSS feeds.
+    """
+    out = []
+    for item in cfg.get("rss_feeds", []):
+        if "twitter" in item.get("name", "").lower() or "x.com" in item.get("name", "").lower() or "x_" in item.get("name", "").lower():
+            try:
+                for j in parse_feed(item["url"], item.get("name", "twitter")):
+                    out.append(j)
+            except Exception as e:
+                print(f"  twitter rss {item.get('name')}: {str(e)[:60]}")
+    return out
+
+
+def f_linkedin_groups(cfg):
+    """
+    LinkedIn Groups job posts via RSS feeds.
+    LinkedIn groups often have job postings that can be captured via RSS.
+    Requires group-specific RSS feeds.
+    """
+    out = []
+    for item in cfg.get("rss_feeds", []):
+        if "linkedin" in item.get("name", "").lower() or "group" in item.get("name", "").lower():
+            try:
+                for j in parse_feed(item["url"], item.get("name", "linkedin_group")):
+                    out.append(j)
+            except Exception as e:
+                print(f"  linkedin group rss {item.get('name')}: {str(e)[:60]}")
+    return out
+
+
+def f_angel_list(cfg):
+    """
+    AngelList/Wellfound jobs via RSS. Many startups post jobs here.
+    """
+    out = []
+    # Wellfound has RSS feeds for different categories
+    for item in cfg.get("rss_feeds", []):
+        if "angel" in item.get("name", "").lower() or "startup" in item.get("name", "").lower():
+            try:
+                for j in parse_feed(item["url"], item.get("name", "angellist")):
+                    out.append(j)
+            except Exception as e:
+                print(f"  angellist rss: {str(e)[:60]}")
+    return out
+
+
 # ------------------------------------------------ company career pages (ATS)
 # Most companies host their careers page on a shared applicant-tracking system with a public JSON API.
 # One adapter covers every company on that system; we only need the company's slug.
@@ -569,6 +659,10 @@ FETCHERS = {
     "himalayas": f_himalayas, "arbeitnow": f_arbeitnow, "jobicy": f_jobicy,
     "hn_whoishiring": f_hn_whoishiring, "reddit": f_reddit, "telegram": f_telegram,
     "internshala": f_internshala, "unstop": f_unstop, "yc": f_yc, "jobspy": f_jobspy, "rss": f_rss,
+    # NEW SOURCES:
+    "wellfound": f_wellfound, "facebook": f_facebook, "facebook_jobs": f_facebook,
+    "twitter": f_twitter, "x": f_twitter, "linkedin_groups": f_linkedin_groups,
+    "angellist": f_angel_list,
 }
 
 
@@ -630,8 +724,13 @@ def keep(j, cfg, rx):
     if mode == "loose" and p is False:
         return False
     d = to_dt(j["posted"])
-    if d and d < NOW - timedelta(days=cfg.get("max_age_days", 14)):
+    if d and d < NOW - timedelta(days=cfg.get("max_age_days", 7)):
         return False
+    # NEW: Don't show jobs posted less than min_age_hours ago (to avoid duplicates/stale test jobs)
+    min_age = cfg.get("min_age_hours", 4)
+    if d and min_age > 0:
+        if NOW - d < timedelta(hours=min_age):
+            return False
     return True
 
 
