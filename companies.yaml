@@ -1,0 +1,25 @@
+# Company career boards crawled directly through their applicant-tracking-system (ATS) public APIs.
+# A "slug" is the company's part of its board URL:
+#   boards.greenhouse.io/<slug>   jobs.lever.co/<slug>   jobs.ashbyhq.com/<slug>
+#   apply.workable.com/<slug>     jobs.smartrecruiters.com/<slug>   <slug>.recruitee.com
+#
+# These seeds are written from memory and NOT all verified. A wrong slug just returns 404 and is skipped
+# (and remembered in data/ats_companies.json for 30 days). The list also GROWS BY ITSELF: every run harvests
+# board links from all other sources' listings and adds those companies to data/ats_companies.json.
+# Add any company you care about here.
+greenhouse: [stripe, airbnb, databricks, cloudflare, figma, discord, coinbase, robinhood, reddit, pinterest, lyft,
+             twilio, datadog, mongodb, elastic, gitlab, asana, dropbox, instacart, doordash, samsara, anthropic,
+             scaleai, vercel, brex, verkada, razorpaysoftwareprivatelimited, groww]
+lever: [spotify, palantir, plaid, mistral, cred, meesho]
+ashby: [openai, notion, ramp, linear, replit, cohere, supabase]
+smartrecruiters: []
+workable: []
+recruitee: []
+
+# Workday sites (big enterprises). tenant/wd/site come from the career URL:
+#   https://<tenant>.wd<wd>.myworkdayjobs.com/<site>
+workday:
+  - {name: NVIDIA, tenant: nvidia, wd: 5, site: NVIDIAExternalCareerSite}
+  - {name: Salesforce, tenant: salesforce, wd: 12, site: External_Career_Site}
+  - {name: Adobe, tenant: adobe, wd: 5, site: external_experienced}
+  - {name: Intel, tenant: intel, wd: 1, site: External}
