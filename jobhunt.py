@@ -366,6 +366,53 @@ def f_rss(cfg):
     return out
 
 
+def f_interndoor(cfg):
+    """Interndoor - India's largest job portal for internships and entry-level jobs."""
+    out = []
+    try:
+        # Interndoor's job listing pages
+        urls = [
+            "https://www.interndoor.in/jobs",
+            "https://www.interndoor.in/internships"
+        ]
+        for url in urls:
+            try:
+                r = get(url, timeout=15)
+                soup = BeautifulSoup(r.text, "html.parser")
+                for item in soup.select(".job-listing, .job-card, .result-item, li[class*='job']"):
+                    title_elem = item.select_one("h2, h3, .job-title, .title")
+                    comp_elem = item.select_one(".company, .org, .employer")
+                    loc_elem = item.select_one(".location, .location-name")
+                    date_elem = item.select_one(".date, .posted, time")
+                    link_elem = item.select_one("a[href*='/job']")
+                    
+                    if title_elem:
+                        title = title_elem.get_text(strip=True)[:140]
+                        company = comp_elem.get_text(strip=True) if comp_elem else ""
+                        location = loc_elem.get_text(strip=True) if loc_elem else ""
+                        posted = None
+                        if date_elem:
+                            date_text = date_elem.get_text(strip=True)
+                            for fmt in ["%b %d, %Y", "%d %b %Y", "%B %d, %Y", "%Y-%m-%d"]:
+                                try:
+                                    from datetime import datetime
+                                    posted = datetime.strptime(date_text, fmt).strftime("%Y-%m-%dT00:00:00Z")
+                                    break
+                                except ValueError:
+                                    continue
+                        link = link_elem.get("href") if link_elem else ""
+                        if link and not link.startswith("http"):
+                            link = "https://www.interndoor.in" + link
+                        out.append(job("Interndoor", title, company, link or "",
+                                       location or "", False, "", posted, title))
+            except Exception as e:
+                print(f"  interndoor {url}: {str(e)[:60]}")
+                continue
+    except Exception as e:
+        print(f"  interndoor: {str(e)[:60]}")
+    return out
+
+
 def f_wellfound(cfg):
     """
     Wellfound (formerly AngelList) jobs via RSS feeds or direct scraping.
@@ -681,6 +728,7 @@ FETCHERS = {
     "himalayas": f_himalayas, "arbeitnow": f_arbeitnow, "jobicy": f_jobicy,
     "hn_whoishiring": f_hn_whoishiring, "reddit": f_reddit, "telegram": f_telegram,
     "internshala": f_internshala, "unstop": f_unstop, "yc": f_yc, "jobspy": f_jobspy, "rss": f_rss,
+    "interndoor": f_interndoor,
     # NEW SOURCES:
     "wellfound": f_wellfound, "facebook": f_facebook, "facebook_jobs": f_facebook,
     "twitter": f_twitter, "x": f_twitter, "linkedin_groups": f_linkedin_groups,

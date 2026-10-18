@@ -94,64 +94,6 @@ exclude_any:
 india_only: true
 remote_only: false
 onsite_ok_locations:
-- india
-- bengaluru
-- bangalore
-- chennai
-- hyderabad
-- pune
-- mumbai
-- delhi
-- gurgaon
-- gurugram
-- noida
-- kolkata
-- coimbatore
-- kochi
-- ahmedabad
-- thiruvananthapuram
-- trivandrum
-- jaipur
-- chandigarh
-- indore
-- nagpur
-- bhubaneswar
-- visakhapatnam
-- vizag
-- mysuru
-- mysore
-- mangalore
-- lucknow
-- surat
-- vadodara
-- tamil nadu
-- karnataka
-- maharashtra
-- telangana
-- kerala
-- new delhi
-- ncr
-- mohali
-- madurai
-- trichy
-- tiruchirappalli
-- vellore
-- kanchipuram
-- siruseri
-- sholinganallur
-- guindy
-- tidel
-ats_workers: 12
-# Focus on paid internships that are work from home or remote
-paid: strict
-# Filter out jobs older than 7 days
-max_age_days: 7
-# Don't show jobs posted less than 4 hours ago (avoids duplicates/stale test jobs)
-min_age_hours: 4
-# Focus on remote and work-from-home roles
-remote_only: false
-# Filter locations to India + India metros or remote/WFH options
-onsite_ok_locations:
 - usa
 - united states
 - u.s.
@@ -173,6 +115,10 @@ onsite_ok_locations:
 - portugal
 - ireland
 - israel
+ats_workers: 12
+paid: strict
+max_age_days: 7
+min_age_hours: 4
 sources:
   ats: true
   amazon: true
@@ -194,6 +140,8 @@ sources:
   facebook_jobs: true
   twitter: true
   linkedin_groups: true
+  interndoor: true
+  angellist: true
 reddit_subs:
 - forhire
 - developersIndia
