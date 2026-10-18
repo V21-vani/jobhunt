@@ -142,10 +142,16 @@ onsite_ok_locations:
 - guindy
 - tidel
 ats_workers: 12
-paid: loose
+# Focus on paid internships that are work from home or remote
+paid: strict
+# Filter out jobs older than 7 days
 max_age_days: 7
+# Don't show jobs posted less than 4 hours ago (avoids duplicates/stale test jobs)
 min_age_hours: 4
-blocked_locations:
+# Focus on remote and work-from-home roles
+remote_only: false
+# Filter locations to India + India metros or remote/WFH options
+onsite_ok_locations:
 - usa
 - united states
 - u.s.

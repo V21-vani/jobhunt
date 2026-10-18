@@ -262,10 +262,32 @@ def f_internshala(cfg):
             comp = c.select_one(".company-name, .company_name")
             pay = c.select_one(".stipend, .salary")
             loc = c.select_one(".locations, .location_link")
+            # Try to extract date from Internshala's date element
+            posted = None
+            date_elem = c.select_one(".date, .posted, .timestamp, time[rel]")
+            if date_elem:
+                date_text = date_elem.get_text(strip=True)
+                # Try to parse various date formats
+                for fmt in ["%b %d, %Y", "%d %b %Y", "%B %d, %Y", "%Y-%m-%d", "%m/%d/%Y"]:
+                    try:
+                        from datetime import datetime
+                        posted = datetime.strptime(date_text, fmt).strftime("%Y-%m-%dT00:00:00Z")
+                        break
+                    except ValueError:
+                        continue
+                # If date element has datetime attribute, use it
+                if not posted:
+                    dt_attr = date_elem.get("datetime") or date_elem.get("data-date")
+                    if dt_attr:
+                        try:
+                            from datetime import datetime
+                            posted = datetime.fromisoformat(dt_attr.replace('Z', '+00:00')).strftime('%Y-%m-%dT%H:%M:%SZ')
+                        except:
+                            pass
             out.append(job("Internshala", a.get_text(), comp.get_text() if comp else "",
                            "https://internshala.com" + href if href.startswith("/") else href,
                            loc.get_text() if loc else "Work from home", True,
-                           pay.get_text() if pay else "", None, c.get_text(" ")))
+                           pay.get_text() if pay else "", posted, c.get_text(" ")))
     return out
 
 
