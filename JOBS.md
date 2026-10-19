@@ -1,24 +1,24 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-10-18 22:53 UTC · 403 active · 8 new this run · 3742 raw listings scanned_
+_Updated 2026-10-19 02:10 UTC · 410 active · 7 new this run · 3722 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Generative Ai intern | nature craft organica | PB, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-18 | [Apply](https://in.indeed.com/viewjob?jk=7cd26d48ee1ea38b) |
-| Security Research Internship | CertiK | USA | - (yes) | Jobicy | 2026-10-16 | [Apply](https://jobicy.com/jobs/155448-security-research-internship) |
-| Design Engineering Intern – AutoCAD & SolidWorks | Brisk Olive Business Solutions Pvt Ltd | UP, India | 12000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=083a9e6d88b495c0) |
-| Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=e1e63d5ae29588d7) |
-| Junior Software Engineer | PolicyMe | Canada | - (yes) | Jobicy | 2026-10-14 | [Apply](https://jobicy.com/jobs/153164-junior-software-engineer-2) |
-| Electronics Engineering Intern | C-TECH ELECTRONICS | MH, India | 3000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=887fc6d2b395e5c1) |
-| DevOps Engineer Intern | Eitonics Technologies | UP, India | 8000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=b9e5987aa1053872) |
-| Technical Data Internship - Airframe | Airbus | KA, India | - (yes) | jobspy/indeed | 2026-10-12 | [Apply](https://in.indeed.com/viewjob?jk=5263e6cf2763b060) |
+| Android App Development | AltSlash Studio | Work from home | ₹ 2,200 - 2,500 /month (yes) | Internshala | 2026-10-19 | [Apply](https://internshala.com/internship/detail/work-from-home-android-app-development-internship-at-altslash-studio1792360632) |
+| Graduate Engineer Trainee (Electrical) | Yasmin Karachiwala's Body Image (YKBI) | DD, India | 15000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-17 | [Apply](https://in.indeed.com/viewjob?jk=72c0e1b857e0b5bb) |
+| GET (Graduate Engineer Trainee) | Terahertz Engineering Services Private Limited | GJ, India | 15000.0-18000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=3bbd99ccd6c28fee) |
+| Graduate Engineer Trainee - (Technical Sales) | ABS RENEW POWER PVT. LTD | MH, India | 20000.0-24000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=e8589435289e8a73) |
+| Electrical Engineer fresher | Moonlight Electricals | GJ, India | 18000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-15 | [Apply](https://in.indeed.com/viewjob?jk=c3ed3a080bdcd249) |
+| B.Tech Mechanical Freshers | A2Z TECHNICAL INSTITUTE | KL, India | 216000.0-264000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=4c362c39c643dff1) |
+| GET (Graduate Engineer Trainee) - Chemical | Maa Kudargarhi Group | CT, India | 14000.0-18000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=8e79255056154d95) |
 
 ## All active (newest first)
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Android App Development | AltSlash Studio | Work from home | ₹ 2,200 - 2,500 /month (yes) | Internshala | 2026-10-19 | [Apply](https://internshala.com/internship/detail/work-from-home-android-app-development-internship-at-altslash-studio1792360632) |
 | Software Development | TEN Actively hiring | Work from home | ₹ 2,000 /month (yes) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1790309126) |
 | Campus Ambassador | Conscious Humanity Network Foundation Actively hiring | Work from home | Performance Based (?) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/campus-ambassador-programme-at-conscious-humanity-network-foundation1791827170) |
 | Enterprise Sales Executive (Sales & Business Development) | Skipto Ai International Private Limited Actively hiring | Work from home | ₹ 11,000 - 55,000 /month (yes) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/work-from-home-enterprise-sales-executive-sales-business-development-internship-at-skipto-ai-international-private-limited1791951789) |
@@ -175,6 +175,7 @@ _Updated 2026-10-18 22:53 UTC · 403 active · 8 new this run · 3742 raw listin
 | Graduate Engineer Trainee (Mechanical)-Uduppi Cochin Shipyard | Velora Marine and Consulting | KA, India | 180000.0-220000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-17 | [Apply](https://in.indeed.com/viewjob?jk=09c1d0d032729bfd) |
 | Graduate Engineer Trainee | Esteril Process Solutions | Vasai, Maharashtra, India | - (?) | jobspy/linkedin | 2026-10-17 | [Apply](https://www.linkedin.com/jobs/view/4433159401) |
 | Graduate Engineer Trainee,Order Management | Konecranes | Pune Division, Maharashtra, India | - (?) | jobspy/linkedin | 2026-10-17 | [Apply](https://www.linkedin.com/jobs/view/4450473265) |
+| Graduate Engineer Trainee (Electrical) | Yasmin Karachiwala's Body Image (YKBI) | DD, India | 15000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-17 | [Apply](https://in.indeed.com/viewjob?jk=72c0e1b857e0b5bb) |
 | Security Research Internship | CertiK | USA | - (yes) | Jobicy | 2026-10-16 | [Apply](https://jobicy.com/jobs/155448-security-research-internship) |
 | Python Fullstack Intern | Wahy Lab Solutions | KL, India | - (?) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=3fc0d986012e3089) |
 | AI-Powered Software Testing & Quality Engineering Intern | Wahy Lab Solutions | KL, India | - (?) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=4d2934bd3b767b25) |
@@ -244,6 +245,8 @@ _Updated 2026-10-18 22:53 UTC · 403 active · 8 new this run · 3742 raw listin
 | Service Engineer Trainee | The India Fitness Connect Pvt. Ltd. | Gurugram, Haryana, India | - (?) | jobspy/linkedin | 2026-10-16 | [Apply](https://www.linkedin.com/jobs/view/4479347217) |
 | Design Engineering Intern – AutoCAD & SolidWorks | Brisk Olive Business Solutions Pvt Ltd | UP, India | 12000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=083a9e6d88b495c0) |
 | Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=e1e63d5ae29588d7) |
+| GET (Graduate Engineer Trainee) | Terahertz Engineering Services Private Limited | GJ, India | 15000.0-18000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=3bbd99ccd6c28fee) |
+| Graduate Engineer Trainee - (Technical Sales) | ABS RENEW POWER PVT. LTD | MH, India | 20000.0-24000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=e8589435289e8a73) |
 | QualComm Is For Hiring Associate Software Engineer |  | - | - (yes) | Telegram/internfreak | 2026-10-15 | [Apply](https://careers.qualcomm.com/careers/job/446719784235) |
 | Intern Engineer Software Testing | Agaram Technologies | TN, India | 15000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-15 | [Apply](https://in.indeed.com/viewjob?jk=f5c18f50cdcf02f5) |
 | AI Engineering Intern | Techsol Engineers | MH, India | - (?) | jobspy/indeed | 2026-10-15 | [Apply](https://in.indeed.com/viewjob?jk=5a672ab974e3dbe9) |
@@ -302,6 +305,7 @@ _Updated 2026-10-18 22:53 UTC · 403 active · 8 new this run · 3742 raw listin
 | Graduate Engineering Trainee | SHK POLIMER INDUSTRIES | GJ, India | 20000.0-25000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-15 | [Apply](https://in.indeed.com/viewjob?jk=ebd885dc8daefe90) |
 | Graduate Engineer Trainee | GE HealthCare | Bengaluru, Karnataka, India | - (?) | jobspy/linkedin | 2026-10-15 | [Apply](https://www.linkedin.com/jobs/view/4479836443) |
 | Graduate Engineer - Telecom - Design Center India (f/m/d) | Deutsche Bahn | Bengaluru, Karnataka, India | - (?) | jobspy/linkedin | 2026-10-15 | [Apply](https://www.linkedin.com/jobs/view/4462750323) |
+| Electrical Engineer fresher | Moonlight Electricals | GJ, India | 18000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-15 | [Apply](https://in.indeed.com/viewjob?jk=c3ed3a080bdcd249) |
 | Enterpret Is Hiring For Software Engineering Intern |  | - | - (yes) | Telegram/internfreak | 2026-10-14 | [Apply](https://job-boards.greenhouse.io/enterpret/jobs/7847134003) |
 | Junior Software Engineer | PolicyMe | Canada | - (yes) | Jobicy | 2026-10-14 | [Apply](https://jobicy.com/jobs/153164-junior-software-engineer-2) |
 | Internship – Forward-Deployed Engineer (AI & Software Development) | Algoson Software | PB, India | 10000.0- INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=13d90ccdd7bf923b) |
@@ -345,6 +349,8 @@ _Updated 2026-10-18 22:53 UTC · 403 active · 8 new this run · 3742 raw listin
 | Trainee Design Engineer, Ahmedabad GUJ | Trelleborg Sealing Solutions | Greater Ahmedabad Area | - (?) | jobspy/linkedin | 2026-10-14 | [Apply](https://www.linkedin.com/jobs/view/4448986591) |
 | Electronics Engineering Intern | C-TECH ELECTRONICS | MH, India | 3000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=887fc6d2b395e5c1) |
 | DevOps Engineer Intern | Eitonics Technologies | UP, India | 8000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=b9e5987aa1053872) |
+| B.Tech Mechanical Freshers | A2Z TECHNICAL INSTITUTE | KL, India | 216000.0-264000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=4c362c39c643dff1) |
+| GET (Graduate Engineer Trainee) - Chemical | Maa Kudargarhi Group | CT, India | 14000.0-18000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=8e79255056154d95) |
 | IBM Freshers Recruitment / Intern / Associate Engineer @ Bangalore |  | - | - (?) | Telegram/freshersjobs24 | 2026-10-13 | [Apply](https://tinyurl.com/3en3z455) |
 | American Express Recruitment / Apprentice (Enterprise Technology Services) @ Bangalore, Chennai, Gurgaon |  | - | - (?) | Telegram/freshersjobs24 | 2026-10-13 | [Apply](https://tinyurl.com/yb3bv7tx) |
 | Compliance Engineer Intern | CertiK | APAC, Europe | - (?) | Jobicy | 2026-10-13 | [Apply](https://jobicy.com/jobs/153136-compliance-engineer-intern) |
@@ -412,13 +418,6 @@ _Updated 2026-10-18 22:53 UTC · 403 active · 8 new this run · 3742 raw listin
 | .Net Core Developer (Fresher) | Brilino Solutions | Mumbai, Maharashtra, India | - (?) | jobspy/linkedin | 2026-10-12 | [Apply](https://www.linkedin.com/jobs/view/4477280465) |
 | Fresher Flutter Developer | Surat It Community | Surat, Gujarat, India | - (?) | jobspy/linkedin | 2026-10-12 | [Apply](https://www.linkedin.com/jobs/view/4477289158) |
 | Graduate Trainee Engineer | go digit general insurance | MH, India | - (?) | jobspy/indeed | 2026-10-12 | [Apply](https://in.indeed.com/viewjob?jk=b18b2c3666f946b8) |
-| Graduate Engineer Trainee – R&D/Product | NewTrace | KA, India | - (?) | jobspy/indeed | 2026-10-12 | [Apply](https://in.indeed.com/viewjob?jk=42e84878890769c1) |
-| Graduate Trainee Engineer | BCAD Global | TN, India | 18000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-12 | [Apply](https://in.indeed.com/viewjob?jk=26caa5b2a5a93293) |
-| Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-12 | [Apply](https://in.indeed.com/viewjob?jk=1ba974af989e5ffe) |
-| IT Infrastructure Trainee (Windows / Linux / Network) – Freshers | Pinakin IT Solutions | UL, India | 9500.0-25000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-12 | [Apply](https://in.indeed.com/viewjob?jk=a428547650c85e32) |
-| Graduate Engineer Trainee (Mechanical/Chemical) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-12 | [Apply](https://in.indeed.com/viewjob?jk=f192895558f5837b) |
-| GET (Graduate Engineer Trainee) | Creo Homes | KL, India | 12000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-12 | [Apply](https://in.indeed.com/viewjob?jk=ad30cb5b3b034934) |
-| Graduate Engineer Trainee – R&D/Product | Newtrace | Bengaluru, Karnataka, India | - (?) | jobspy/linkedin | 2026-10-12 | [Apply](https://www.linkedin.com/jobs/view/4478507515) |
 
 ## Source health
 
@@ -432,10 +431,10 @@ _Updated 2026-10-18 22:53 UTC · 403 active · 8 new this run · 3742 raw listin
 - **hn_whoishiring**: 394 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
 - **telegram**: 100 fetched → 9 matched
-- **internshala**: 480 fetched → 37 matched
+- **internshala**: 480 fetched → 38 matched
 - **unstop**: 60 fetched → 0 matched
 - **yc**: 36 fetched → 0 matched
-- **jobspy**: 755 fetched → 109 matched
+- **jobspy**: 737 fetched → 93 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -443,4 +442,4 @@ _Updated 2026-10-18 22:53 UTC · 403 active · 8 new this run · 3742 raw listin
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 3 workday sites, 507 title-matched postings; 59 companies tracked → 0 matched
+- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 3 workday sites, 505 title-matched postings; 59 companies tracked → 0 matched
