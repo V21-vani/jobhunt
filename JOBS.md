@@ -1,27 +1,14 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-10-19 17:53 UTC · 482 active · 16 new this run · 3661 raw listings scanned_
+_Updated 2026-10-19 21:48 UTC · 485 active · 3 new this run · 3681 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Software Testing | Meru Technosoft Private Limited Actively hiring | Work from home | ₹ 1,000 /month (yes) | Internshala | 2026-10-19 | [Apply](https://internshala.com/internship/detail/work-from-home-software-testing-internship-at-meru-technosoft-private-limited1792415051) |
-| Mobile App Testing | Meru Technosoft Private Limited Actively hiring | Work from home | ₹ 1,000 /month (yes) | Internshala | 2026-10-19 | [Apply](https://internshala.com/internship/detail/work-from-home-mobile-app-testing-internship-at-meru-technosoft-private-limited1792414600) |
-| AI Engineer Intern | Enlight Lab Actively hiring | Work from home | ₹ 5,000 - 10,000 /month (yes) | Internshala | 2026-10-19 | [Apply](https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-enlight-lab1792132502) |
-| Graduate Engineering Trainee Electrical | Samarpak Management Solutions | Pune(Shivaji Nagar), India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-19 | [Apply](https://www.naukri.com/job-listings-graduate-engineering-trainee-electrical-samarpak-management-solutions-pune-0-to-1-years-191026020537) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://freshershunt.in/infosys-edgeverve-off-campus-drive-2026/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://go.acciojob.com/c8TDWV) |
-| Software Engineer Intern | ETDOX | Remote, India | 2000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=b36a9803d3ea4f72) |
-| Software Engineer Intern | ETDOX | Remote, India | 2000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=ab9e0b68c0220b20) |
-| AWS Cloud Intern | ETDOX | Remote, India | 2000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=d4dbf6089c65e25f) |
-| AI Social Media Content Intern | Tic Tac Toe Footwear | Remote, India | 8000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=73363646bbd6b60c) |
-| Data Science Intern | ETDOX | Remote, India | 2000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=b4a62d446b20d577) |
-| Data Science Intern | CORNIXE EDUTECH PRIVATE LIMITED | TN, India | 5000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=9e1abeace8fbbe56) |
-| Graduate Engineer Trainee (GET) - Design & Proposal | Techno Instruments | GJ, India | 15000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=8a36c8505488a34c) |
-| Graduate Engineer Trainee (GET) - B.E. Civil & B.E. Mech | Syneteca Engineering Solutions Pvt Ltd | MH, India | 12000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=ef32c15c3a7a59d3) |
-| QA Intern | ETDOX | Remote, India | 2000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-18 | [Apply](https://in.indeed.com/viewjob?jk=603bac18456a5d75) |
-| Research Analyst Intern | TPN | Remote, India | 1000.0- INR/monthly (yes) | jobspy/indeed | 2026-10-16 | [Apply](https://in.indeed.com/viewjob?jk=cd9ec2636ad83a75) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://freshershunt.in/akamai-off-campus-drive-2026/) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://freshershunt.in/accenture-custom-software-engineer-2026/) |
+| Python Django Developer Intern | Pokak Technologies | KL, India | 10000.0-12000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=4f96d725b2ccc9d7) |
 
 ## All active (newest first)
 
@@ -31,6 +18,8 @@ _Updated 2026-10-19 17:53 UTC · 482 active · 16 new this run · 3661 raw listi
 | Mobile App Testing | Meru Technosoft Private Limited Actively hiring | Work from home | ₹ 1,000 /month (yes) | Internshala | 2026-10-19 | [Apply](https://internshala.com/internship/detail/work-from-home-mobile-app-testing-internship-at-meru-technosoft-private-limited1792414600) |
 | AI Engineer Intern | Enlight Lab Actively hiring | Work from home | ₹ 5,000 - 10,000 /month (yes) | Internshala | 2026-10-19 | [Apply](https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-enlight-lab1792132502) |
 | Graduate Engineering Trainee Electrical | Samarpak Management Solutions | Pune(Shivaji Nagar), India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-19 | [Apply](https://www.naukri.com/job-listings-graduate-engineering-trainee-electrical-samarpak-management-solutions-pune-0-to-1-years-191026020537) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://freshershunt.in/akamai-off-campus-drive-2026/) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://freshershunt.in/accenture-custom-software-engineer-2026/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://freshershunt.in/infosys-edgeverve-off-campus-drive-2026/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://go.acciojob.com/c8TDWV) |
 | Content Writer Intern | Scaler Actively hiring | Work from home | ₹ 20,000 - 25,000 /month (yes) | Internshala | 2026-10-19 | [Apply](https://internshala.com/internship/detail/work-from-home-content-writing-internship-at-scaler1792396570) |
@@ -78,6 +67,7 @@ _Updated 2026-10-19 17:53 UTC · 482 active · 16 new this run · 3661 raw listi
 | Data Science Intern | CORNIXE EDUTECH PRIVATE LIMITED | TN, India | 5000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=9e1abeace8fbbe56) |
 | Graduate Engineer Trainee (GET) - Design & Proposal | Techno Instruments | GJ, India | 15000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=8a36c8505488a34c) |
 | Graduate Engineer Trainee (GET) - B.E. Civil & B.E. Mech | Syneteca Engineering Solutions Pvt Ltd | MH, India | 12000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=ef32c15c3a7a59d3) |
+| Python Django Developer Intern | Pokak Technologies | KL, India | 10000.0-12000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=4f96d725b2ccc9d7) |
 | Software Development | TEN Actively hiring | Work from home | ₹ 2,000 /month (yes) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1790309126) |
 | Campus Ambassador | Conscious Humanity Network Foundation Actively hiring | Work from home | Performance Based (?) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/campus-ambassador-programme-at-conscious-humanity-network-foundation1791827170) |
 | Enterprise Sales Executive (Sales & Business Development) | Skipto Ai International Private Limited Actively hiring | Work from home | ₹ 11,000 - 55,000 /month (yes) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/work-from-home-enterprise-sales-executive-sales-business-development-internship-at-skipto-ai-international-private-limited1791951789) |
@@ -424,9 +414,6 @@ _Updated 2026-10-19 17:53 UTC · 482 active · 16 new this run · 3661 raw listi
 | GET (Graduate Engineer Trainee) | Modular Containers Pvt.Ltd | TS, India | 300000.0-340000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=2cfbbfeb11323964) |
 | Silage Project Trainee (mechanical engineer) | Sarda Group | MH, India | - (?) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=56c58c4f2cb49dc0) |
 | Graduate Engineer Trainee | Ingersoll Rand | Greater Kolkata Area | - (?) | jobspy/linkedin | 2026-10-14 | [Apply](https://www.linkedin.com/jobs/view/4479554240) |
-| Graduate Engineer Trainee | Ingersoll Rand Compressor Systems & Services | Kolkata, West Bengal, India | - (?) | jobspy/linkedin | 2026-10-14 | [Apply](https://www.linkedin.com/jobs/view/4478443681) |
-| Trainee Design Engineer, Ahmedabad GUJ | Trelleborg Sealing Solutions | Greater Ahmedabad Area | - (?) | jobspy/linkedin | 2026-10-14 | [Apply](https://www.linkedin.com/jobs/view/4448986591) |
-| Electronics Engineering Intern | C-TECH ELECTRONICS | MH, India | 3000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=887fc6d2b395e5c1) |
 
 ## Source health
 
@@ -436,14 +423,14 @@ _Updated 2026-10-19 17:53 UTC · 482 active · 16 new this run · 3661 raw listi
 - **weworkremotely**: 116 fetched → 0 matched
 - **himalayas**: 100 fetched → 0 matched
 - **arbeitnow**: 900 fetched → 0 matched
-- **jobicy**: 87 fetched → 2 matched
+- **jobicy**: 90 fetched → 2 matched
 - **hn_whoishiring**: 394 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
-- **telegram**: 100 fetched → 10 matched
+- **telegram**: 100 fetched → 12 matched
 - **internshala**: 480 fetched → 38 matched
 - **unstop**: 60 fetched → 0 matched
-- **yc**: 38 fetched → 0 matched
-- **jobspy**: 665 fetched → 109 matched
+- **yc**: 37 fetched → 0 matched
+- **jobspy**: 673 fetched → 104 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -451,4 +438,4 @@ _Updated 2026-10-19 17:53 UTC · 482 active · 16 new this run · 3661 raw listi
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 3 workday sites, 517 title-matched postings; 59 companies tracked → 0 matched
+- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 3 workday sites, 527 title-matched postings; 59 companies tracked → 0 matched
