@@ -1,14 +1,12 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-10-19 21:48 UTC · 485 active · 3 new this run · 3681 raw listings scanned_
+_Updated 2026-10-20 02:25 UTC · 486 active · 1 new this run · 3631 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://freshershunt.in/akamai-off-campus-drive-2026/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-19 | [Apply](https://freshershunt.in/accenture-custom-software-engineer-2026/) |
-| Python Django Developer Intern | Pokak Technologies | KL, India | 10000.0-12000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=4f96d725b2ccc9d7) |
+| Graduate Trainee Engineer (Solar) | Solar4Trivandrum | KL, India | 22000.0-25000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=f71d2bf1a986c41c) |
 
 ## All active (newest first)
 
@@ -68,6 +66,7 @@ _Updated 2026-10-19 21:48 UTC · 485 active · 3 new this run · 3681 raw listin
 | Graduate Engineer Trainee (GET) - Design & Proposal | Techno Instruments | GJ, India | 15000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=8a36c8505488a34c) |
 | Graduate Engineer Trainee (GET) - B.E. Civil & B.E. Mech | Syneteca Engineering Solutions Pvt Ltd | MH, India | 12000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=ef32c15c3a7a59d3) |
 | Python Django Developer Intern | Pokak Technologies | KL, India | 10000.0-12000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=4f96d725b2ccc9d7) |
+| Graduate Trainee Engineer (Solar) | Solar4Trivandrum | KL, India | 22000.0-25000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-19 | [Apply](https://in.indeed.com/viewjob?jk=f71d2bf1a986c41c) |
 | Software Development | TEN Actively hiring | Work from home | ₹ 2,000 /month (yes) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/work-from-home-software-development-internship-at-ten1790309126) |
 | Campus Ambassador | Conscious Humanity Network Foundation Actively hiring | Work from home | Performance Based (?) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/campus-ambassador-programme-at-conscious-humanity-network-foundation1791827170) |
 | Enterprise Sales Executive (Sales & Business Development) | Skipto Ai International Private Limited Actively hiring | Work from home | ₹ 11,000 - 55,000 /month (yes) | Internshala | 2026-10-18 | [Apply](https://internshala.com/internship/detail/work-from-home-enterprise-sales-executive-sales-business-development-internship-at-skipto-ai-international-private-limited1791951789) |
@@ -413,11 +412,10 @@ _Updated 2026-10-19 21:48 UTC · 485 active · 3 new this run · 3681 raw listin
 | Graduate Engineer Trainee (Electrical) | Sustenergy Foundation | KL, India | 10000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=81dcf5abac0140d5) |
 | GET (Graduate Engineer Trainee) | Modular Containers Pvt.Ltd | TS, India | 300000.0-340000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=2cfbbfeb11323964) |
 | Silage Project Trainee (mechanical engineer) | Sarda Group | MH, India | - (?) | jobspy/indeed | 2026-10-14 | [Apply](https://in.indeed.com/viewjob?jk=56c58c4f2cb49dc0) |
-| Graduate Engineer Trainee | Ingersoll Rand | Greater Kolkata Area | - (?) | jobspy/linkedin | 2026-10-14 | [Apply](https://www.linkedin.com/jobs/view/4479554240) |
 
 ## Source health
 
-- **amazon**: 45 fetched → 0 matched
+- **amazon**: 46 fetched → 0 matched
 - **remotive**: 60 fetched → 0 matched
 - **remoteok**: 99 fetched → 0 matched
 - **weworkremotely**: 116 fetched → 0 matched
@@ -426,11 +424,11 @@ _Updated 2026-10-19 21:48 UTC · 485 active · 3 new this run · 3681 raw listin
 - **jobicy**: 90 fetched → 2 matched
 - **hn_whoishiring**: 394 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
-- **telegram**: 100 fetched → 12 matched
+- **telegram**: 100 fetched → 11 matched
 - **internshala**: 480 fetched → 38 matched
 - **unstop**: 60 fetched → 0 matched
 - **yc**: 37 fetched → 0 matched
-- **jobspy**: 673 fetched → 104 matched
+- **jobspy**: 595 fetched → 98 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -438,4 +436,4 @@ _Updated 2026-10-19 21:48 UTC · 485 active · 3 new this run · 3681 raw listin
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 3 workday sites, 527 title-matched postings; 59 companies tracked → 0 matched
+- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 4 workday sites, 554 title-matched postings; 59 companies tracked → 0 matched
