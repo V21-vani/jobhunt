@@ -117,7 +117,7 @@
   "paid": "yes",
   "id": "714330bb701e",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7fa2cc3172ec": {
   "source": "Telegram/freshershunt",
@@ -132,7 +132,7 @@
   "paid": "yes",
   "id": "7fa2cc3172ec",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "3a732ff6ce10": {
   "source": "Telegram/freshershunt",
@@ -162,7 +162,7 @@
   "paid": "yes",
   "id": "fdb7b70f54f3",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "82228d1ff45e": {
   "source": "Telegram/freshershunt",
@@ -177,7 +177,7 @@
   "paid": "yes",
   "id": "82228d1ff45e",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "178f71dee6a5": {
   "source": "Telegram/freshershunt",
@@ -1842,7 +1842,7 @@
   "paid": "yes",
   "id": "93746b12aa05",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "e65cefda7ebd": {
   "source": "jobspy/naukri",
@@ -2802,7 +2802,7 @@
   "paid": "yes",
   "id": "b9b6da9ba472",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "0384a174a90d": {
   "source": "jobspy/naukri",
@@ -6342,7 +6342,7 @@
   "paid": "yes",
   "id": "275bdaeb27b4",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "0a6699249c2f": {
   "source": "jobspy/indeed",
@@ -6552,7 +6552,7 @@
   "paid": "yes",
   "id": "5e0ab9e6373c",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "6b6c52e30572": {
   "source": "jobspy/indeed",
@@ -6567,7 +6567,7 @@
   "paid": "yes",
   "id": "6b6c52e30572",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "c6ef53366f01": {
   "source": "jobspy/indeed",
@@ -6582,7 +6582,7 @@
   "paid": "yes",
   "id": "c6ef53366f01",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "f4db2bfffc1e": {
   "source": "jobspy/indeed",
@@ -6612,7 +6612,7 @@
   "paid": "yes",
   "id": "48b6029dd347",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7fc9ca6e4a9c": {
   "source": "jobspy/indeed",
@@ -6807,7 +6807,7 @@
   "paid": "yes",
   "id": "654d373c3d35",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "fffb4c8ec056": {
   "source": "jobspy/indeed",
@@ -6822,7 +6822,7 @@
   "paid": "yes",
   "id": "fffb4c8ec056",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "2b357af1a862": {
   "source": "jobspy/indeed",
@@ -6927,7 +6927,7 @@
   "paid": "yes",
   "id": "d76e0404835b",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "be39c55b171c": {
   "source": "jobspy/indeed",
@@ -7212,7 +7212,7 @@
   "paid": "yes",
   "id": "1f120a2794d6",
   "first_seen": "2026-10-19T17:53:12.433681+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "ffbae5e3b3fb": {
   "source": "jobspy/indeed",
@@ -7272,7 +7272,7 @@
   "paid": "yes",
   "id": "dbc466276d60",
   "first_seen": "2026-10-19T21:48:58.302822+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "952937eabbf8": {
   "source": "jobspy/indeed",
@@ -7377,7 +7377,7 @@
   "paid": "yes",
   "id": "4a7a7506bca4",
   "first_seen": "2026-10-20T10:32:59.144180+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "447ed6e4af95": {
   "source": "jobspy/indeed",
@@ -7422,7 +7422,7 @@
   "paid": "yes",
   "id": "f3e372152f99",
   "first_seen": "2026-10-20T10:32:59.144180+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "bb7b53518545": {
   "source": "jobspy/indeed",
@@ -7452,7 +7452,7 @@
   "paid": "yes",
   "id": "5087860b26a9",
   "first_seen": "2026-10-20T10:32:59.144180+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "a0988fc276da": {
   "source": "jobspy/indeed",
@@ -7557,7 +7557,7 @@
   "paid": "yes",
   "id": "2190ce26e71a",
   "first_seen": "2026-10-20T15:57:30.645321+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "f8ed09ee4097": {
   "source": "jobspy/indeed",
@@ -7617,7 +7617,7 @@
   "paid": "yes",
   "id": "a25aeab74bd3",
   "first_seen": "2026-10-20T15:57:30.645321+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "79ffedc73323": {
   "source": "jobspy/indeed",
@@ -7632,7 +7632,7 @@
   "paid": "yes",
   "id": "79ffedc73323",
   "first_seen": "2026-10-20T15:57:30.645321+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "08ebce10a473": {
   "source": "jobspy/indeed",
@@ -7647,7 +7647,7 @@
   "paid": "yes",
   "id": "08ebce10a473",
   "first_seen": "2026-10-20T15:57:30.645321+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "ced6f0b0e7dd": {
   "source": "jobspy/naukri",
@@ -7827,7 +7827,7 @@
   "paid": "yes",
   "id": "2a38ea810198",
   "first_seen": "2026-10-21T02:19:21.774159+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "25db7c905bfc": {
   "source": "Jobicy",
@@ -8037,7 +8037,7 @@
   "paid": "yes",
   "id": "1874ed19a9e9",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "a1dfd18d5db7": {
   "source": "jobspy/indeed",
@@ -8217,7 +8217,7 @@
   "paid": "yes",
   "id": "2801034186a5",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "975b6d0e0ab6": {
   "source": "jobspy/indeed",
@@ -8247,7 +8247,7 @@
   "paid": "yes",
   "id": "883c0373cb2c",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "73b379e1b2d1": {
   "source": "jobspy/indeed",
@@ -8262,7 +8262,7 @@
   "paid": "yes",
   "id": "73b379e1b2d1",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "64780ebabeaf": {
   "source": "jobspy/indeed",
@@ -8277,7 +8277,7 @@
   "paid": "yes",
   "id": "64780ebabeaf",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7925cac5b9d7": {
   "source": "jobspy/indeed",
@@ -8367,7 +8367,7 @@
   "paid": "yes",
   "id": "ef43dc6727ab",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "2057a805869e": {
   "source": "Telegram/fresheroffcampus",
@@ -8502,7 +8502,7 @@
   "paid": "yes",
   "id": "f63f7f323edf",
   "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "1899b7045fe0": {
   "source": "jobspy/indeed",
@@ -8517,7 +8517,7 @@
   "paid": "yes",
   "id": "1899b7045fe0",
   "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "a0316824b1fd": {
   "source": "jobspy/indeed",
@@ -8592,7 +8592,7 @@
   "paid": "yes",
   "id": "dae5bbab3685",
   "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "098a77a40555": {
   "source": "jobspy/indeed",
@@ -8607,7 +8607,7 @@
   "paid": "yes",
   "id": "098a77a40555",
   "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-24T09:56:26.395400+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "b12aa947b911": {
   "source": "jobspy/indeed",
@@ -8622,7 +8622,7 @@
   "paid": "yes",
   "id": "b12aa947b911",
   "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "b9fb1d641147": {
   "source": "jobspy/indeed",
@@ -8637,7 +8637,7 @@
   "paid": "yes",
   "id": "b9fb1d641147",
   "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "54b9b1836aaf": {
   "source": "jobspy/indeed",
@@ -8652,7 +8652,7 @@
   "paid": "yes",
   "id": "54b9b1836aaf",
   "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "622ad45b0a05": {
   "source": "jobspy/indeed",
@@ -8742,7 +8742,7 @@
   "paid": "yes",
   "id": "bd03b2282729",
   "first_seen": "2026-10-21T20:58:21.269080+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "afa700b96300": {
   "source": "jobspy/indeed",
@@ -8787,7 +8787,7 @@
   "paid": "yes",
   "id": "75267fce5e5b",
   "first_seen": "2026-10-22T02:14:14.435609+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "1c8d9501f31c": {
   "source": "jobspy/indeed",
@@ -8817,7 +8817,7 @@
   "paid": "yes",
   "id": "faa41a5fb3b0",
   "first_seen": "2026-10-22T02:14:14.435609+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "d0769939f7fa": {
   "source": "jobspy/indeed",
@@ -8967,7 +8967,7 @@
   "paid": "yes",
   "id": "7dda6a18373e",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "10e8cf77b8d9": {
   "source": "jobspy/indeed",
@@ -8982,7 +8982,7 @@
   "paid": "yes",
   "id": "10e8cf77b8d9",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "6fa8d7b47785": {
   "source": "jobspy/indeed",
@@ -8997,7 +8997,7 @@
   "paid": "yes",
   "id": "6fa8d7b47785",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "86b243ad633d": {
   "source": "jobspy/naukri",
@@ -9012,7 +9012,7 @@
   "paid": "yes",
   "id": "86b243ad633d",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "39f92c9069e2": {
   "source": "jobspy/indeed",
@@ -9072,7 +9072,7 @@
   "paid": "yes",
   "id": "e042a47cec54",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "e2b5ac5475e3": {
   "source": "jobspy/indeed",
@@ -9087,7 +9087,7 @@
   "paid": "yes",
   "id": "e2b5ac5475e3",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "e39ca5000581": {
   "source": "jobspy/indeed",
@@ -9147,7 +9147,7 @@
   "paid": "yes",
   "id": "d9bf4ed13eb3",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "9bff31032335": {
   "source": "jobspy/naukri",
@@ -9297,7 +9297,7 @@
   "paid": "yes",
   "id": "865a298491c7",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "47eb111e0fc3": {
   "source": "jobspy/indeed",
@@ -9327,7 +9327,7 @@
   "paid": "yes",
   "id": "a8d110e7d949",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "b146a1351875": {
   "source": "jobspy/indeed",
@@ -9342,7 +9342,7 @@
   "paid": "yes",
   "id": "b146a1351875",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "6f7df8932203": {
   "source": "Telegram/fresheroffcampus",
@@ -9462,7 +9462,7 @@
   "paid": "yes",
   "id": "a7b96432086b",
   "first_seen": "2026-10-22T16:12:54.456866+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "2af1fe4f7d97": {
   "source": "jobspy/indeed",
@@ -9477,7 +9477,7 @@
   "paid": "yes",
   "id": "2af1fe4f7d97",
   "first_seen": "2026-10-22T16:12:54.456866+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "20aebe69cf97": {
   "source": "jobspy/naukri",
@@ -9507,7 +9507,7 @@
   "paid": "yes",
   "id": "123ca1dbafba",
   "first_seen": "2026-10-22T16:12:54.456866+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "35b831f2bb10": {
   "source": "jobspy/naukri",
@@ -9522,7 +9522,7 @@
   "paid": "yes",
   "id": "35b831f2bb10",
   "first_seen": "2026-10-22T16:12:54.456866+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "6e47ed15d122": {
   "source": "jobspy/naukri",
@@ -9537,7 +9537,7 @@
   "paid": "yes",
   "id": "6e47ed15d122",
   "first_seen": "2026-10-22T16:12:54.456866+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "0c5ed352c0d2": {
   "source": "jobspy/naukri",
@@ -9552,7 +9552,7 @@
   "paid": "yes",
   "id": "0c5ed352c0d2",
   "first_seen": "2026-10-22T16:12:54.456866+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "ad12d774dab9": {
   "source": "jobspy/naukri",
@@ -9567,7 +9567,7 @@
   "paid": "yes",
   "id": "ad12d774dab9",
   "first_seen": "2026-10-22T16:12:54.456866+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "4f4c086abab8": {
   "source": "jobspy/naukri",
@@ -9627,7 +9627,7 @@
   "paid": "yes",
   "id": "508884483709",
   "first_seen": "2026-10-22T20:56:42.115064+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "e9a8f122c9cf": {
   "source": "Telegram/freshershunt",
@@ -9717,7 +9717,7 @@
   "paid": "yes",
   "id": "183426acf124",
   "first_seen": "2026-10-22T20:56:42.115064+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "f8c00d7d7a27": {
   "source": "jobspy/indeed",
@@ -9837,7 +9837,7 @@
   "paid": "yes",
   "id": "83a3e3d4597a",
   "first_seen": "2026-10-23T02:20:11.222111+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "aef8d3a13f0f": {
   "source": "jobspy/indeed",
@@ -9852,7 +9852,7 @@
   "paid": "yes",
   "id": "aef8d3a13f0f",
   "first_seen": "2026-10-23T02:20:11.222111+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7f063be1ee1e": {
   "source": "Telegram/fresheroffcampus",
@@ -9867,7 +9867,7 @@
   "paid": "yes",
   "id": "7f063be1ee1e",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "afa94255245c": {
   "source": "Telegram/fresheroffcampus",
@@ -9882,7 +9882,7 @@
   "paid": "yes",
   "id": "afa94255245c",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "da53c413fe09": {
   "source": "Telegram/freshershunt",
@@ -10092,7 +10092,7 @@
   "paid": "yes",
   "id": "5ef01822d311",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "656d75ef2f34": {
   "source": "jobspy/indeed",
@@ -10107,7 +10107,7 @@
   "paid": "yes",
   "id": "656d75ef2f34",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "683886682012": {
   "source": "jobspy/indeed",
@@ -10122,7 +10122,7 @@
   "paid": "yes",
   "id": "683886682012",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "4a543550e048": {
   "source": "jobspy/indeed",
@@ -10152,7 +10152,7 @@
   "paid": "yes",
   "id": "9fdf7db7ec6f",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "029859eecc13": {
   "source": "jobspy/indeed",
@@ -10167,7 +10167,7 @@
   "paid": "yes",
   "id": "029859eecc13",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "2fdab8245252": {
   "source": "jobspy/indeed",
@@ -10197,7 +10197,7 @@
   "paid": "yes",
   "id": "c3e797836793",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "aa66e207a07a": {
   "source": "jobspy/naukri",
@@ -10227,7 +10227,7 @@
   "paid": "yes",
   "id": "f09c1686eaf9",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7b4795a790f6": {
   "source": "jobspy/indeed",
@@ -10272,7 +10272,7 @@
   "paid": "yes",
   "id": "5c6ac75f0a1b",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "60f886959e26": {
   "source": "jobspy/indeed",
@@ -10287,7 +10287,7 @@
   "paid": "yes",
   "id": "60f886959e26",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "b60111c084b7": {
   "source": "jobspy/indeed",
@@ -10317,7 +10317,7 @@
   "paid": "yes",
   "id": "03e1192b92b9",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "a320e02fa1cf": {
   "source": "jobspy/indeed",
@@ -10332,7 +10332,7 @@
   "paid": "yes",
   "id": "a320e02fa1cf",
   "first_seen": "2026-10-23T10:38:27.187341+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "202aaae3795e": {
   "source": "jobspy/naukri",
@@ -10362,7 +10362,7 @@
   "paid": "yes",
   "id": "7d09d845b812",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "9b437f72a27f": {
   "source": "Telegram/fresheroffcampus",
@@ -10377,7 +10377,7 @@
   "paid": "yes",
   "id": "9b437f72a27f",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "4005d3910b10": {
   "source": "Telegram/freshershunt",
@@ -10422,7 +10422,7 @@
   "paid": "yes",
   "id": "449b16246f69",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "af2c8d96377e": {
   "source": "jobspy/indeed",
@@ -10452,7 +10452,7 @@
   "paid": "yes",
   "id": "4099337f0212",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7cdfdbd769eb": {
   "source": "jobspy/indeed",
@@ -10542,7 +10542,7 @@
   "paid": "yes",
   "id": "75591b3b38fe",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "488709f9077c": {
   "source": "jobspy/naukri",
@@ -10557,7 +10557,7 @@
   "paid": "yes",
   "id": "488709f9077c",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "163a28f05697": {
   "source": "jobspy/indeed",
@@ -10587,7 +10587,7 @@
   "paid": "yes",
   "id": "e39b76547e24",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "d4f84f5c0d01": {
   "source": "jobspy/indeed",
@@ -10602,7 +10602,7 @@
   "paid": "yes",
   "id": "d4f84f5c0d01",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "9fa31f94af98": {
   "source": "jobspy/indeed",
@@ -10617,7 +10617,7 @@
   "paid": "yes",
   "id": "9fa31f94af98",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "16cbaebed9b7": {
   "source": "jobspy/indeed",
@@ -10632,7 +10632,7 @@
   "paid": "yes",
   "id": "16cbaebed9b7",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "2d9f25360ade": {
   "source": "jobspy/indeed",
@@ -10647,7 +10647,7 @@
   "paid": "yes",
   "id": "2d9f25360ade",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "b3f060503544": {
   "source": "jobspy/indeed",
@@ -10662,7 +10662,7 @@
   "paid": "yes",
   "id": "b3f060503544",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "cf1a5bcbee3f": {
   "source": "jobspy/indeed",
@@ -10677,7 +10677,7 @@
   "paid": "yes",
   "id": "cf1a5bcbee3f",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T02:18:00.758840+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7d6985df48d0": {
   "source": "jobspy/indeed",
@@ -10692,7 +10692,7 @@
   "paid": "yes",
   "id": "7d6985df48d0",
   "first_seen": "2026-10-23T16:02:16.370469+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "8e379e3836a7": {
   "source": "Jobicy",
@@ -10722,7 +10722,7 @@
   "paid": "yes",
   "id": "332809264fcd",
   "first_seen": "2026-10-23T20:44:30.446481+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "e214b5bea5a5": {
   "source": "Telegram/fresheroffcampus",
@@ -10737,7 +10737,7 @@
   "paid": "yes",
   "id": "e214b5bea5a5",
   "first_seen": "2026-10-23T20:44:30.446481+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7a8a71b314df": {
   "source": "Telegram/freshershunt",
@@ -10857,7 +10857,7 @@
   "paid": "yes",
   "id": "9130da8e04b4",
   "first_seen": "2026-10-23T20:44:30.446481+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "0cd4c684ceef": {
   "source": "Internshala",
@@ -10902,7 +10902,7 @@
   "paid": "yes",
   "id": "5fb4ca728997",
   "first_seen": "2026-10-24T02:18:00.758840+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "314b54a7f253": {
   "source": "jobspy/indeed",
@@ -11082,7 +11082,7 @@
   "paid": "yes",
   "id": "45c260caa0d2",
   "first_seen": "2026-10-24T09:56:26.395400+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "7806fa2a1d60": {
   "source": "jobspy/indeed",
@@ -11112,7 +11112,7 @@
   "paid": "yes",
   "id": "028f769a8ae1",
   "first_seen": "2026-10-24T09:56:26.395400+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "543e8242847b": {
   "source": "jobspy/indeed",
@@ -11127,7 +11127,7 @@
   "paid": "yes",
   "id": "543e8242847b",
   "first_seen": "2026-10-24T09:56:26.395400+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "b3f7b5c02c43": {
   "source": "jobspy/indeed",
@@ -11142,7 +11142,7 @@
   "paid": "yes",
   "id": "b3f7b5c02c43",
   "first_seen": "2026-10-24T09:56:26.395400+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "600115dc27d9": {
   "source": "jobspy/indeed",
@@ -11157,7 +11157,7 @@
   "paid": "yes",
   "id": "600115dc27d9",
   "first_seen": "2026-10-24T09:56:26.395400+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "b8606ac81c58": {
   "source": "jobspy/indeed",
@@ -11202,7 +11202,7 @@
   "paid": "yes",
   "id": "0b1858a93156",
   "first_seen": "2026-10-24T14:59:16.394282+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "bf32c6299c00": {
   "source": "jobspy/indeed",
@@ -11217,7 +11217,7 @@
   "paid": "yes",
   "id": "bf32c6299c00",
   "first_seen": "2026-10-24T14:59:16.394282+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "9a992a8c0195": {
   "source": "jobspy/indeed",
@@ -11262,7 +11262,7 @@
   "paid": "yes",
   "id": "b0cfd658b066",
   "first_seen": "2026-10-24T14:59:16.394282+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "d742fe2a6d20": {
   "source": "jobspy/naukri",
@@ -11277,7 +11277,7 @@
   "paid": "yes",
   "id": "d742fe2a6d20",
   "first_seen": "2026-10-24T14:59:16.394282+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "87dcbe7d5651": {
   "source": "jobspy/indeed",
@@ -11292,7 +11292,7 @@
   "paid": "yes",
   "id": "87dcbe7d5651",
   "first_seen": "2026-10-24T14:59:16.394282+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "4001fc0cc411": {
   "source": "jobspy/indeed",
@@ -11322,7 +11322,7 @@
   "paid": "yes",
   "id": "b1bc72ac3eb1",
   "first_seen": "2026-10-24T14:59:16.394282+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "826bbead1a09": {
   "source": "jobspy/indeed",
@@ -11337,7 +11337,7 @@
   "paid": "yes",
   "id": "826bbead1a09",
   "first_seen": "2026-10-24T14:59:16.394282+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  },
  "a250d0ad70c2": {
   "source": "jobspy/indeed",
@@ -11352,6 +11352,81 @@
   "paid": "yes",
   "id": "a250d0ad70c2",
   "first_seen": "2026-10-24T14:59:16.394282+00:00",
-  "last_seen": "2026-10-24T14:59:16.394282+00:00"
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
+ },
+ "7cf2959f8a26": {
+  "source": "Telegram/freshershunt",
+  "title": "🚨",
+  "company": "",
+  "url": "https://freshershunt.in/accenture-ai-ml-associate-2026/",
+  "location": "",
+  "remote": null,
+  "pay": "",
+  "posted": "2026-10-24T12:32:13+00:00",
+  "text": "🚨 𝗔𝗖𝗖𝗘𝗡𝗧𝗨𝗥𝗘 — 𝗔𝗜/𝗠𝗟 𝗖𝗼𝗺𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 (𝟮 𝗢𝗽𝗲𝗻𝗶𝗻𝗴𝘀)! 🎯 🏢 Company: Accenture 💼 Role: AI/ML Computational Science Associate | AIOC-S01665346 & AIOC-S01665344 📍 Location: Bengaluru 💰 Salary: Not disclosed (Reported ₹3.2–4.5 LPA) 🎓 Eligibility: B.E / B.Tech 💼 Experience: 0–1 year (Freshers welcome) 🔗 https://freshershunt.in/accenture-ai-ml-associate-2026/ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ 📺 𝐇𝐨𝐰 𝐭𝐨 𝐀𝐩𝐩𝐥𝐲: https://youtu.be/Q4afjdBqZio 💬 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐖𝗵𝗮𝘁𝘀𝗔𝗽𝗽: https://freshershunt.in/WhatsApp 📢 𝐉𝐨𝐢𝐧 𝐓𝐞𝗹𝐞𝐠𝐫𝐚𝐦: https://telegram.me/freshershunt",
+  "paid": "yes",
+  "id": "7cf2959f8a26",
+  "first_seen": "2026-10-24T19:55:58.689736+00:00",
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
+ },
+ "93dd58866b8d": {
+  "source": "Telegram/freshershunt",
+  "title": "🚨",
+  "company": "",
+  "url": "http://amberstudent.com/",
+  "location": "",
+  "remote": null,
+  "pay": "",
+  "posted": "2026-10-24T13:32:20+00:00",
+  "text": "🚨 𝗔𝗠𝗕𝗘𝗥 — 𝗔𝗜 + 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗿𝗻! 🎯 🏢 Company: Amber ( amberstudent.com ) 💼 Role: AI + Software Engineering Intern | Job 144342 📍 Location: Pune 💰 Salary: Not disclosed (Earlier Amber AI intern ~₹25K/month) 🎓 Eligibility: Pursuing / recent CS or Engineering graduates 💼 Experience: Freshers (0 years) 🛠️ Skills: React, Node.js, Python, APIs, Cursor / Claude Code / Codex 🔗 https://freshershunt.in/amber-internship-2026/ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ 📺 𝐇𝐨𝐰 𝐭𝐨 𝐀𝐩𝐩𝐥𝐲: https://youtu.be/Q4afjdBqZio 💬 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐖𝗵𝗮𝘁𝘀𝗔𝗽𝗽: https://freshershunt.in/WhatsApp 📢 𝐉𝐨𝐢𝐧 𝐓𝐞𝗹𝐞𝐠𝐫𝐚𝐦: https://telegram.me/freshers",
+  "paid": "yes",
+  "id": "93dd58866b8d",
+  "first_seen": "2026-10-24T19:55:58.689736+00:00",
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
+ },
+ "39ca0c526b48": {
+  "source": "Telegram/freshershunt",
+  "title": "🚨",
+  "company": "",
+  "url": "https://freshershunt.in/wipro-graduate-engineer-trainee-2026/",
+  "location": "",
+  "remote": null,
+  "pay": "",
+  "posted": "2026-10-24T15:34:37+00:00",
+  "text": "🚨 𝗪𝗜𝗣𝗥𝗢 — 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗧𝗿𝗮𝗶𝗻𝗲𝗲 (𝗠𝗮𝗻𝘂𝗮𝗹 𝗧𝗲𝘀𝘁𝗶𝗻𝗴)! 🎯 🏢 Company: Wipro 💼 Role: Graduate Engineer Trainee – Manual Testing | Job 212634 💰 Salary: Not disclosed 🎓 Eligibility: B.Tech / BE (CS, IT, ECE) or MCA – pass-outs only 💼 Experience: Freshers ⚠️ Note: 12-month service agreement | Gate assessment before interview 🔗 https://freshershunt.in/wipro-graduate-engineer-trainee-2026/ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ ➖ 📺 𝐇𝐨𝐰 𝐭𝐨 𝐀𝐩𝐩𝐥𝐲: https://youtu.be/Q4afjdBqZio 💬 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐖𝗵𝗮𝘁𝘀𝗔𝗽𝗽: https://freshershunt.in/WhatsApp 📢 𝐉𝐨𝐢𝐧 𝐓𝐞𝗹𝐞𝐠𝐫𝐚𝐦: https://telegram.me/freshershunt",
+  "paid": "yes",
+  "id": "39ca0c526b48",
+  "first_seen": "2026-10-24T19:55:58.689736+00:00",
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
+ },
+ "56ac250cb531": {
+  "source": "jobspy/indeed",
+  "title": "AI/ML Intern",
+  "company": "BExO",
+  "url": "https://in.indeed.com/viewjob?jk=42c1a604d66a8f95",
+  "location": "PB, India",
+  "remote": null,
+  "pay": "5000.0-8000.0 INR/monthly",
+  "posted": "2026-10-24T00:00:00+00:00",
+  "text": "AI/ML Internship (2 Months) – BEXO.AI | Mohali (On-site) **Job Title:** AI/ML Intern **Location:** Mohali, Punjab **Duration:** 2 Months **Job Type:** Internship (On-site) About BEXO.AI BEXO.AI is a technology-driven company focused on building innovative AI-powered solutions. We are looking for enthusiastic students and fresh graduates who are eager to gain practical experience in Artificial Intelligence and Machine Learning by working on real-world projects under the guidance of experienced mentors. What You'll Learn * Machine Learning fundamentals and model development * Deep Learning conce",
+  "paid": "yes",
+  "id": "56ac250cb531",
+  "first_seen": "2026-10-24T19:55:58.689736+00:00",
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
+ },
+ "ea6c6f40243d": {
+  "source": "jobspy/indeed",
+  "title": "Mechanical Design Intern",
+  "company": "Stalwarts Servicios",
+  "url": "https://in.indeed.com/viewjob?jk=4669225a05e5ded0",
+  "location": "MH, India",
+  "remote": null,
+  "pay": "10000.0-20000.0 INR/monthly",
+  "posted": "2026-10-23T00:00:00+00:00",
+  "text": "**Engineering Intern – Electrical & Mechanical** Assist the engineering team with design, testing, maintenance, documentation, and basic technical projects. Candidates should have a background in Electrical or Mechanical Engineering, with good analytical and problem-solving skills. Pay: ₹10,000.00 - ₹20,000.00 per month Work Location: In person",
+  "paid": "yes",
+  "id": "ea6c6f40243d",
+  "first_seen": "2026-10-24T19:55:58.689736+00:00",
+  "last_seen": "2026-10-24T19:55:58.689736+00:00"
  }
 }
