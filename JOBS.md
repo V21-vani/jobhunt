@@ -1,28 +1,33 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-10-25 10:18 UTC · 774 active · 5 new this run · 3790 raw listings scanned_
+_Updated 2026-10-25 15:11 UTC · 778 active · 4 new this run · 3786 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Web Development | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-diffzene1792909203) |
-| Cyber Security | Diffzene Actively hiring | Work from home | ₹ 8,000 - 16,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-cyber-security-internship-at-diffzene1792908921) |
-| Machine Learning | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1792908993) |
-| Internship HR Intern | MAHASHANKH DESIGN | Remote, India | 3000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=7ecf85e62376982d) |
-| QA Analyst B.Pharma Fresher . | HR Remedy India | Pune, Chhatrapati Sambhajinagar, Mumbai (All Areas), India | 250000.0-350000.0 INR/yearly (yes) | jobspy/naukri | 2026-10-25 | [Apply](https://www.naukri.com/job-listings-qa-analyst-b-pharma-fresher-hr-remedy-india-pune-chhatrapati-sambhajinagar-mumbai-all-areas-0-to-0-years-251026004523) |
+| Machine Learning Intern | Perfect Containers | Palghar(Palghar West +3), India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-25 | [Apply](https://www.naukri.com/job-listings-machine-learning-intern-perfect-containers-palghar-0-to-1-years-251026004695) |
+| Robotics Intern | Cloud Application | MH, India | 8000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=8d9616bc013d49bd) |
+| Management Intern – Market Research & Growth Strategy | Transdigital Technology Services | MH, India | 15000.0-40000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=660c336a1d877a5c) |
+| Web Developer Intern | We-intern | Remote, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=a2f64fc822a95133) |
 
 ## All active (newest first)
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Machine Learning Intern | Perfect Containers | Palghar(Palghar West +3), India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-25 | [Apply](https://www.naukri.com/job-listings-machine-learning-intern-perfect-containers-palghar-0-to-1-years-251026004695) |
 | Web Development | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-diffzene1792909203) |
 | Cyber Security | Diffzene Actively hiring | Work from home | ₹ 8,000 - 16,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-cyber-security-internship-at-diffzene1792908921) |
 | Machine Learning | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1792908993) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-25 | [Apply](https://freshershunt.in/infosys-off-campus-drive-2027/) |
+| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-10-25 | [Apply](https://www.fresheroffcampus.com/ntt-data-off-campus/) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-25 | [Apply](https://freshershunt.in/capgemini-off-campus-drive-2026/) |
 | Full Stack Development | Blog Haveli | Work from home | ₹ 2,000 - 5,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-blog-haveli1792855015) |
 | 🏡 |  | - | - (yes) | Telegram/freshershunt | 2026-10-25 | [Apply](https://freshershunt.in/amazon-work-from-home-2026-ml-data-operations-associate/) |
 | Internship HR Intern | MAHASHANKH DESIGN | Remote, India | 3000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=7ecf85e62376982d) |
 | QA Analyst B.Pharma Fresher . | HR Remedy India | Pune, Chhatrapati Sambhajinagar, Mumbai (All Areas), India | 250000.0-350000.0 INR/yearly (yes) | jobspy/naukri | 2026-10-25 | [Apply](https://www.naukri.com/job-listings-qa-analyst-b-pharma-fresher-hr-remedy-india-pune-chhatrapati-sambhajinagar-mumbai-all-areas-0-to-0-years-251026004523) |
+| Robotics Intern | Cloud Application | MH, India | 8000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=8d9616bc013d49bd) |
+| Management Intern – Market Research & Growth Strategy | Transdigital Technology Services | MH, India | 15000.0-40000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=660c336a1d877a5c) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-24 | [Apply](https://freshershunt.in/wipro-service-desk-analyst-2026/) |
 | Developer Intern, Data Security - Winter 2027 | 1Password | Canada, USA | - (yes) | Jobicy | 2026-10-24 | [Apply](https://jobicy.com/jobs/156809-developer-intern-data-security-winter-2027) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-24 | [Apply](https://freshershunt.in/virtusa-off-campus-drive-2026/) |
@@ -37,9 +42,7 @@ _Updated 2026-10-25 10:18 UTC · 774 active · 5 new this run · 3790 raw listin
 | Python Development | Evolvra Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-24 | [Apply](https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evolvra1792820925) |
 | Data Analytics | Evolvra Actively hiring | Work from home | ₹ 10,000 - 21,000 /month (yes) | Internshala | 2026-10-24 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-evolvra1792820532) |
 | Data Intern | Antara Senior Care | Gurugram(Sector 44), India | 10000.0-10000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-24 | [Apply](https://www.naukri.com/job-listings-data-intern-antara-senior-care-gurugram-0-to-1-years-241026005718) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-24 | [Apply](https://freshershunt.in/infosys-off-campus-drive-2027/) |
 | Sales Associate - SMB | YipitData | USA | - (yes) | Jobicy | 2026-10-24 | [Apply](https://jobicy.com/jobs/151351-sales-associate-smb) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-24 | [Apply](https://freshershunt.in/capgemini-off-campus-drive-2026/) |
 | Web Development | BuildGuru Digital Application Private Limited | Work from home | ₹ 8,000 - 16,000 /month (yes) | Internshala | 2026-10-24 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-buildguru-digital-application-private-limited1792781573) |
 | Full Stack Development | Ascar Labs Actively hiring | Work from home | ₹ 10,000 - 12,000 /month (yes) | Internshala | 2026-10-24 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-ascar-labs1792736662) |
 | AI/ML Intern | WeIntern | MH, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=114a43aaa6ac4e4c) |
@@ -64,6 +67,7 @@ _Updated 2026-10-25 10:18 UTC · 774 active · 5 new this run · 3790 raw listin
 | Technical Intern/Trainee – VLSI | Cranes Varsity | KA, India | 100000.0-300000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=86ffb9618e24825b) |
 | Inside Sales Intern | REZOV TECHNOLOGIES PVT LTD | TN, India | - (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=49ebac6e55019fd5) |
 | Backend Developer Intern | BURAK METERING PRIVATE LIMITED | MH, India | 3000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=f2e08db54c2db16c) |
+| Web Developer Intern | We-intern | Remote, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=a2f64fc822a95133) |
 | Business Development Associate | Kernelshore Actively hiring | Work from home | - (yes) | Internshala | 2026-10-23 | [Apply](https://internshala.com/job/detail/fresher-remote-business-development-associate-job-at-kernelshore1790328534) |
 | Mobile App Testing | Joysparkkk Games Private Limited. | Work from home | ₹ 3,000 - 5,000 /month (yes) | Internshala | 2026-10-23 | [Apply](https://internshala.com/internship/detail/work-from-home-mobile-app-testing-internship-at-joysparkkk-games-private-limited1792759987) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-23 | [Apply](https://link.outskill.com/A-11) |
@@ -265,7 +269,6 @@ _Updated 2026-10-25 10:18 UTC · 774 active · 5 new this run · 3790 raw listin
 | AI Filmmaker & Micro-Drama Creator Intern | Prowess Publishing | Himayathnagar, India | 10000.0-10000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-20 | [Apply](https://www.naukri.com/job-listings-ai-filmmaker-micro-drama-creator-intern-prowess-publishing-himayathnagar-0-to-1-years-211026000008) |
 | 🚀 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-10-20 | [Apply](https://www.fresheroffcampus.com/lowes-off-campus-hiring-fresher/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-20 | [Apply](https://freshershunt.in/infosys-edgeverve-off-campus-drive-2026/) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-10-20 | [Apply](https://www.fresheroffcampus.com/ntt-data-off-campus/) |
 | Python Development | EvoNexis Actively hiring | Work from home | ₹ 10,000 - 20,000 /month (yes) | Internshala | 2026-10-20 | [Apply](https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evonexis1792476515) |
 | Data Analyst | Emoolar Technology Private Limited Actively hiring | Work from home | ₹ 7,000 - 8,000 /month (yes) | Internshala | 2026-10-20 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analyst-internship-at-emoolar-technology-private-limited1792480577) |
 | Data Analytics | EvoNexis Actively hiring | Work from home | ₹ 15,000 - 25,000 /month (yes) | Internshala | 2026-10-20 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-evonexis1792476902) |
@@ -412,27 +415,23 @@ _Updated 2026-10-25 10:18 UTC · 774 active · 5 new this run · 3790 raw listin
 | Software Internship For B.E/B.Tech Students | Seven Consultancy | India | - (?) | jobspy/naukri | 2026-10-18 | [Apply](https://www.naukri.com/job-listings-software-internship-for-b-e-b-tech-students-seven-consultancy-mumbai-0-to-1-years-090926030431) |
 | Software Internship For B.E/B.Tech Students | Seven Consultancy | India | - (?) | jobspy/naukri | 2026-10-18 | [Apply](https://www.naukri.com/job-listings-software-internship-for-b-e-b-tech-students-seven-consultancy-hyderabad-0-to-1-years-100926005898) |
 | AI/ML Intern | Aahana Electromation | Ahmedabad, India | - (?) | jobspy/naukri | 2026-10-18 | [Apply](https://www.naukri.com/job-listings-ai-ml-intern-aahana-electromation-ahmedabad-0-to-1-years-161026500376) |
-| SDE Intern - Backend | Cloudsek Information Security | Bengaluru, India | - (?) | jobspy/naukri | 2026-10-18 | [Apply](https://www.naukri.com/job-listings-sde-intern-backend-cloudsek-information-security-private-limited-bengaluru-0-to-1-years-141026502837) |
-| SDET Intern | SS Supply Chain Solutions | Gurugram, India | - (?) | jobspy/naukri | 2026-10-18 | [Apply](https://www.naukri.com/job-listings-sdet-intern-ss-supply-chain-solutions-pvt-ltd-gurugram-0-to-1-years-141026502585) |
-| Software Developer Intern | New Indictrans Technologies | Pune, India | - (?) | jobspy/naukri | 2026-10-18 | [Apply](https://www.naukri.com/job-listings-software-developer-intern-new-indictrans-technologies-pvt-ltd-pune-0-to-1-years-131026500481) |
-| Associate Database Engineer | Baker Tilly Dhc | Bengaluru, India | - (?) | jobspy/naukri | 2026-10-18 | [Apply](https://www.naukri.com/job-listings-associate-database-engineer-baker-tilly-dhc-bengaluru-2-to-7-years-121026503460) |
 
 ## Source health
 
-- **amazon**: 40 fetched → 0 matched
+- **amazon**: 39 fetched → 0 matched
 - **remotive**: 50 fetched → 0 matched
 - **remoteok**: 99 fetched → 0 matched
 - **weworkremotely**: 120 fetched → 0 matched
 - **himalayas**: 100 fetched → 0 matched
 - **arbeitnow**: 900 fetched → 0 matched
-- **jobicy**: 115 fetched → 1 matched
+- **jobicy**: 116 fetched → 1 matched
 - **hn_whoishiring**: 396 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
-- **telegram**: 100 fetched → 14 matched
+- **telegram**: 100 fetched → 17 matched
 - **internshala**: 480 fetched → 34 matched
 - **unstop**: 60 fetched → 0 matched
 - **yc**: 38 fetched → 0 matched
-- **jobspy**: 719 fetched → 85 matched
+- **jobspy**: 715 fetched → 102 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
