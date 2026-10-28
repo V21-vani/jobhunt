@@ -1,16 +1,13 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-10-27 21:33 UTC · 560 active · 5 new this run · 3801 raw listings scanned_
+_Updated 2026-10-28 02:51 UTC · 542 active · 2 new this run · 3892 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Computer Operator | JP IT STAFFING LLC Actively hiring | Work from home | ₹ 2,000 - 4,000 /month (yes) | Internshala | 2026-10-27 | [Apply](https://internshala.com/internship/detail/work-from-home-computer-operator-internship-at-jp-it-staffing-llc1792730179) |
-| Wells Fargo Is Hiring For Technology Program Intern |  | - | - (yes) | Telegram/internfreak | 2026-10-27 | [Apply](https://tinyurl.com/5vv6ckns) |
-| Social Media Marketing Intern | Codingclave Development | UP, India | 6000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-27 | [Apply](https://in.indeed.com/viewjob?jk=214b8e5294660d67) |
-| Content Writing Intern | evolvenowmedia | MH, India | 7000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-27 | [Apply](https://in.indeed.com/viewjob?jk=aff99fd5ab67bec8) |
-| Graduate Engineer Trainee - Telecom (Field Role) | Indus Towers | Madurai, Tiruchirappalli(Trichy), Coimbatore, India | 400000.0-400000.0 INR/yearly (yes) | jobspy/naukri | 2026-10-27 | [Apply](https://www.naukri.com/job-listings-graduate-engineer-trainee-telecom-field-role-indus-towers-madurai-tiruchirappalli-coimbatore-0-to-1-years-040925024941) |
+| Blockchain Developer Intern | Wiseway Technologies Pvt Ltd | PB, India | 4000.0- INR/monthly (yes) | jobspy/indeed | 2026-10-27 | [Apply](https://in.indeed.com/viewjob?jk=52b863f1fb84c813) |
+| Sales Executive/Intern/Trainee | Cranes Varsity | KA, India | 15000.0-18000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-27 | [Apply](https://in.indeed.com/viewjob?jk=9305854ff8fd134b) |
 
 ## All active (newest first)
 
@@ -69,6 +66,8 @@ _Updated 2026-10-27 21:33 UTC · 560 active · 5 new this run · 3801 raw listin
 | Social Media Marketing Intern | Codingclave Development | UP, India | 6000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-27 | [Apply](https://in.indeed.com/viewjob?jk=214b8e5294660d67) |
 | Content Writing Intern | evolvenowmedia | MH, India | 7000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-27 | [Apply](https://in.indeed.com/viewjob?jk=aff99fd5ab67bec8) |
 | Graduate Engineer Trainee - Telecom (Field Role) | Indus Towers | Madurai, Tiruchirappalli(Trichy), Coimbatore, India | 400000.0-400000.0 INR/yearly (yes) | jobspy/naukri | 2026-10-27 | [Apply](https://www.naukri.com/job-listings-graduate-engineer-trainee-telecom-field-role-indus-towers-madurai-tiruchirappalli-coimbatore-0-to-1-years-040925024941) |
+| Blockchain Developer Intern | Wiseway Technologies Pvt Ltd | PB, India | 4000.0- INR/monthly (yes) | jobspy/indeed | 2026-10-27 | [Apply](https://in.indeed.com/viewjob?jk=52b863f1fb84c813) |
+| Sales Executive/Intern/Trainee | Cranes Varsity | KA, India | 15000.0-18000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-27 | [Apply](https://in.indeed.com/viewjob?jk=9305854ff8fd134b) |
 | Engineer I | College Board | United States | 106000-125000 USD (yes) | Himalayas | 2026-10-26 | [Apply](https://himalayas.app/companies/college-board/jobs/engineer-i?utm_source=api) |
 | PhD Researcher, Agentic 3D Modeling in Immersive Environments | Autodesk | United States | 118560-162240 USD (yes) | Himalayas | 2026-10-26 | [Apply](https://himalayas.app/companies/autodesk/jobs/phd-researcher-agentic-3d-modeling-in-immersive-environments-356838399?utm_source=api) |
 | Bioinformatics | Orvionar Tech Actively hiring | Work from home | ₹ 26,000 - 41,000 /month (yes) | Internshala | 2026-10-26 | [Apply](https://internshala.com/internship/detail/work-from-home-bioinformatics-internship-at-orvionar-tech1793018913) |
@@ -403,9 +402,7 @@ _Updated 2026-10-27 21:33 UTC · 560 active · 5 new this run · 3801 raw listin
 | Data Analytics | EvoNexis Actively hiring | Work from home | ₹ 15,000 - 25,000 /month (yes) | Internshala | 2026-10-20 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-evonexis1792476902) |
 | 🚀 |  | - | - (yes) | Telegram/freshershunt | 2026-10-20 | [Apply](https://kickcharm.com/burntwork-work-from-home-hiring-freshers/) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-10-20 | [Apply](https://www.fresheroffcampus.com/zs-off-campus/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-20 | [Apply](https://freshershunt.in/kulfi-software-engineer-2026/) |
 | Data Science Intern | Hashbrown systems Pvt. Ltd. | PB, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-20 | [Apply](https://in.indeed.com/viewjob?jk=1c225d9b67bdce9b) |
-| Quiz & Game Innovation Intern/Associate | DubDub | Remote, India | 8200.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-20 | [Apply](https://in.indeed.com/viewjob?jk=0b407e71080496bc) |
 | Digital marketing intern | Cornixe | Remote, India | 2000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-20 | [Apply](https://in.indeed.com/viewjob?jk=fafa3da8d25e20f6) |
 | Software Trainee | NOXLAY | TN, India | 6000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-20 | [Apply](https://in.indeed.com/viewjob?jk=24c0d8db9f6d21d0) |
 | Data Entry Operator/Computer Operator | BajriX | Remote, India | 8000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-20 | [Apply](https://in.indeed.com/viewjob?jk=5d46d683f17cca1e) |
@@ -428,11 +425,11 @@ _Updated 2026-10-27 21:33 UTC · 560 active · 5 new this run · 3801 raw listin
 - **jobicy**: 121 fetched → 1 matched
 - **hn_whoishiring**: 393 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
-- **telegram**: 100 fetched → 12 matched
-- **internshala**: 512 fetched → 38 matched
+- **telegram**: 100 fetched → 11 matched
+- **internshala**: 512 fetched → 37 matched
 - **unstop**: 60 fetched → 0 matched
 - **yc**: 40 fetched → 0 matched
-- **jobspy**: 692 fetched → 103 matched
+- **jobspy**: 771 fetched → 75 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -440,4 +437,4 @@ _Updated 2026-10-27 21:33 UTC · 560 active · 5 new this run · 3801 raw listin
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 4 workday sites, 571 title-matched postings; 59 companies tracked → 1 matched
+- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 4 workday sites, 583 title-matched postings; 59 companies tracked → 0 matched
