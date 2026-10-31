@@ -1,24 +1,6 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-10-30 21:45 UTC · 576 active · 13 new this run · 3771 raw listings scanned_
-
-## New this run
-
-| Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
-|---|---|---|---|---|---|---|
-| Web Development | MaVionix India Private Limited | Work from home | ₹ 1,200 - 2,000 /month (yes) | Internshala | 2026-10-30 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-mavionix-india-private-limited1793379366) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-10-30 | [Apply](https://www.fresheroffcampus.com/salesforce-off-campus-intern/) |
-| Legal Intern | TechPeek Magnus Solutions Pvt. Ltd. | MH, India | 5000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=ee3354121c53cc97) |
-| Digital Marketing Intern | scaalable | Remote, India | 1000.0- INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=a6ed627200034d51) |
-| Social Media Intern | lunetron web services | Remote, India | 2000.0-6000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=f6cfbf499f0e6977) |
-| Social Media Intern | 303 Bizquality Marketing LLP | MH, India | 8000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=896380021ef4f287) |
-| Brand Partnerships Intern | TheBoredMonkey Studios | MH, India | 8000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=b0ab7a11dd040203) |
-| Data Analyst Intern | Amaze Healthcare Pvt ltd | MH, India | 10000.0-22000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=6eee773fc8c3a1eb) |
-| Specialist Programmer (Trainee) | Infosys | Hyderabad, Bengaluru, Delhi / NCR, India | 1100000.0-2100000.0 INR/yearly (yes) | jobspy/naukri | 2026-10-30 | [Apply](https://www.naukri.com/job-listings-specialist-programmer-trainee-infosys-hyderabad-bengaluru-delhi-ncr-0-to-2-years-151026016759) |
-| Graduate Engineer Trainee (Production) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=aed343afa2a00ae9) |
-| Graduate Engineer Trainee - Mechanical /Chemical Engineering | Stalwarts Servicios | TN, India | 20000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=48fda2ef1c0fb3e1) |
-| Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=ddb7501cd6d2589d) |
-| Production Engineer Trainee | SRG Power Control System | TN, India | 14000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=6d779f5ddf1d2679) |
+_Updated 2026-10-31 03:00 UTC · 564 active · 0 new this run · 3753 raw listings scanned_
 
 ## All active (newest first)
 
@@ -374,7 +356,6 @@ _Updated 2026-10-30 21:45 UTC · 576 active · 13 new this run · 3771 raw listi
 | Data Analytics | Evolvra Actively hiring | Work from home | ₹ 10,000 - 21,000 /month (yes) | Internshala | 2026-10-24 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-evolvra1792820532) |
 | Data Intern | Antara Senior Care | Gurugram(Sector 44), India | 10000.0-10000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-24 | [Apply](https://www.naukri.com/job-listings-data-intern-antara-senior-care-gurugram-0-to-1-years-241026005718) |
 | Sales Associate - SMB | YipitData | USA | - (yes) | Jobicy | 2026-10-24 | [Apply](https://jobicy.com/jobs/151351-sales-associate-smb) |
-| Web Development | BuildGuru Digital Application Private Limited | Work from home | ₹ 8,000 - 16,000 /month (yes) | Internshala | 2026-10-24 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-buildguru-digital-application-private-limited1792781573) |
 | Full Stack Development | Ascar Labs Actively hiring | Work from home | ₹ 10,000 - 12,000 /month (yes) | Internshala | 2026-10-24 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-ascar-labs1792736662) |
 | AI/ML Intern | WeIntern | MH, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=114a43aaa6ac4e4c) |
 | AI/ML Intern | WeIntern | Remote, India | 110000.0-290000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=48b7d5be93863f63) |
@@ -405,7 +386,6 @@ _Updated 2026-10-30 21:45 UTC · 576 active · 13 new this run · 3771 raw listi
 | Video Creator Intern | Sun City Power Tech | KL, India | 3000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-24 | [Apply](https://in.indeed.com/viewjob?jk=7faf5d9b065f1c27) |
 | Business Development Associate | Kernelshore Actively hiring | Work from home | - (yes) | Internshala | 2026-10-23 | [Apply](https://internshala.com/job/detail/fresher-remote-business-development-associate-job-at-kernelshore1790328534) |
 | Mobile App Testing | Joysparkkk Games Private Limited. | Work from home | ₹ 3,000 - 5,000 /month (yes) | Internshala | 2026-10-23 | [Apply](https://internshala.com/internship/detail/work-from-home-mobile-app-testing-internship-at-joysparkkk-games-private-limited1792759987) |
-| Insights Associate - Retail | YipitData | USA | - (yes) | Jobicy | 2026-10-23 | [Apply](https://jobicy.com/jobs/156625-insights-associate-retail) |
 | Web Developer Intern | Biztransights Solutions | Nagpur, India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-23 | [Apply](https://www.naukri.com/job-listings-web-developer-intern-biztransights-solutions-nagpur-0-to-1-years-231026031903) |
 | Data Entry Operator Intern | De Corporate Consulting Pvt. Ltd | Chandigarh(IT Park), India | 5000.0-5000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-23 | [Apply](https://www.naukri.com/job-listings-data-entry-operator-intern-de-corporate-consulting-pvt-ltd-chandigarh-0-to-1-years-231026031418) |
 | Growth Marketing & Consumer Research Intern | Defit | Bengaluru(Sector 2 HSR Layout), India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-23 | [Apply](https://www.naukri.com/job-listings-growth-marketing-consumer-research-intern-defit-bengaluru-0-to-1-years-231026027945) |
@@ -424,6 +404,8 @@ _Updated 2026-10-30 21:45 UTC · 576 active · 13 new this run · 3771 raw listi
 | Front End Development | JP IT STAFFING LLC Actively hiring | Work from home | ₹ 2,000 - 4,000 /month (yes) | Internshala | 2026-10-23 | [Apply](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-jp-it-staffing-llc1792730265) |
 | Machine Learning | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-23 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1792732664) |
 | It Support Intern | Cardinal Health | Bengaluru, India | 25000.0-25000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-23 | [Apply](https://www.naukri.com/job-listings-it-support-intern-cardinal-health-bengaluru-0-to-1-years-231026026246) |
+| Devops Intern | IntrCity SmartBus | Noida(Sector 9), India | 16000.0-16000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-23 | [Apply](https://www.naukri.com/job-listings-devops-intern-intrcity-smartbus-noida-0-to-1-years-231026016491) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-23 | [Apply](https://freshershunt.in/visa-off-campus-drive-2026/) |
 
 ## Source health
 
@@ -436,11 +418,11 @@ _Updated 2026-10-30 21:45 UTC · 576 active · 13 new this run · 3771 raw listi
 - **jobicy**: 16 fetched → 1 matched
 - **hn_whoishiring**: 391 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
-- **telegram**: 100 fetched → 13 matched
+- **telegram**: 100 fetched → 11 matched
 - **internshala**: 513 fetched → 30 matched
 - **unstop**: 59 fetched → 0 matched
 - **yc**: 41 fetched → 0 matched
-- **jobspy**: 760 fetched → 103 matched
+- **jobspy**: 744 fetched → 84 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -448,4 +430,4 @@ _Updated 2026-10-30 21:45 UTC · 576 active · 13 new this run · 3771 raw listi
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 4 workday sites, 568 title-matched postings; 59 companies tracked → 0 matched
+- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 4 workday sites, 566 title-matched postings; 59 companies tracked → 0 matched
