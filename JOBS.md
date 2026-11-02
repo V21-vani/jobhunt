@@ -1,22 +1,6 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-11-01 21:26 UTC · 578 active · 11 new this run · 3551 raw listings scanned_
-
-## New this run
-
-| Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
-|---|---|---|---|---|---|---|
-| Flutter Development | Sankar Group Actively hiring | Work from home | ₹ 3,000 - 3,001 /month (yes) | Internshala | 2026-11-01 | [Apply](https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-sankar-group1793558032) |
-| Startup Research | Sankar Group Actively hiring | Work from home | ₹ 3,000 - 3,001 /month (yes) | Internshala | 2026-11-01 | [Apply](https://internshala.com/internship/detail/work-from-home-startup-research-internship-at-sankar-group1793555407) |
-| Web Development | QUANTARA X TECHNOLOGIES | Work from home | ₹ 3,000 - 10,000 /month (yes) | Internshala | 2026-11-01 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-quantara-x-technologies1793553349) |
-| Entry Level Sales Rep (remote work) | Agent Alliance Inc. | USA Only | - (yes) | WeWorkRemotely | 2026-11-01 | [Apply](https://weworkremotely.com/remote-jobs/agent-alliance-inc-entry-level-sales-rep-remote-work) |
-| 💼 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-01 | [Apply](https://www.fresheroffcampus.com/dassault-systemes-off-campus/) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-01 | [Apply](https://www.fresheroffcampus.com/eaton-off-campus-hiring-fresher/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-01 | [Apply](https://freshershunt.in/scopely-internship-2027/) |
-| Full Stack Developer Intern | Shine Infosolutions | UP, India | 8000.0-40000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-01 | [Apply](https://in.indeed.com/viewjob?jk=2799e8a4c831a66a) |
-| AI Video Editor Internship | SS BROTHERS | Remote, India | 5000.0-6000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-01 | [Apply](https://in.indeed.com/viewjob?jk=1e2f5a63fd05b241) |
-| Network Intern | NEXASEC CYBER SOLUTION | KL, India | 8000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-01 | [Apply](https://in.indeed.com/viewjob?jk=e6a0c8eb98321404) |
-| Marketing Engineer Trainee | Ashwani Kumar Lakhanpal | Mohali(Industrial Area Phase 9), India | 175000.0-250000.0 INR/yearly (yes) | jobspy/naukri | 2026-11-01 | [Apply](https://www.naukri.com/job-listings-marketing-engineer-trainee-ashwani-kumar-lakhanpal-mohali-0-to-2-years-011126003938) |
+_Updated 2026-11-02 03:04 UTC · 557 active · 0 new this run · 3616 raw listings scanned_
 
 ## All active (newest first)
 
@@ -411,9 +395,6 @@ _Updated 2026-11-01 21:26 UTC · 578 active · 11 new this run · 3551 raw listi
 | Artificial Intelligence (AI) | Emoolar Technology Private Limited Actively hiring | Work from home | ₹ 8,000 - 9,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-emoolar-technology-private-limited1792953439) |
 | Data Analytics | Emoolar Technology Private Limited Actively hiring | Work from home | ₹ 7,000 - 8,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-emoolar-technology-private-limited1792953508) |
 | Full Stack Development | Emoolar Technology Private Limited Actively hiring | Work from home | ₹ 7,500 - 9,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-emoolar-technology-private-limited1792952352) |
-| Business Development ( Medical Sales ) | Qualitymind Private Limited | Work from home | ₹ 1,000 - 10,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-business-development--medical-sales--internship-at-qualitymind-private-limited1792572345) |
-| Corporate Engagement | REGex Software Services | Work from home | ₹ 2,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-corporate-engagement-internship-at-regex-software-services1792051869) |
-| Web Development | Etthos | Work from home | ₹ 1,500 - 2,500 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-etthos1792946798) |
 | Business Development Internship | Pinak Institute | - | - (yes) | Unstop | 2026-10-25 | [Apply](https://unstop.com/internships/business-development-internship-pinak-institute-1776785) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-25 | [Apply](https://freshershunt.in/virtusa-off-campus-drive-2026/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-25 | [Apply](https://freshershunt.in/wipro-service-desk-analyst-2026/) |
@@ -422,6 +403,9 @@ _Updated 2026-11-01 21:26 UTC · 578 active · 11 new this run · 3551 raw listi
 | Cyber Security | Diffzene Actively hiring | Work from home | ₹ 8,000 - 16,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-cyber-security-internship-at-diffzene1792908921) |
 | Machine Learning | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-25 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1792908993) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-10-25 | [Apply](https://www.fresheroffcampus.com/ntt-data-off-campus/) |
+| Robotics Intern | Cloud Application | MH, India | 8000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=8d9616bc013d49bd) |
+| AI/ML Intern | nature craft organica | PB, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=1f2b11df0c7e9a10) |
+| Generative AI Intern | nature craft organica | PB, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-25 | [Apply](https://in.indeed.com/viewjob?jk=4e8c1d972a8158ed) |
 
 ## Source health
 
@@ -438,7 +422,7 @@ _Updated 2026-11-01 21:26 UTC · 578 active · 11 new this run · 3551 raw listi
 - **internshala**: 510 fetched → 31 matched
 - **unstop**: 59 fetched → 0 matched
 - **yc**: 41 fetched → 0 matched
-- **jobspy**: 545 fetched → 98 matched
+- **jobspy**: 612 fetched → 72 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -446,4 +430,4 @@ _Updated 2026-11-01 21:26 UTC · 578 active · 11 new this run · 3551 raw listi
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 4 workday sites, 562 title-matched postings; 59 companies tracked → 0 matched
+- **ats**: 56/56 boards read, 0 newly dead, 3 known-dead skipped, 0 errors, 4 workday sites, 560 title-matched postings; 59 companies tracked → 0 matched
