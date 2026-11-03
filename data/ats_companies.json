@@ -7,6 +7,7 @@
   "cloudflare",
   "cloudsek",
   "coinbase",
+  "controlplane",
   "databricks",
   "datadog",
   "discord",
@@ -33,6 +34,7 @@
   "verkada"
  ],
  "lever": [
+  "apolloresearch",
   "apryse",
   "cred",
   "curai",
@@ -69,7 +71,9 @@
  "workable": [
   "longshot-syste"
  ],
- "recruitee": [],
+ "recruitee": [
+  "tether"
+ ],
  "_dead": {
   "greenhouse:doordash": "2026-10-18T22:09:13.603467+00:00",
   "lever:plaid": "2026-10-18T22:09:13.603467+00:00",
