@@ -1,26 +1,24 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-11-05 22:59 UTC · 541 active · 10 new this run · 3773 raw listings scanned_
+_Updated 2026-11-06 03:57 UTC · 523 active · 4 new this run · 3740 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-05 | [Apply](https://freshershunt.in/teradata-internship-2027/) |
-| 💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/wolters-kluwer-off-campus-drive/) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/ibm-off-campus-fresher/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-05 | [Apply](https://go.acciojob.com/h4RWgh) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/harman-off-campus/) |
-| Business Intelligence & Analytics Development Intern | Remote Programmer Pvt Ltd | WB, India | - (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=284f742b4300e704) |
-| Web Application Development Intern | Remote Programmer Pvt Ltd | WB, India | - (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=df7a1c395d403d52) |
-| Software Intern in Dart & Flutter | ATRUEBRAND INNOVATION SOLUTIONS PRIVATE LIMITED | MH, India | 5000.0-25000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=859510b4126704e4) |
-| Vibe Coder Intern | Ads 4 media Solution | DL, India | 1000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=2b9b1bdd191ca1f8) |
-| Digital marketing intern | Cornixe | Remote, India | 2000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=870d862a9f21ea01) |
+| Web Development | Sathvik Trade Links | Work from home | ₹ 1,001 - 6,000 /month (yes) | Internshala | 2026-11-06 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-sathvik-trade-links1793932539) |
+| Product Management Associate | Recruit CRM Actively hiring | Work from home | ₹ 7,500 - 20,000 /month (yes) | Internshala | 2026-11-06 | [Apply](https://internshala.com/internship/detail/work-from-home-product-management-associate-internship-at-recruit-crm1793863457) |
+| Junior Business Analyst – Data Mapping | Peraton | United States | 51000-82000 USD (yes) | Himalayas | 2026-11-05 | [Apply](https://himalayas.app/companies/peraton/jobs/junior-business-analyst-data-mapping?utm_source=api) |
+| Junior Business Analyst–Fish & Wildlife Ecological Services | Peraton | United States | 51000-82000 USD (yes) | Himalayas | 2026-11-05 | [Apply](https://himalayas.app/companies/peraton/jobs/junior-business-analyst-fish-wildlife-ecological-services?utm_source=api) |
 
 ## All active (newest first)
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Web Development | Sathvik Trade Links | Work from home | ₹ 1,001 - 6,000 /month (yes) | Internshala | 2026-11-06 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-sathvik-trade-links1793932539) |
+| Product Management Associate | Recruit CRM Actively hiring | Work from home | ₹ 7,500 - 20,000 /month (yes) | Internshala | 2026-11-06 | [Apply](https://internshala.com/internship/detail/work-from-home-product-management-associate-internship-at-recruit-crm1793863457) |
+| Junior Business Analyst – Data Mapping | Peraton | United States | 51000-82000 USD (yes) | Himalayas | 2026-11-05 | [Apply](https://himalayas.app/companies/peraton/jobs/junior-business-analyst-data-mapping?utm_source=api) |
+| Junior Business Analyst–Fish & Wildlife Ecological Services | Peraton | United States | 51000-82000 USD (yes) | Himalayas | 2026-11-05 | [Apply](https://himalayas.app/companies/peraton/jobs/junior-business-analyst-fish-wildlife-ecological-services?utm_source=api) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-05 | [Apply](https://freshershunt.in/teradata-internship-2027/) |
 | 💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/wolters-kluwer-off-campus-drive/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-05 | [Apply](https://freshershunt.in/capgemini-off-campus-drive-2026/) |
@@ -395,24 +393,17 @@ _Updated 2026-11-05 22:59 UTC · 541 active · 10 new this run · 3773 raw listi
 | Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=ddb7501cd6d2589d) |
 | Production Engineer Trainee | SRG Power Control System | TN, India | 14000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=6d779f5ddf1d2679) |
 | Environmental Sustainability Trainee | Green Positive Initiatives | KA, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=7a40ae2471d2e2f4) |
-| 3D Animation | X1 Race LLP Actively hiring | Work from home | ₹ 20,000 - 30,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-3d-animation-internship-at-x1-race-llp1793294879) |
-| WordPress Development | X1 Race LLP Actively hiring | Work from home | ₹ 15,000 - 25,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-x1-race-llp1793283810) |
 | Website Developer | Shigora | Work from home | ₹ 2,000 - 5,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-website-developer-internship-at-shigora1793277309) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-29 | [Apply](https://freshershunt.in/honeywell-off-campus-drive-2027/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-29 | [Apply](https://freshershunt.in/stripe-off-campus-drive-2027/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-29 | [Apply](https://freshershunt.in/harman-internship-2027/) |
 | 🚀 |  | - | - (yes) | Telegram/freshershunt | 2026-10-29 | [Apply](https://kickcharm.com/burntwork-work-from-home-hiring-freshers/) |
 | Course Developer (AI/ML) | SelfCode Academy Actively hiring | Work from home | ₹ 10,000 - 20,000 lump sum (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-course-developer-ai-ml-internship-at-selfcode-academy1793245150) |
-| Product & Sales Associate (Fintech) | FINB TECH PRIVATE LIMITED Actively hiring | Work from home | ₹ 15,000 - 20,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-product-sales-associate-fintech-internship-at-finb-tech-private-limited1793245017) |
 | Full Stack Development | Innoknowvex Actively hiring | Work from home | ₹ 8,000 - 24,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-innoknowvex1793251227) |
-| Web Development | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-diffzene1793258218) |
 | Java Development | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-java-development-internship-at-diffzene1793257362) |
 | Cyber Security | Diffzene Actively hiring | Work from home | ₹ 8,000 - 16,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-cyber-security-internship-at-diffzene1793257286) |
 | Full Stack Development | Bookmywarehouse Actively hiring | Work from home | ₹ 1,000 - 30,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-bookmywarehouse1793251785) |
 | Machine Learning | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1793257340) |
-| Flutter Mobile App Developer Intern | Brain Boosters | Tiruchirappalli, India | 5000.0-5000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-29 | [Apply](https://www.naukri.com/job-listings-flutter-mobile-app-developer-intern-brain-boosters-tiruchirappalli-0-to-1-years-291026031310) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-10-29 | [Apply](https://link.outskill.com/A-11) |
-| Trainee Engineer - Chennai (Tiruvallur) | Golden Opportunities | Chennai, Kanchipuram, Thiruvallur, India | 200000.0-325000.0 INR/yearly (yes) | jobspy/naukri | 2026-10-29 | [Apply](https://www.naukri.com/job-listings-trainee-engineer-chennai-tiruvallur-golden-opportunities-chennai-kanchipuram-thiruvallur-0-to-2-years-081026049577) |
 | Software Engineer Intern | CyberFusion Tech Innovations Pvt Ltd | UP, India | 10000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=8a2f54556c8ee7ea) |
 | Zoho Developer Intern | VectorWave Technologies | UP, India | 10000.0-10500.0 INR/monthly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=7d1c963a31a7b44d) |
 | Business Analyst Intern | Hancod Digital | KL, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=b7f05439931044f8) |
@@ -421,6 +412,9 @@ _Updated 2026-11-05 22:59 UTC · 541 active · 10 new this run · 3773 raw listi
 | Junior Backend Developer (Golang & PostgreSQL) | ZORRRO DELIVERY | WB, India | 15000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=f954c61d49524fc0) |
 | Software Engineer - .net | Noori Business Corporation | KL, India | 10000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=2847631912d2da85) |
 | Graduate Engineer Trainee – BIM | Oneclick BIM Private Limited | MH, India | 8000.0-12500.0 INR/monthly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=1b54e4660fb3d7b3) |
+| GET (Graduate Engineer Trainee) / DET (Diploma Engineer Trainee) | Altis Industries Private Limited | MP, India | 250000.0-300000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=2ae64dae882833d5) |
+| GET (Graduate Engineer Trainee) | DARSH EARTHCON PVT LTD | CT, India | 15000.0- INR/monthly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=66c6e3901aa9fee9) |
+| GET (Graduate Engineer Trainee) | Lizmontagens India Pvt. Ltd | MH, India | 288000.0-310000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-29 | [Apply](https://in.indeed.com/viewjob?jk=427097cc3dfd5ee5) |
 
 ## Source health
 
@@ -428,16 +422,16 @@ _Updated 2026-11-05 22:59 UTC · 541 active · 10 new this run · 3773 raw listi
 - **remotive**: 50 fetched → 0 matched
 - **remoteok**: 99 fetched → 0 matched
 - **weworkremotely**: 125 fetched → 0 matched
-- **himalayas**: 100 fetched → 0 matched
+- **himalayas**: 100 fetched → 2 matched
 - **arbeitnow**: 900 fetched → 0 matched
-- **jobicy**: 117 fetched → 0 matched
-- **hn_whoishiring**: 274 fetched → 0 matched
+- **jobicy**: 115 fetched → 0 matched
+- **hn_whoishiring**: 275 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
-- **telegram**: 100 fetched → 17 matched
-- **internshala**: 515 fetched → 33 matched
+- **telegram**: 99 fetched → 16 matched
+- **internshala**: 515 fetched → 35 matched
 - **unstop**: 59 fetched → 0 matched
 - **yc**: 40 fetched → 0 matched
-- **jobspy**: 763 fetched → 100 matched
+- **jobspy**: 736 fetched → 86 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -445,4 +439,4 @@ _Updated 2026-11-05 22:59 UTC · 541 active · 10 new this run · 3773 raw listi
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 60/60 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 4 workday sites, 589 title-matched postings; 64 companies tracked → 0 matched
+- **ats**: 60/60 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 4 workday sites, 585 title-matched postings; 64 companies tracked → 0 matched
