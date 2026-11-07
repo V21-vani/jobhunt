@@ -1,22 +1,13 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-11-06 22:28 UTC · 516 active · 11 new this run · 3785 raw listings scanned_
+_Updated 2026-11-07 03:32 UTC · 508 active · 2 new this run · 3719 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| WordPress Development | LearnAt | Work from home | ₹ 1,500 - 3,000 /month (yes) | Internshala | 2026-11-06 | [Apply](https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-learnat1793981569) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-06 | [Apply](https://freshershunt.in/wells-fargo-internship-2027/) |
-| Application Integration Engineer 1 | Torc Robotics | United States | 89600-107500 USD (yes) | Himalayas | 2026-11-06 | [Apply](https://himalayas.app/companies/torc-robotics/jobs/application-integration-engineer-1?utm_source=api) |
-| Software Engineer I (Remote Eligible) | Smartsheet | United States | 107500-147500 USD (yes) | Himalayas | 2026-11-06 | [Apply](https://himalayas.app/companies/smartsheet/jobs/software-engineer-i-remote-eligible?utm_source=api) |
-| Research Associate, Survey Administration - Corporate Team | Hanover Research | United States | 49812-56812 USD (yes) | Himalayas | 2026-11-06 | [Apply](https://himalayas.app/companies/hanover-research/jobs/research-associate-survey-administration-corporate-team?utm_source=api) |
-| AI Engineer Intern | The Fortune Group | KA, India | 3000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=4d8deb8020a105f4) |
-| Full Stack Developer Intern | Taphubsglobal IT Service and Solution | KL, India | 5000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=edd9e9e65e26cd50) |
-| Software Tester | Young Minds Technology Solutions Pvt Ltd | AP, India | 15000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=59dac6d97eb4df42) |
-| Graduate Engineer Trainee (Production) | Stalwarts Servicios | TN, India | 20000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=746935c3af53d032) |
-| GET (Graduate Engineer Trainee) - Chemical/mechanical engineering | Stalwarts Servicios | TN, India | 20000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=c22249f3085eebaa) |
-| Graduate Engineering Trainee- Bangalore with 2 years agreement | Mechelonic Welders Pvt Ltd | KA, India | 400000.0-4500000.0 INR/yearly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=b659343260ac0a86) |
+| Mechanical Engineering Intern | Map performance | TN, India | 15000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=6a19e9b20728bde1) |
+| Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=80d40c51a71a7bd5) |
 
 ## All active (newest first)
 
@@ -26,7 +17,9 @@ _Updated 2026-11-06 22:28 UTC · 516 active · 11 new this run · 3785 raw listi
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-06 | [Apply](https://freshershunt.in/wells-fargo-internship-2027/) |
 | Application Integration Engineer 1 | Torc Robotics | United States | 89600-107500 USD (yes) | Himalayas | 2026-11-06 | [Apply](https://himalayas.app/companies/torc-robotics/jobs/application-integration-engineer-1?utm_source=api) |
 | Software Engineer I (Remote Eligible) | Smartsheet | United States | 107500-147500 USD (yes) | Himalayas | 2026-11-06 | [Apply](https://himalayas.app/companies/smartsheet/jobs/software-engineer-i-remote-eligible?utm_source=api) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-06 | [Apply](https://freshershunt.in/capgemini-off-campus-drive-2026/) |
 | Research Associate, Survey Administration - Corporate Team | Hanover Research | United States | 49812-56812 USD (yes) | Himalayas | 2026-11-06 | [Apply](https://himalayas.app/companies/hanover-research/jobs/research-associate-survey-administration-corporate-team?utm_source=api) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-06 | [Apply](https://freshershunt.in/wipro-graduate-engineer-trainee-2026/) |
 | Stock Market Trading | The Future University Actively hiring | Work from home | ₹ 25,000 - 50,000 /month (yes) | Internshala | 2026-11-06 | [Apply](https://internshala.com/internship/detail/work-from-home-stock-market-trading-internship-at-the-future-university1793969217) |
 | MERN Stack Development | Bookmywarehouse Actively hiring | Work from home | ₹ 2,000 - 31,000 /month (yes) | Internshala | 2026-11-06 | [Apply](https://internshala.com/internship/detail/work-from-home-mern-stack-development-internship-at-bookmywarehouse1793966225) |
 | Node.js Development | Bookmywarehouse Actively hiring | Work from home | ₹ 1,000 - 30,000 /month (yes) | Internshala | 2026-11-06 | [Apply](https://internshala.com/internship/detail/work-from-home-nodejs-development-internship-at-bookmywarehouse1793966157) |
@@ -55,12 +48,12 @@ _Updated 2026-11-06 22:28 UTC · 516 active · 11 new this run · 3785 raw listi
 | Graduate Engineer Trainee (Production) | Stalwarts Servicios | TN, India | 20000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=746935c3af53d032) |
 | GET (Graduate Engineer Trainee) - Chemical/mechanical engineering | Stalwarts Servicios | TN, India | 20000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=c22249f3085eebaa) |
 | Graduate Engineering Trainee- Bangalore with 2 years agreement | Mechelonic Welders Pvt Ltd | KA, India | 400000.0-4500000.0 INR/yearly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=b659343260ac0a86) |
+| Mechanical Engineering Intern | Map performance | TN, India | 15000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=6a19e9b20728bde1) |
+| Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-06 | [Apply](https://in.indeed.com/viewjob?jk=80d40c51a71a7bd5) |
 | Junior Business Analyst – Data Mapping | Peraton | United States | 51000-82000 USD (yes) | Himalayas | 2026-11-05 | [Apply](https://himalayas.app/companies/peraton/jobs/junior-business-analyst-data-mapping?utm_source=api) |
 | Junior Business Analyst–Fish & Wildlife Ecological Services | Peraton | United States | 51000-82000 USD (yes) | Himalayas | 2026-11-05 | [Apply](https://himalayas.app/companies/peraton/jobs/junior-business-analyst-fish-wildlife-ecological-services?utm_source=api) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-05 | [Apply](https://freshershunt.in/teradata-internship-2027/) |
 | 💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/wolters-kluwer-off-campus-drive/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-05 | [Apply](https://freshershunt.in/capgemini-off-campus-drive-2026/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-05 | [Apply](https://freshershunt.in/wipro-graduate-engineer-trainee-2026/) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/ibm-off-campus-fresher/) |
 | Full-Stack Engineering Intern (UI/UX & Product Design) | Alkazim Chartered Accountants (Dubai, United Arab Emirates) Actively hiring | Work from home | ₹ 8,000 - 10,000 /month (yes) | Internshala | 2026-11-05 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-engineering-ui-ux-product-design-internship-at-alkazim-chartered-accountants1793883236) |
 | Enterprise Account Executive | Vedron.ai Actively hiring | Work from home | ₹ 25,000 - 65,000 /month (yes) | Internshala | 2026-11-05 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-enterprise-account-executive-internship-at-vedronai1793882497) |
@@ -365,7 +358,6 @@ _Updated 2026-11-06 22:28 UTC · 516 active · 11 new this run · 3785 raw listi
 | Manual/Automation Tester | DEXTORA AI EDUCATION PRIVATE LIMITED | Remote, India | 3000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-31 | [Apply](https://in.indeed.com/viewjob?jk=b0cdabffa33e8c64) |
 | Social media and Outreach Intern | Immibook Pty Ltd | Remote, India | 1.0-1.0 INR/monthly (yes) | jobspy/indeed | 2026-10-31 | [Apply](https://in.indeed.com/viewjob?jk=b72dcff6aa93955b) |
 | Fashion Research & Content Intern | SS BROTHERS | Remote, India | 5000.0-6000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-31 | [Apply](https://in.indeed.com/viewjob?jk=0f0de405af1837e4) |
-| Web Development | MaVionix India Private Limited | Work from home | ₹ 1,200 - 2,000 /month (yes) | Internshala | 2026-10-30 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-mavionix-india-private-limited1793379366) |
 | Web Developer Intern | Hiringlink Solutions | Ahmedabad(Prahladnagar), India | 5000.0-5000.0 INR/monthly (yes) | jobspy/naukri | 2026-10-30 | [Apply](https://www.naukri.com/job-listings-web-developer-intern-hiringlink-solutions-ahmedabad-0-to-1-years-301026030530) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-10-30 | [Apply](https://www.fresheroffcampus.com/salesforce-off-campus-intern/) |
 | Course Developer (DSA With C++) | SelfCode Academy Actively hiring | Work from home | ₹ 10,000 - 20,000 lump sum (yes) | Internshala | 2026-10-30 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-course-developer-dsa-with-c--internship-at-selfcode-academy1793335244) |
@@ -393,7 +385,6 @@ _Updated 2026-11-06 22:28 UTC · 516 active · 11 new this run · 3785 raw listi
 | Intern Analyst , Analyst | Projas Consultancy Services private Limited | TN, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=109fece636dfee08) |
 | Performance Marketing Intern | Clickstore Technologies Pvt Ltd (Click) | Remote, India | 10000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=e72dba6af64734fa) |
 | International Sales & Business Development Executive – Intern / Fresher / Junior | Divi Hosting | Remote, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=a90845bd4a28bf99) |
-| Technical Operations Intern / E-commerce & SaaS Operations Trainee | Doon Portal | UL, India | 9700.0-25000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=a87617d44765a03a) |
 | IT Technician – Fresher | Flymedia Technology / Ludhiana | PB, India | 10000.0-12000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=fc10c97c151523ac) |
 | Desktop Support Engineer | Pro Audio Services | TN, India | 12000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=f02bf2842eba775e) |
 | GET (Graduate Engineer Trainee) - Mechanical | Auronex Engineers Pvt. Ltd. | UP, India | 300000.0-360000.0 INR/yearly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=11db06ef473071ad) |
@@ -420,25 +411,25 @@ _Updated 2026-11-06 22:28 UTC · 516 active · 11 new this run · 3785 raw listi
 | Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=ddb7501cd6d2589d) |
 | Production Engineer Trainee | SRG Power Control System | TN, India | 14000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=6d779f5ddf1d2679) |
 | Environmental Sustainability Trainee | Green Positive Initiatives | KA, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=7a40ae2471d2e2f4) |
-| Website Developer | Shigora | Work from home | ₹ 2,000 - 5,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-website-developer-internship-at-shigora1793277309) |
 | Course Developer (AI/ML) | SelfCode Academy Actively hiring | Work from home | ₹ 10,000 - 20,000 lump sum (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-course-developer-ai-ml-internship-at-selfcode-academy1793245150) |
+| Java Development | Diffzene Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-java-development-internship-at-diffzene1793257362) |
 
 ## Source health
 
-- **amazon**: 43 fetched → 0 matched
+- **amazon**: 44 fetched → 0 matched
 - **remotive**: 60 fetched → 0 matched
 - **remoteok**: 99 fetched → 0 matched
 - **weworkremotely**: 125 fetched → 0 matched
-- **himalayas**: 100 fetched → 3 matched
+- **himalayas**: 100 fetched → 0 matched
 - **arbeitnow**: 900 fetched → 0 matched
 - **jobicy**: 121 fetched → 0 matched
 - **hn_whoishiring**: 294 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
 - **telegram**: 99 fetched → 16 matched
-- **internshala**: 507 fetched → 34 matched
+- **internshala**: 507 fetched → 33 matched
 - **unstop**: 60 fetched → 1 matched
 - **yc**: 41 fetched → 0 matched
-- **jobspy**: 751 fetched → 92 matched
+- **jobspy**: 681 fetched → 76 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -446,4 +437,4 @@ _Updated 2026-11-06 22:28 UTC · 516 active · 11 new this run · 3785 raw listi
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 60/60 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 4 workday sites, 585 title-matched postings; 64 companies tracked → 0 matched
+- **ats**: 60/60 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 4 workday sites, 588 title-matched postings; 64 companies tracked → 0 matched
