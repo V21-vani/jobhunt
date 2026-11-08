@@ -1,26 +1,24 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-11-08 12:21 UTC · 480 active · 7 new this run · 3595 raw listings scanned_
+_Updated 2026-11-08 21:26 UTC · 483 active · 2 new this run · 3742 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Web Development | Kidsneuron Actively hiring | Work from home | ₹ 12,000 - 19,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-kidsneuron1794112576) |
-| Python Development | Kidsneuron Actively hiring | Work from home | ₹ 10,000 - 20,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-python-development-internship-at-kidsneuron1794112541) |
-| Machine Learning | Kidsneuron Actively hiring | Work from home | ₹ 12,000 - 19,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1794112455) |
-| Data Engineer I - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ) | First Citizens | United States | 86625-100000 USD (yes) | Himalayas | 2026-11-08 | [Apply](https://himalayas.app/companies/first-citizens/jobs/data-engineer-i-data-platform-remote-raleigh-nc-dallas-tx-phoenix-az?utm_source=api) |
-| Billing/Scheduling Associate II - Neurology | Washington University in St. Louis | United States | 17.87-27.06 USD (yes) | Himalayas | 2026-11-08 | [Apply](https://himalayas.app/companies/washu/jobs/billing-scheduling-associate-ii-neurology?utm_source=api) |
-| desktop support engineer intern | Crest climber software solution pvt ltd | TN, India | 13847.0-47039.0 INR/monthly (yes) | jobspy/indeed | 2026-11-08 | [Apply](https://in.indeed.com/viewjob?jk=e70b61e0653e5a3b) |
-| Trainers--AI/ML---NO Fresher'S Experinced WFH | Sharda Consultancy Services | Kanpur, Lucknow, Bengaluru, India | 500000.0-1400000.0 INR/yearly (yes) | jobspy/naukri | 2026-11-08 | [Apply](https://www.naukri.com/job-listings-trainers-ai-ml-no-fresher-s-experinced-wfh-sharda-consultancy-services-kanpur-lucknow-bengaluru-7-to-12-years-081126001974) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/capgemini-associate-software-engineer-2026/) |
+| AI & ML Intern | Pokak Technologies | KL, India | 7000.0-12000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-08 | [Apply](https://in.indeed.com/viewjob?jk=c45c98cd47d16537) |
 
 ## All active (newest first)
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/capgemini-associate-software-engineer-2026/) |
 | Web Development | Kidsneuron Actively hiring | Work from home | ₹ 12,000 - 19,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-kidsneuron1794112576) |
 | Python Development | Kidsneuron Actively hiring | Work from home | ₹ 10,000 - 20,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-python-development-internship-at-kidsneuron1794112541) |
 | Machine Learning | Kidsneuron Actively hiring | Work from home | ₹ 12,000 - 19,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1794112455) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/qualcomm-off-campus-drive-2027/) |
+| 🏡 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/amazon-work-from-home-2026-ml-data-operations-associate/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/amazon-internship-2027/) |
 | Data Engineer I - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ) | First Citizens | United States | 86625-100000 USD (yes) | Himalayas | 2026-11-08 | [Apply](https://himalayas.app/companies/first-citizens/jobs/data-engineer-i-data-platform-remote-raleigh-nc-dallas-tx-phoenix-az?utm_source=api) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/ltts-off-campus-drive-2027/) |
@@ -28,6 +26,7 @@ _Updated 2026-11-08 12:21 UTC · 480 active · 7 new this run · 3595 raw listin
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/hcltech-mega-off-campus-drive-2026/) |
 | desktop support engineer intern | Crest climber software solution pvt ltd | TN, India | 13847.0-47039.0 INR/monthly (yes) | jobspy/indeed | 2026-11-08 | [Apply](https://in.indeed.com/viewjob?jk=e70b61e0653e5a3b) |
 | Trainers--AI/ML---NO Fresher'S Experinced WFH | Sharda Consultancy Services | Kanpur, Lucknow, Bengaluru, India | 500000.0-1400000.0 INR/yearly (yes) | jobspy/naukri | 2026-11-08 | [Apply](https://www.naukri.com/job-listings-trainers-ai-ml-no-fresher-s-experinced-wfh-sharda-consultancy-services-kanpur-lucknow-bengaluru-7-to-12-years-081126001974) |
+| AI & ML Intern | Pokak Technologies | KL, India | 7000.0-12000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-08 | [Apply](https://in.indeed.com/viewjob?jk=c45c98cd47d16537) |
 | Security Operations Engineer I | Samsara | United States | 95200-144000 USD (yes) | Himalayas | 2026-11-07 | [Apply](https://himalayas.app/companies/samsara/jobs/security-operations-engineer-i?utm_source=api) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-07 | [Apply](https://freshershunt.in/infosys-off-campus-drive-2027/) |
 | Amazon Is Hiring For SDE Intern |  | - | - (yes) | Telegram/internfreak | 2026-11-07 | [Apply](https://www.amazon.jobs/en/jobs/10508052/sde-i-intern-amazon-university-talent-acquisition) |
@@ -278,7 +277,6 @@ _Updated 2026-11-08 12:21 UTC · 480 active · 7 new this run · 3595 raw listin
 | AI Video Creator | SARATHY GROUP | Remote, India | 10000.0-100000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-03 | [Apply](https://in.indeed.com/viewjob?jk=8dedc58a880fc85f) |
 | SerpApi / https://serpapi.com |  | - | - (yes) | HN Who's Hiring | 2026-11-02 | [Apply](https://news.ycombinator.com/item?id=50342697) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-02 | [Apply](https://www.fresheroffcampus.com/philips-off-campus/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-02 | [Apply](https://freshershunt.in/qualcomm-off-campus-drive-2027/) |
 | Bridge AI Consulting / AI Consultant, Junior AI Consultant |  | - | - (yes) | HN Who's Hiring | 2026-11-02 | [Apply](https://news.ycombinator.com/item?id=50338809) |
 | University of Cambridge, University of Manchester / PhD in AI / Earth Observation / Environ |  | - | - (yes) | HN Who's Hiring | 2026-11-02 | [Apply](https://news.ycombinator.com/item?id=50338768) |
 | Email Marketing | CollabAdda Actively hiring | Work from home | ₹ 30,000 - 40,000 lump sum (yes) | Internshala | 2026-11-02 | [Apply](https://internshala.com/internship/detail/work-from-home-email-marketing-internship-at-collabadda1793619636) |
@@ -415,26 +413,23 @@ _Updated 2026-11-08 12:21 UTC · 480 active · 7 new this run · 3595 raw listin
 | Graduate Engineer Trainee (Production) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=aed343afa2a00ae9) |
 | Graduate Engineer Trainee - Mechanical /Chemical Engineering | Stalwarts Servicios | TN, India | 20000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=48fda2ef1c0fb3e1) |
 | Graduate Engineer Trainee (GET) | Stalwarts Servicios | TN, India | 23000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=ddb7501cd6d2589d) |
-| Production Engineer Trainee | SRG Power Control System | TN, India | 14000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=6d779f5ddf1d2679) |
-| Environmental Sustainability Trainee | Green Positive Initiatives | KA, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-10-30 | [Apply](https://in.indeed.com/viewjob?jk=7a40ae2471d2e2f4) |
-| Course Developer (AI/ML) | SelfCode Academy Actively hiring | Work from home | ₹ 10,000 - 20,000 lump sum (yes) | Internshala | 2026-10-29 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-course-developer-ai-ml-internship-at-selfcode-academy1793245150) |
 
 ## Source health
 
-- **amazon**: 43 fetched → 0 matched
+- **amazon**: 44 fetched → 0 matched
 - **remotive**: 65 fetched → 0 matched
 - **remoteok**: 99 fetched → 0 matched
 - **weworkremotely**: 125 fetched → 0 matched
-- **himalayas**: 100 fetched → 2 matched
+- **himalayas**: 100 fetched → 0 matched
 - **arbeitnow**: 900 fetched → 0 matched
 - **jobicy**: 123 fetched → 0 matched
 - **hn_whoishiring**: 305 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
-- **telegram**: 100 fetched → 17 matched
-- **internshala**: 507 fetched → 34 matched
+- **telegram**: 100 fetched → 19 matched
+- **internshala**: 507 fetched → 37 matched
 - **unstop**: 60 fetched → 1 matched
-- **yc**: 40 fetched → 0 matched
-- **jobspy**: 541 fetched → 91 matched
+- **yc**: 36 fetched → 0 matched
+- **jobspy**: 687 fetched → 86 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -442,4 +437,4 @@ _Updated 2026-11-08 12:21 UTC · 480 active · 7 new this run · 3595 raw listin
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 60/60 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 4 workday sites, 587 title-matched postings; 64 companies tracked → 0 matched
+- **ats**: 60/60 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 4 workday sites, 591 title-matched postings; 64 companies tracked → 0 matched
