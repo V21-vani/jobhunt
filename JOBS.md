@@ -1,45 +1,32 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listings scanned_
+_Updated 2026-11-14 21:46 UTC · 497 active · 11 new this run · 3779 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Clinical Trials & Research - Internship (WFH & Part Time) | ARZON GLOBAL LABS Actively hiring | Work from home | ₹ 2,000 - 10,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-clinical-trials-research-internship-wfh-part-time-internship-at-arzon-global-labs1794651872) |
-| Clinical SAS (Freshers) - Internship (WFH & Part Time) | ARZON GLOBAL LABS Actively hiring | Work from home | ₹ 2,000 - 10,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-clinical-sas-freshers-internship-wfh-part-time-internship-at-arzon-global-labs1794651790) |
-| Associate Project Executive – Client & Delivery Management | ConsultBae Actively hiring | Work from home | ₹ 5,000 - 8,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-associate-project-executive--client-delivery-management-internship-at-consultbae1794636487) |
-| Project Executive - AI Data Services | ConsultBae Actively hiring | Work from home | ₹ 5,000 - 8,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-project-executive-ai-data-services-internship-at-consultbae1794636326) |
-| Product Management | Grow Biz | Work from home | ₹ 5,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-product-management-internship-at-grow-biz1794635732) |
-| Full Stack Development | Zenith Actively hiring | Work from home | ₹ 1,000 - 5,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-zenith1794636099) |
-| Python Development | EvoNexis Actively hiring | Work from home | ₹ 12,000 - 24,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-python-development-internship-at-evonexis1794636054) |
-| Web Development | Kidsneuron Actively hiring | Work from home | ₹ 12,000 - 19,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-kidsneuron1794634100) |
-| AI Agent Development | Zenith Actively hiring | Work from home | ₹ 1,000 - 2,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-zenith1794642026) |
-| Data Analytics | EvoNexis Actively hiring | Work from home | ₹ 17,000 - 29,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-evonexis1794636094) |
-| Data Science Internship | Zenotalent | - | - (yes) | Unstop | 2026-11-14 | [Apply](https://unstop.com/internships/data-science-internship-zenotalent-1810486) |
-| Internship - ITI Mechanical Engineer / Technician | Sky Gold | Navi Mumbai, India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-11-14 | [Apply](https://www.naukri.com/job-listings-internship-iti-mechanical-engineer-technician-sky-gold-navi-mumbai-0-to-1-years-010826007520) |
-| Data Analytics Intern | Edgistify | Thane, India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-11-14 | [Apply](https://www.naukri.com/job-listings-data-analytics-intern-edgistify-thane-0-to-1-years-141126012205) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/hpe-off-campus-drive-2027/) |
-| Mobile App Testing Intern – Appium | Fyno Digital | TN, India | 5000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=d31c44ce9f586fc2) |
-| AI/ML Intern | BExO | PB, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=627a12c615fe1a32) |
-| IT Intern / Software Development, Python & AI/ML | AI SAMRAT | KA, India | 300000.0- INR/yearly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=e2101dc4b5224099) |
-| MCA Internship // Free Internship // Embedded Internship // Python Intenrship | Nitroware Technologied Pvt Ltd | TN, India | 8000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=8929c37e172299f4) |
-| Full Stack Developer Intern | Fyno Digital | TN, India | - (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=eb1ed81c048c9fca) |
-| Python/Django Developer | TechB Softwares | MH, India | 8000.0-9000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=23b0b133b25fe011) |
-| generative AI | BExO | PB, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=b19e112c37f93f89) |
-| Trainee Software Engineer (Freshers) | ARKMINDS INFOTECH PRIVATE LIMITED | TN, India | 18000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=83ece0daac3395ab) |
-| Junior Golang Backend Developer (Fresher) | INVER X PVT LTD | MH, India | 300000.0-400000.0 INR/yearly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=5ff5cfa5f5111626) |
-| Graduate Engineer Trainee – Material Planning | SISCO Energy Private Limited | TN, India | 30000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=bd002d05e2bf8015) |
-| Graduate Trainee Engineer | MANSARD STRUCTURAL ENGINEERS | TS, India | 8000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=933c91f49c7e1633) |
-| Graduate Engineer Apprentice Trainee (Mechanical) | CRUTZ LEELA ENTERPRISES | MH, India | 18000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=2f8103a3e2165bf9) |
-| Graduate Trainee Engineer (Electrical & Electronics) | Solar4Trivandrum | KL, India | 22000.0-26000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=fd7dc7b91490e2e9) |
-| Full Stack Developer Intern | AVGC XR Solutions | Remote, India | 5000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-13 | [Apply](https://in.indeed.com/viewjob?jk=1cc949b724b1d127) |
-| Junior Software Developer Intern | elogicTech Solutions India Pvt Ltd | TS, India | 15000.0-20000.0 INR/yearly (yes) | jobspy/indeed | 2026-11-12 | [Apply](https://in.indeed.com/viewjob?jk=1d7b5617e2830ed1) |
+| Science Teacher | GEMA Education Technology Private Limited Actively hiring | Work from home | ₹ 1,500 - 2,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-science-teacher-internship-at-gema-education-technology-private-limited1794662362) |
+| Cyber Security | EvoNexis Actively hiring | Work from home | ₹ 8,000 - 16,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-cyber-security-internship-at-evonexis1794664799) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/eaton-off-campus-drive-2027/) |
+| AI/ML Intern | nature craft organica | PB, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=84350eaa9e4323ca) |
+| Sales and Business Development Intern | InnovATE Food and Beverages | DL, India | 5000.0-7000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=423d74e2f69eb1bc) |
+| Excel data annotation intern | Hubooze | Remote, India | 1000.0-35000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=5819109e64549569) |
+| Java Backend & React Frontend Developer Intern | code Cat Jr | UL, India | 10000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=8a5136be7e778eb4) |
+| Full Stack AI Engineering Intern | Branvidia | KA, India | 5000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=486ce0b0558655ca) |
+| Audio Engineer Intern | Jesus Calls | TN, India | 3000.0-3000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=9f44c724609ccfb4) |
+| Job Description – Desktop Support Engineer (Fresher) | Premade Innovations pvt ltd | MH, India | 80000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=420f0f05b18ea0e7) |
+| Software Developer Intern | Gensoft Tech Services | TN, India | 10000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-13 | [Apply](https://in.indeed.com/viewjob?jk=abf031f2cca05d71) |
 
 ## All active (newest first)
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Science Teacher | GEMA Education Technology Private Limited Actively hiring | Work from home | ₹ 1,500 - 2,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-science-teacher-internship-at-gema-education-technology-private-limited1794662362) |
+| Cyber Security | EvoNexis Actively hiring | Work from home | ₹ 8,000 - 16,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-cyber-security-internship-at-evonexis1794664799) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/ltts-off-campus-drive-2027/) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/qualcomm-off-campus-drive-2027/) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/infosys-off-campus-drive-2027/) |
 | Clinical Trials & Research - Internship (WFH & Part Time) | ARZON GLOBAL LABS Actively hiring | Work from home | ₹ 2,000 - 10,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-clinical-trials-research-internship-wfh-part-time-internship-at-arzon-global-labs1794651872) |
 | Clinical SAS (Freshers) - Internship (WFH & Part Time) | ARZON GLOBAL LABS Actively hiring | Work from home | ₹ 2,000 - 10,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-clinical-sas-freshers-internship-wfh-part-time-internship-at-arzon-global-labs1794651790) |
 | Associate Project Executive – Client & Delivery Management | ConsultBae Actively hiring | Work from home | ₹ 5,000 - 8,000 /month (yes) | Internshala | 2026-11-14 | [Apply](https://internshala.com/internship/detail/work-from-home-associate-project-executive--client-delivery-management-internship-at-consultbae1794636487) |
@@ -53,6 +40,8 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 | Data Science Internship | Zenotalent | - | - (yes) | Unstop | 2026-11-14 | [Apply](https://unstop.com/internships/data-science-internship-zenotalent-1810486) |
 | Internship - ITI Mechanical Engineer / Technician | Sky Gold | Navi Mumbai, India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-11-14 | [Apply](https://www.naukri.com/job-listings-internship-iti-mechanical-engineer-technician-sky-gold-navi-mumbai-0-to-1-years-010826007520) |
 | Data Analytics Intern | Edgistify | Thane, India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-11-14 | [Apply](https://www.naukri.com/job-listings-data-analytics-intern-edgistify-thane-0-to-1-years-141126012205) |
+| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-14 | [Apply](https://www.fresheroffcampus.com/eaton-off-campus-hiring-fresher/) |
+| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/eaton-off-campus-drive-2027/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/hpe-off-campus-drive-2027/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/harman-internship-2027/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-14 | [Apply](https://freshershunt.in/hcltech-mega-off-campus-drive-2026/) |
@@ -69,6 +58,13 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 | Graduate Trainee Engineer | MANSARD STRUCTURAL ENGINEERS | TS, India | 8000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=933c91f49c7e1633) |
 | Graduate Engineer Apprentice Trainee (Mechanical) | CRUTZ LEELA ENTERPRISES | MH, India | 18000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=2f8103a3e2165bf9) |
 | Graduate Trainee Engineer (Electrical & Electronics) | Solar4Trivandrum | KL, India | 22000.0-26000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=fd7dc7b91490e2e9) |
+| AI/ML Intern | nature craft organica | PB, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=84350eaa9e4323ca) |
+| Sales and Business Development Intern | InnovATE Food and Beverages | DL, India | 5000.0-7000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=423d74e2f69eb1bc) |
+| Excel data annotation intern | Hubooze | Remote, India | 1000.0-35000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=5819109e64549569) |
+| Java Backend & React Frontend Developer Intern | code Cat Jr | UL, India | 10000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=8a5136be7e778eb4) |
+| Full Stack AI Engineering Intern | Branvidia | KA, India | 5000.0-5000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=486ce0b0558655ca) |
+| Audio Engineer Intern | Jesus Calls | TN, India | 3000.0-3000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=9f44c724609ccfb4) |
+| Job Description – Desktop Support Engineer (Fresher) | Premade Innovations pvt ltd | MH, India | 80000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-14 | [Apply](https://in.indeed.com/viewjob?jk=420f0f05b18ea0e7) |
 | Telecalling | Reducate.ai Actively hiring | Work from home | ₹ 2,000 /month (yes) | Internshala | 2026-11-13 | [Apply](https://internshala.com/internship/detail/work-from-home-telecalling-internship-at-reducateai1794575221) |
 | Forward Deployed Engineer (FDE) | Infinex Labs | Work from home | ₹ 15,000 - 30,000 /month (yes) | Internshala | 2026-11-13 | [Apply](https://internshala.com/internship/detail/work-from-home-forward-deployed-engineer-fde-internship-at-infinex-labs1794586486) |
 | Jr. AI Engineer | 433 | Amsterdam , Noord-Holland, Netherlands | - (yes) | Arbeitnow | 2026-11-13 | [Apply](https://www.arbeitnow.nl/jobs/companies/433/jr-ai-engineer-amsterdam-262980) |
@@ -89,12 +85,10 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 | Data Analytics | Qubixo Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-11-13 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-qubixo1794547545) |
 | Machine Learning | Qubixo Actively hiring | Work from home | ₹ 12,000 - 24,000 /month (yes) | Internshala | 2026-11-13 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-qubixo1794547476) |
 | Intern - Mechanical Engineering | Planys Technologies | Chennai, India | 15000.0-15000.0 INR/monthly (yes) | jobspy/naukri | 2026-11-13 | [Apply](https://www.naukri.com/job-listings-intern-mechanical-engineering-planys-technologies-chennai-0-to-1-years-131126030330) |
+| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-13 | [Apply](http://B.Tech/) |
 | 💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-13 | [Apply](https://www.fresheroffcampus.com/air-arabia-off-campus/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-13 | [Apply](https://freshershunt.in/accenture-off-campus-drive-2027/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-13 | [Apply](https://freshershunt.in/ltts-off-campus-drive-2027/) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-13 | [Apply](https://www.fresheroffcampus.com/capgemini-off-campus-fresher-2/) |
-| 💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-13 | [Apply](http://B.Tech/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-13 | [Apply](https://freshershunt.in/infosys-off-campus-drive-2027/) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-13 | [Apply](https://www.fresheroffcampus.com/eurofins-off-campus/) |
 | Forward Deployed Engineer Intern | Srishti Enterprises | KA, India | 30000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-13 | [Apply](https://in.indeed.com/viewjob?jk=a2d0cb5b8f4774c5) |
 | AI Intern | Manjari Technologies | MH, India | 8000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-13 | [Apply](https://in.indeed.com/viewjob?jk=30304902962a834b) |
@@ -132,6 +126,7 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 | Technical Content Writer Intern | Little Odd Marketers | HR, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-13 | [Apply](https://in.indeed.com/viewjob?jk=2a50469471ee93a7) |
 | Web Development Intern | Solution sphere | MH, India | 1500.0-3500.0 INR/monthly (yes) | jobspy/indeed | 2026-11-13 | [Apply](https://in.indeed.com/viewjob?jk=b4eded8dc26c83db) |
 | Full Stack Developer Intern | AVGC XR Solutions | Remote, India | 5000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-13 | [Apply](https://in.indeed.com/viewjob?jk=1cc949b724b1d127) |
+| Software Developer Intern | Gensoft Tech Services | TN, India | 10000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-13 | [Apply](https://in.indeed.com/viewjob?jk=abf031f2cca05d71) |
 | VLSI | Emoolar Technology Private Limited Actively hiring | Work from home | ₹ 6,500 - 8,000 /month (yes) | Internshala | 2026-11-12 | [Apply](https://internshala.com/internship/detail/work-from-home-part-time-vlsi-internship-at-emoolar-technology-private-limited1794469062) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-12 | [Apply](https://freshershunt.in/honeywell-off-campus-drive-2027/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-12 | [Apply](https://freshershunt.in/bank-of-america-apprentice-2026/) |
@@ -335,7 +330,6 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 | Web Development | Kidsneuron Actively hiring | Work from home | ₹ 12,000 - 19,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-kidsneuron1794112576) |
 | Python Development | Kidsneuron Actively hiring | Work from home | ₹ 10,000 - 20,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-python-development-internship-at-kidsneuron1794112541) |
 | Machine Learning | Kidsneuron Actively hiring | Work from home | ₹ 12,000 - 19,000 /month (yes) | Internshala | 2026-11-08 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-kidsneuron1794112455) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/qualcomm-off-campus-drive-2027/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-08 | [Apply](https://freshershunt.in/amazon-internship-2027/) |
 | Data Engineer I - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ) | First Citizens | United States | 86625-100000 USD (yes) | Himalayas | 2026-11-08 | [Apply](https://himalayas.app/companies/first-citizens/jobs/data-engineer-i-data-platform-remote-raleigh-nc-dallas-tx-phoenix-az?utm_source=api) |
 | Billing/Scheduling Associate II - Neurology | Washington University in St. Louis | United States | 17.87-27.06 USD (yes) | Himalayas | 2026-11-08 | [Apply](https://himalayas.app/companies/washu/jobs/billing-scheduling-associate-ii-neurology?utm_source=api) |
@@ -358,7 +352,6 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-07 | [Apply](https://go.acciojob.com/fPMuyn) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-07 | [Apply](https://freshershunt.in/unisys-off-campus-drive-2027/) |
 | Business Analyst Intern | Hancod Digital | KL, India | 5000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-07 | [Apply](https://in.indeed.com/viewjob?jk=64dfc809088fc5df) |
-| Trainee Software Engineer (Freshers) | ARKMINDS INFOTECH PRIVATE LIMITED | TN, India | 18000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-07 | [Apply](https://in.indeed.com/viewjob?jk=7643d87d7f50daf9) |
 | Graduate Engineer Trainee - Sales & Marketing | Joshi Jampala Engineering Pvt. Ltd | MH, India | 16000.0-35000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-07 | [Apply](https://in.indeed.com/viewjob?jk=37a3ce360eb4bc96) |
 | Design Engineer | Joshi Jampala Engineering Pvt. Ltd | MH, India | 20000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-07 | [Apply](https://in.indeed.com/viewjob?jk=3d8b47bc37cddc7c) |
 | GET (Graduate Engineer Trainee) | SS Edutech | MH, India | 200000.0-400000.0 INR/yearly (yes) | jobspy/indeed | 2026-11-07 | [Apply](https://in.indeed.com/viewjob?jk=e911fcd37bd6d1d4) |
@@ -423,23 +416,12 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 | AI & Agent Architect Intern | CP Careers | Chennai, India | 12000.0-12000.0 INR/monthly (yes) | jobspy/naukri | 2026-11-05 | [Apply](https://www.naukri.com/job-listings-ai-agent-architect-intern-cp-careers-chennai-0-to-1-years-051126026048) |
 | AI Power Electronics & Hardware Engineer Intern | CP Careers | Chennai, India | 12000.0-12000.0 INR/monthly (yes) | jobspy/naukri | 2026-11-05 | [Apply](https://www.naukri.com/job-listings-ai-power-electronics-hardware-engineer-intern-cp-careers-chennai-0-to-1-years-051126025846) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/harman-off-campus/) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/eaton-off-campus-hiring-fresher/) |
 | 👨‍💻 |  | - | - (yes) | Telegram/internshipupdatesfreshers | 2026-11-05 | [Apply](https://www.fresheroffcampus.com/airbus-off-campus/) |
 | Trainee Engineer , Graduate trainee Engineer | See Linkages | Vadodara(Makarpura GIDC), India | 21333.0-21333.0 INR/monthly (yes) | jobspy/naukri | 2026-11-05 | [Apply](https://www.naukri.com/job-listings-trainee-engineer-graduate-trainee-engineer-see-linkages-vadodara-0-to-1-years-071025020639) |
 | AI/ML Intern | WeIntern | MH, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=ce40af93ab671473) |
 | AI Engineer Internship (Paid) | SoftwareBrio | Indore, Madhya Pradesh, India | - (yes) | jobspy/linkedin | 2026-11-05 | [Apply](https://www.linkedin.com/jobs/view/4486599821) |
 | Python Django Developer (Intern) | Welldone Healthcare Pvt. Ltd | Remote, India | 4000.0-6000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=499e1af3e7e14ccd) |
 | Full Stack Intern | WeIntern | MH, India | 10000.0-20000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=d5b103beac54bf02) |
-| Software Developer Intern | WayBic Tech | TN, India | 10000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=8ad79375b9188d38) |
-| Web Developer Intern | TRENDZUP MEDIA CREATIONS PVT LTD | DL, India | 4000.0-8000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=4f793a0901f78206) |
-| Chemical Engineering Intern | New Age Software and Solutions India PVT LTD | TN, India | 18000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=1b9e2ba9dff3b099) |
-| Campus Recruitment - Sathyabama University | MEL Systems & Services (MELSS) | TN, India | 30000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=51cca23306badf0e) |
-| Civil Engineering Intern | Trikosmient Solutions India Pvt Limited | Remote, India | 1000.0-1000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=e864d01b8f7a9745) |
-| Full Stack Developer – Fresher Program | AltissAdvance Technologies Private Limited | MH, India | 6500.0-6500.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=537eb353dc5a1e73) |
-| AI Engineer – Fresher | Nexora Technologies | MP, India | 10000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=c17065e96f51233a) |
-| Junior Mechanical & CAD Design Engineer | Audaxbridge Global Advisors LLP | DL, India | 600000.0-700000.0 INR/yearly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=24a085e9c14cfdd3) |
-| GET (Graduate Engineer Trainee) - Electrical Engineering | VBB INFRA PVT. LTD. | CT, India | 15000.0-18000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=8892bdea1e18819f) |
-| Graduate Engineer Trainee | IVLogix Pvt Ltd | MH, India | 240000.0-260000.0 INR/yearly (yes) | jobspy/indeed | 2026-11-05 | [Apply](https://in.indeed.com/viewjob?jk=7823c5c2e1c2f868) |
 
 ## Source health
 
@@ -450,13 +432,13 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 - **himalayas**: 100 fetched → 0 matched
 - **arbeitnow**: 900 fetched → 1 matched
 - **jobicy**: 122 fetched → 1 matched
-- **hn_whoishiring**: 365 fetched → 0 matched
+- **hn_whoishiring**: 366 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://www.reddit.com/r/developers) → 0 matched
 - **telegram**: 100 fetched → 15 matched
-- **internshala**: 508 fetched → 40 matched
-- **unstop**: 59 fetched → 1 matched
+- **internshala**: 508 fetched → 42 matched
+- **unstop**: 59 fetched → 0 matched
 - **yc**: 37 fetched → 0 matched
-- **jobspy**: 746 fetched → 103 matched
+- **jobspy**: 706 fetched → 84 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -464,4 +446,4 @@ _Updated 2026-11-14 12:38 UTC · 491 active · 29 new this run · 3567 raw listi
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 62/62 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 1 workday sites, 283 title-matched postings; 66 companies tracked → 0 matched
+- **ats**: 62/62 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 4 workday sites, 534 title-matched postings; 66 companies tracked → 0 matched
