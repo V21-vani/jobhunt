@@ -12,7 +12,7 @@
   "paid": "yes",
   "id": "714330bb701e",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "7fa2cc3172ec": {
   "source": "Telegram/freshershunt",
@@ -57,7 +57,7 @@
   "paid": "yes",
   "id": "fdb7b70f54f3",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "82228d1ff45e": {
   "source": "Telegram/freshershunt",
@@ -179,36 +179,6 @@
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
   "last_seen": "2026-10-27T02:43:00.330080+00:00"
  },
- "852160dd977b": {
-  "source": "Internshala",
-  "title": "Course Developer (Flutter)",
-  "company": "SelfCode Academy Actively hiring",
-  "url": "https://internshala.com/internship/detail/work-from-home-part-time-course-developer-flutter-internship-at-selfcode-academy1792144255",
-  "location": "Work from home",
-  "remote": true,
-  "pay": "₹ 10,000 - 20,000 lump sum",
-  "posted": "",
-  "text": "Course Developer (Flutter) SelfCode Academy Actively hiring Work from home ₹ 10,000 - 20,000 lump sum 3 Months As a Course Developer intern at SelfCode Academy, your role will involve creating engaging and Teaching Flutter English Proficiency (Spoken) Effective Communication 6 days ago Part time",
-  "paid": "yes",
-  "id": "852160dd977b",
-  "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
- "af938cf49bcc": {
-  "source": "Internshala",
-  "title": "Game Development",
-  "company": "QuickHyre Actively hiring",
-  "url": "https://internshala.com/internship/detail/work-from-home-game-development-internship-at-quickhyre1792132774",
-  "location": "Work from home",
-  "remote": true,
-  "pay": "₹ 40,000 - 55,000 /month",
-  "posted": "",
-  "text": "Game Development QuickHyre Actively hiring Work from home ₹ 40,000 - 55,000 /month 3 Months As a Game Development intern at QuickHyre, you will have the opportunity to work with cutting- JavaScript C# Blender 3D Unreal Engine Unity Engine 6 days ago",
-  "paid": "yes",
-  "id": "af938cf49bcc",
-  "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
  "88a4709e803f": {
   "source": "Internshala",
   "title": "Campus Partnerships & Outreach",
@@ -308,11 +278,11 @@
   "remote": true,
   "pay": "₹ 6,000 - 51,000 lump sum",
   "posted": "",
-  "text": "Software Development The ProEducator Actively hiring Work from home ₹ 6,000 - 51,000 lump sum 3 Months Are you a talented Software Development intern with a passion for PHP? Prashant Kumar LTD is l Java PHP MySQL HTML CSS JavaScript Python +2 more PHP Development IT Information Technology Advertising Engineering Computer Science Software Development 3 weeks ago Job offer upto ₹ 21LPA post internship Part time",
+  "text": "Software Development The ProEducator Actively hiring Work from home ₹ 6,000 - 51,000 lump sum 3 Months Are you a talented Software Development intern with a passion for PHP? Prashant Kumar LTD is l Java PHP MySQL HTML CSS JavaScript Python +2 more Information Technology PHP Development Advertising IT Software Development Web Development Engineering 3 weeks ago Job offer upto ₹ 21LPA post internship Part time",
   "paid": "yes",
   "id": "da84804e9ae1",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "93746b12aa05": {
   "source": "jobspy/naukri",
@@ -433,51 +403,6 @@
   "id": "17738520005c",
   "first_seen": "2026-10-18T22:09:13.603467+00:00",
   "last_seen": "2026-10-23T20:44:30.446481+00:00"
- },
- "85dddb69ead5": {
-  "source": "jobspy/naukri",
-  "title": "Angular .NET Developer Intern",
-  "company": "NLB Services",
-  "url": "https://www.naukri.com/job-listings-angular-net-developer-intern-nlb-services-noida-0-to-1-years-181026003598",
-  "location": "Noida, India",
-  "remote": null,
-  "pay": "8000.0-8000.0 INR/monthly",
-  "posted": "",
-  "text": "",
-  "paid": "yes",
-  "id": "85dddb69ead5",
-  "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
- "fc0bf891738f": {
-  "source": "jobspy/naukri",
-  "title": "AI Adoption Specialist Internship",
-  "company": "Dao Evtech",
-  "url": "https://www.naukri.com/job-listings-ai-adoption-specialist-internship-dao-evtech-pune-0-to-1-years-180826009425",
-  "location": "Pune, India",
-  "remote": null,
-  "pay": "12000.0-12000.0 INR/monthly",
-  "posted": "",
-  "text": "",
-  "paid": "yes",
-  "id": "fc0bf891738f",
-  "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
- "9137fb90adc1": {
-  "source": "jobspy/naukri",
-  "title": "Mechanical Design Intern",
-  "company": "APA Engineering",
-  "url": "https://www.naukri.com/job-listings-mechanical-design-intern-apa-engineering-chennai-0-to-1-years-240926019479",
-  "location": "Chennai, India",
-  "remote": null,
-  "pay": "15000.0-15000.0 INR/monthly",
-  "posted": "",
-  "text": "",
-  "paid": "yes",
-  "id": "9137fb90adc1",
-  "first_seen": "2026-10-18T22:09:13.603467+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "86fae60937d1": {
   "source": "jobspy/indeed",
@@ -719,21 +644,6 @@
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
   "last_seen": "2026-10-25T15:11:03.787587+00:00"
  },
- "81205a05c329": {
-  "source": "jobspy/indeed",
-  "title": "Digital Marketing Intern",
-  "company": "Vheelfix",
-  "url": "https://in.indeed.com/viewjob?jk=81ea2b300433f7f2",
-  "location": "Remote, India",
-  "remote": true,
-  "pay": "1000.0-2000.0 INR/monthly",
-  "posted": "2026-10-19T00:00:00+00:00",
-  "text": "About VheelFix **VheelFix** is a two-wheeler service platform that connects customers with mechanics for convenient bike servicing and repair solutions. We are looking for a motivated Digital Marketing Intern to help grow our online presence, improve search engine rankings, and attract more customers through digital marketing. Job Responsibilities * Assist with SEO activities to improve website rankings on Google. * Perform keyword research and competitor analysis. * Help optimize website pages, meta titles, meta descriptions, and blog content. * Create and manage social media posts for platfo",
-  "paid": "yes",
-  "id": "81205a05c329",
-  "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
  "0733f5637bc3": {
   "source": "jobspy/indeed",
   "title": "Business Development Intern",
@@ -748,21 +658,6 @@
   "id": "0733f5637bc3",
   "first_seen": "2026-10-19T11:26:44.135107+00:00",
   "last_seen": "2026-10-25T15:11:03.787587+00:00"
- },
- "0059cdc80c04": {
-  "source": "jobspy/naukri",
-  "title": "Php Developer Intern",
-  "company": "Spirant Communication",
-  "url": "https://www.naukri.com/job-listings-php-developer-intern-spirant-communication-noida-0-to-1-years-191026007698",
-  "location": "Noida, India",
-  "remote": null,
-  "pay": "5000.0-5000.0 INR/monthly",
-  "posted": "",
-  "text": "",
-  "paid": "yes",
-  "id": "0059cdc80c04",
-  "first_seen": "2026-10-19T11:26:44.135107+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "654d373c3d35": {
   "source": "jobspy/indeed",
@@ -1214,21 +1109,6 @@
   "first_seen": "2026-10-21T02:19:21.774159+00:00",
   "last_seen": "2026-10-26T22:00:44.174958+00:00"
  },
- "45aab7c1a072": {
-  "source": "Internshala",
-  "title": "Cyber Security",
-  "company": "Diffzene Actively hiring",
-  "url": "https://internshala.com/internship/detail/work-from-home-cyber-security-internship-at-diffzene1792561692",
-  "location": "Work from home",
-  "remote": true,
-  "pay": "₹ 8,000 - 16,000 /month",
-  "posted": "",
-  "text": "Cyber Security Diffzene Actively hiring Work from home ₹ 8,000 - 16,000 /month 3 Months As a Cyber Security intern at Diffzene, you will have the exciting opportunity to apply your k Python Computer Networking Linux Ethical Hacking VAPT Web Application Security 1 day ago",
-  "paid": "yes",
-  "id": "45aab7c1a072",
-  "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
  "2157f49e0d01": {
   "source": "Internshala",
   "title": "Full Stack Development",
@@ -1243,21 +1123,6 @@
   "id": "2157f49e0d01",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
   "last_seen": "2026-10-27T11:12:01.976560+00:00"
- },
- "8273a6bbb2e2": {
-  "source": "Internshala",
-  "title": "Web Development",
-  "company": "Diffzene Actively hiring",
-  "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-diffzene1792562072",
-  "location": "Work from home",
-  "remote": true,
-  "pay": "₹ 12,000 - 25,000 /month",
-  "posted": "",
-  "text": "Web Development Diffzene Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months As a Web Development intern at Diffzene, you will have the opportunity to work on exciting pro PHP MySQL HTML CSS JavaScript jQuery WordPress +3 more 1 day ago",
-  "paid": "yes",
-  "id": "8273a6bbb2e2",
-  "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "a4689116ec7e": {
   "source": "Internshala",
@@ -1274,21 +1139,6 @@
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
   "last_seen": "2026-10-27T02:43:00.330080+00:00"
  },
- "92e8e595dc1f": {
-  "source": "Internshala",
-  "title": "Cyber Security",
-  "company": "EvoNexis Actively hiring",
-  "url": "https://internshala.com/internship/detail/work-from-home-cyber-security-internship-at-evonexis1792558112",
-  "location": "Work from home",
-  "remote": true,
-  "pay": "₹ 8,000 - 16,000 /month",
-  "posted": "",
-  "text": "Cyber Security EvoNexis Actively hiring Work from home ₹ 8,000 - 16,000 /month 3 Months As a Cyber Security intern at EvoNexis, you will have the opportunity to sharpen your skills i Python Computer Networking Linux Ethical Hacking VAPT Web Application Security 1 day ago",
-  "paid": "yes",
-  "id": "92e8e595dc1f",
-  "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
  "a7badcca7a2f": {
   "source": "Internshala",
   "title": "AI Product Developer - Python & React (Remote)",
@@ -1303,21 +1153,6 @@
   "id": "a7badcca7a2f",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
   "last_seen": "2026-10-27T02:43:00.330080+00:00"
- },
- "208248e6ab83": {
-  "source": "Internshala",
-  "title": "Machine Learning",
-  "company": "Diffzene Actively hiring",
-  "url": "https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-diffzene1792561878",
-  "location": "Work from home",
-  "remote": true,
-  "pay": "₹ 12,000 - 25,000 /month",
-  "posted": "",
-  "text": "Machine Learning Diffzene Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months We are seeking a talented Machine Learning intern to join our team at Diffzene. If you have a Python Data Analytics Machine Learning R Programming Data Science Natural Language Processing (NLP) Deep Learning +1 more 1 day ago",
-  "paid": "yes",
-  "id": "208248e6ab83",
-  "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "f5b39868e4c5": {
   "source": "jobspy/indeed",
@@ -1349,21 +1184,6 @@
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
   "last_seen": "2026-10-26T17:48:00.429876+00:00"
  },
- "950ed95a4e5f": {
-  "source": "jobspy/indeed",
-  "title": "Full Stack Developer Intern",
-  "company": "Metadologie",
-  "url": "https://in.indeed.com/viewjob?jk=1066409db2ac8835",
-  "location": "RJ, India",
-  "remote": null,
-  "pay": "10000.0-10000.0 INR/monthly",
-  "posted": "2026-10-21T00:00:00+00:00",
-  "text": "**About Metadologie** Metadologie is a Salesforce consulting and technology solutions company with deep expertise in the aviation industry. We work with global clients to streamline operations across invoicing, billing, documentation, inventory, taxation, and Salesforce integrations. Metadologie is looking for a motivated Full Stack Developer to join our development team. The ideal candidate should have a basic understanding of frontend and backend technologies and be eager to learn, develop, and maintain web applications. Key Responsibilities * Develop and maintain web applications using fron",
-  "paid": "yes",
-  "id": "950ed95a4e5f",
-  "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
  "1874ed19a9e9": {
   "source": "jobspy/indeed",
   "title": "Python Full Stack Intern",
@@ -1393,21 +1213,6 @@
   "id": "a1dfd18d5db7",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
   "last_seen": "2026-10-26T11:44:44.214871+00:00"
- },
- "073ff99768a7": {
-  "source": "jobspy/indeed",
-  "title": "Merchandiser Intern",
-  "company": "Bhatia Hospitality Pvt Ltd.",
-  "url": "https://in.indeed.com/viewjob?jk=0ca2e799704471a2",
-  "location": "Remote, India",
-  "remote": true,
-  "pay": "35000.0-50000.0 INR/monthly",
-  "posted": "2026-10-21T00:00:00+00:00",
-  "text": "**Job Overview: Merchandiser Intern (Tech Team) – Work From Home** * **Location:** Remote * **Type:** 3–6 Month Internship T**arget Candidate Profiles** * **Investment Banking / Finance:** Strong Excel, data analysis, pricing strategy, and performance metrics. * **Luxury Sales:** High aesthetic standards, understanding consumer psychology, brand prestige, and premium presentation. * **Marketing:** Expertise in consumer positioning, campaign execution, and target audience segmentation. * **Social Media:** Knowledge of viral trends, social commerce, and visual storytelling. **Key Qualifications*",
-  "paid": "yes",
-  "id": "073ff99768a7",
-  "first_seen": "2026-10-21T10:45:36.305441+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "652d0d08453b": {
   "source": "jobspy/naukri",
@@ -1558,36 +1363,6 @@
   "id": "ef43dc6727ab",
   "first_seen": "2026-10-21T10:45:36.305441+00:00",
   "last_seen": "2026-10-27T21:33:52.762432+00:00"
- },
- "2057a805869e": {
-  "source": "Telegram/fresheroffcampus",
-  "title": "👨‍💻",
-  "company": "",
-  "url": "https://www.fresheroffcampus.com/epsilon-off-campus-hiring-fresher-for-campaign-analyst/",
-  "location": "",
-  "remote": null,
-  "pay": "",
-  "posted": "2026-10-21T07:32:34+00:00",
-  "text": "👨‍💻 Epsilon Off Campus Hiring Freshers – Associate Client Support Engineer 📍 Location: Bangalore 🎓 Qualification: Bachelor's Degree 💼 Experience: Fresher - 1 Year 💰 CTC: 4 - 6 LPA 🔗 Apply Now: https://www.fresheroffcampus.com/epsilon-off-campus-hiring-fresher-for-campaign-analyst/ 📲 Stay Updated: 👉 WhatsApp Channel : https://www.whatsapp.com/channel/0029Va98A52ISTkImuigwW3B 👉 Telegram Channel : https://t.me/fresheroffcampus",
-  "paid": "yes",
-  "id": "2057a805869e",
-  "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
- "6985b1008700": {
-  "source": "Telegram/fresheroffcampus",
-  "title": "👨‍💻",
-  "company": "",
-  "url": "https://www.fresheroffcampus.com/miamin-systems-off-campus/",
-  "location": "",
-  "remote": null,
-  "pay": "",
-  "posted": "2026-10-21T09:32:35+00:00",
-  "text": "👨‍💻 Miamin Systems Off Campus Hiring Freshers – Associate Software Engineer 📍 Location: Chennai / Bangalore 🎓 Qualification: B.E / B.Tech / M.E / M.Tech 💼 Experience: Fresher 💰 CTC: Upto 3.6 LPA 🔗 Apply Now: https://www.fresheroffcampus.com/miamin-systems-off-campus/ 📲 Stay Updated: 👉 WhatsApp Channel : https://www.whatsapp.com/channel/0029Va98A52ISTkImuigwW3B 👉 Telegram Channel : https://t.me/fresheroffcampus",
-  "paid": "yes",
-  "id": "6985b1008700",
-  "first_seen": "2026-10-21T16:14:18.067204+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "94c8ceebe415": {
   "source": "Telegram/freshershunt",
@@ -1994,21 +1769,6 @@
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
   "last_seen": "2026-11-02T03:04:26.044300+00:00"
  },
- "6b644c7e2107": {
-  "source": "jobspy/indeed",
-  "title": "Software Engineer Intern",
-  "company": "Codebxo",
-  "url": "https://in.indeed.com/viewjob?jk=1c5531bf1d604a0d",
-  "location": "KL, India",
-  "remote": null,
-  "pay": "10000.0-15000.0 INR/monthly",
-  "posted": "2026-10-22T00:00:00+00:00",
-  "text": "**Software Engineer Intern** Company: Codebxo Solution Location: Remote or Onsite – Kochi, Kerala Internship Duration: 6 Months Employment Type: Full-Time Internship Future Opportunity: Potential full-time employment based on performance **About Codebxo Solution** Codebxo Solution is a Saudi Arabia-based software company with an office in Kochi, India. We work on internal products and client projects, developing practical software solutions for real-world business needs. **Role Overview** We are looking for a motivated Software Engineer Intern who is eager to learn, solve problems, and contrib",
-  "paid": "yes",
-  "id": "6b644c7e2107",
-  "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
  "7dda6a18373e": {
   "source": "jobspy/indeed",
   "title": "Trainee Software Engineer",
@@ -2067,7 +1827,7 @@
   "paid": "yes",
   "id": "86b243ad633d",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "39f92c9069e2": {
   "source": "jobspy/indeed",
@@ -2188,21 +1948,6 @@
   "id": "d9bf4ed13eb3",
   "first_seen": "2026-10-22T10:46:55.874331+00:00",
   "last_seen": "2026-10-28T02:51:45.432831+00:00"
- },
- "9bff31032335": {
-  "source": "jobspy/naukri",
-  "title": "Research Intern",
-  "company": "Sparx It Solutions",
-  "url": "https://www.naukri.com/job-listings-research-intern-sparx-it-solutions-noida-0-to-1-years-071026040810",
-  "location": "Noida, India",
-  "remote": null,
-  "pay": "25000.0-25000.0 INR/monthly",
-  "posted": "",
-  "text": "",
-  "paid": "yes",
-  "id": "9bff31032335",
-  "first_seen": "2026-10-22T10:46:55.874331+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "4ae42b7c5333": {
   "source": "jobspy/indeed",
@@ -2579,21 +2324,6 @@
   "first_seen": "2026-10-22T16:12:54.456866+00:00",
   "last_seen": "2026-10-26T02:05:38.909279+00:00"
  },
- "4f4c086abab8": {
-  "source": "jobspy/naukri",
-  "title": "Equity Research Intern",
-  "company": "Tradejini Financial Services",
-  "url": "https://www.naukri.com/job-listings-equity-research-intern-tradejini-financial-services-bengaluru-0-to-1-years-221026025954",
-  "location": "Bengaluru, India",
-  "remote": null,
-  "pay": "5000.0-5000.0 INR/monthly",
-  "posted": "",
-  "text": "",
-  "paid": "yes",
-  "id": "4f4c086abab8",
-  "first_seen": "2026-10-22T16:12:54.456866+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
- },
  "c8cae4b9c9b9": {
   "source": "jobspy/indeed",
   "title": "GET Mechanical",
@@ -2668,21 +2398,6 @@
   "id": "4b5eb7e4cb90",
   "first_seen": "2026-10-22T20:56:42.115064+00:00",
   "last_seen": "2026-10-23T20:44:30.446481+00:00"
- },
- "c294c4bcf681": {
-  "source": "Internshala",
-  "title": "Video Editing/Making",
-  "company": "MetaFit Actively hiring",
-  "url": "https://internshala.com/internship/detail/work-from-home-video-editing-making-internship-at-metafit1792688185",
-  "location": "Work from home",
-  "remote": true,
-  "pay": "₹ 10,000 - 15,000 /month",
-  "posted": "",
-  "text": "Video Editing/Making MetaFit Actively hiring Work from home ₹ 10,000 - 15,000 /month 6 Months As a Video Editing/Making Intern at MetaFit, you’ll help turn creative concepts and raw footag Video Editing Adobe Premiere Pro Final Cut Pro Video Making DaVinci Resolve Capcut AI Video Generation Few hours ago Job offer upto ₹ 3.5LPA post internship",
-  "paid": "yes",
-  "id": "c294c4bcf681",
-  "first_seen": "2026-10-22T20:56:42.115064+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "a67fb282f0f6": {
   "source": "Internshala",
@@ -2773,21 +2488,6 @@
   "id": "6e6600be1e3e",
   "first_seen": "2026-10-23T02:20:11.222111+00:00",
   "last_seen": "2026-10-28T11:46:31.366505+00:00"
- },
- "b26d4dfb399c": {
-  "source": "jobspy/indeed",
-  "title": "Solidworks & Mech Design Internship - RD",
-  "company": "KritiLabs Technologies",
-  "url": "https://in.indeed.com/viewjob?jk=eb5006713a763a38",
-  "location": "TN, India",
-  "remote": null,
-  "pay": "8203.47-14000.0 INR/monthly",
-  "posted": "2026-10-17T00:00:00+00:00",
-  "text": "We are looking for a **SolidWorks Intern** who is passionate about mechanical design and eager to gain hands-on industry experience. **Responsibilities:** * Create and modify 2D drawings and 3D models using SolidWorks. * Assist the design team in product development and documentation. * Prepare assembly drawings and BOMs. * Support engineering projects and design improvements. **Requirements:** * Pursuing or recently completed a Diploma/B.E./B.Tech in Mechanical Engineering or a related field. * Basic knowledge of SolidWorks (2D & 3D modeling). * Good understanding of engineering drawings and ",
-  "paid": "yes",
-  "id": "b26d4dfb399c",
-  "first_seen": "2026-10-23T02:20:11.222111+00:00",
-  "last_seen": "2026-10-23T02:20:11.222111+00:00"
  },
  "83a3e3d4597a": {
   "source": "jobspy/indeed",
@@ -6012,7 +5712,7 @@
   "paid": "yes",
   "id": "bb2473087aec",
   "first_seen": "2026-10-27T11:12:01.976560+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ee45fe2cd1b8": {
   "source": "jobspy/indeed",
@@ -6173,11 +5873,11 @@
   "remote": true,
   "pay": "₹ 11,000 - 23,000 /month",
   "posted": "",
-  "text": "Machine Learning Innoknowvex Work from home ₹ 11,000 - 23,000 /month 3 Months Selected intern's day-to-day responsibilites include: 1. Assist in collecting and cleaning Python Data Analytics Machine Learning R Programming Natural Language Processing (NLP) Artificial Intelligence (AI) Data Science Machine Learning Education Education 3 weeks ago Job offer upto ₹ 4.6LPA post internship",
+  "text": "Machine Learning Innoknowvex Work from home ₹ 11,000 - 23,000 /month 3 Months Selected intern's day-to-day responsibilites include: 1. Assist in collecting and cleaning Python Data Analytics Machine Learning R Programming Natural Language Processing (NLP) Artificial Intelligence (AI) Machine Learning Education Data Science Education 3 weeks ago Job offer upto ₹ 4.6LPA post internship",
   "paid": "yes",
   "id": "9c241898810f",
   "first_seen": "2026-10-27T16:57:57.436306+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "8868aed3d005": {
   "source": "Internshala",
@@ -9042,7 +8742,7 @@
   "paid": "yes",
   "id": "afc3a0933b0e",
   "first_seen": "2026-10-30T17:22:47.739377+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "9aae29000018": {
   "source": "jobspy/indeed",
@@ -9522,7 +9222,7 @@
   "paid": "yes",
   "id": "f2847bdb681b",
   "first_seen": "2026-10-31T11:21:01.576565+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "4c0c1529554f": {
   "source": "Internshala",
@@ -10512,7 +10212,7 @@
   "paid": "yes",
   "id": "863b4c4a1f95",
   "first_seen": "2026-11-01T21:26:54.454328+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "d18b7c31e4bd": {
   "source": "Telegram/fresheroffcampus",
@@ -13268,11 +12968,11 @@
   "remote": true,
   "pay": "₹ 25,000 - 30,000 /month",
   "posted": "",
-  "text": "Web Development AKS Tech Actively hiring Work from home ₹ 25,000 - 30,000 /month 3 Months Are you a skilled Web Development intern with expertise in PHP, MySQL, HTML, CSS, JavaScript, PHP MySQL HTML CSS JavaScript jQuery WordPress +3 more IT Web Development Engineering Node.js Development Information Technology Computer Science Backend Development 2 weeks ago Job offer upto ₹ 7LPA post internship",
+  "text": "Web Development AKS Tech Actively hiring Work from home ₹ 25,000 - 30,000 /month 3 Months Are you a skilled Web Development intern with expertise in PHP, MySQL, HTML, CSS, JavaScript, PHP MySQL HTML CSS JavaScript jQuery WordPress +3 more Computer Science Information Technology Wordpress Development Node.js Development PHP Development Engineering Backend Development 2 weeks ago Job offer upto ₹ 7LPA post internship",
   "paid": "yes",
   "id": "82ab6ab99895",
   "first_seen": "2026-11-05T13:39:05.826319+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "bc6934066ff3": {
   "source": "Internshala",
@@ -13373,11 +13073,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 25,000 /month",
   "posted": "",
-  "text": "Machine Learning Evolvra Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months Selected intern’s day-to-day responsibilities include: 1. Work closely with our data scienc Python Data Analytics Machine Learning Data Science Natural Language Processing (NLP) Deep Learning Artificial intelligence Machine Learning Data Science Artificial Intelligence (AI) Education 2 weeks ago",
+  "text": "Machine Learning Evolvra Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months Selected intern’s day-to-day responsibilities include: 1. Work closely with our data scienc Python Data Analytics Machine Learning Data Science Natural Language Processing (NLP) Deep Learning Artificial intelligence Data Science Education Artificial Intelligence (AI) Machine Learning 2 weeks ago",
   "paid": "yes",
   "id": "82894d4d3d30",
   "first_seen": "2026-11-05T13:39:05.826319+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "aec6377c53a1": {
   "source": "Internshala",
@@ -15398,11 +15098,11 @@
   "remote": true,
   "pay": "₹ 6,500 - 8,000 /month",
   "posted": "",
-  "text": "Machine Learning Emoolar Technology Private Limited Actively hiring Work from home ₹ 6,500 - 8,000 /month 3 Months As a Machine Learning Intern at Emoolar Technology Private Limited, you’ll support practical d Machine Learning Data Science Artificial intelligence Data Science Education Artificial Intelligence (AI) Machine Learning 1 week ago Job offer upto ₹ 3.5LPA post internship Part time",
+  "text": "Machine Learning Emoolar Technology Private Limited Actively hiring Work from home ₹ 6,500 - 8,000 /month 3 Months As a Machine Learning Intern at Emoolar Technology Private Limited, you’ll support practical d Machine Learning Data Science Artificial intelligence Machine Learning Data Science Artificial Intelligence (AI) Education 1 week ago Job offer upto ₹ 3.5LPA post internship Part time",
   "paid": "yes",
   "id": "ca9b2616f3f1",
   "first_seen": "2026-11-09T14:34:36.716794+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "45eda4323bdf": {
   "source": "jobspy/linkedin",
@@ -16433,11 +16133,11 @@
   "remote": true,
   "pay": "₹ 3,000 - 3,001 /month",
   "posted": "",
-  "text": "Artificial Intelligence (AI) Sankar Group Actively hiring Work from home ₹ 3,000 - 3,001 /month 6 Months As an AI Intern at Sankar Group, you’ll contribute to practical machine learning and data scie Python Data Structures Machine Learning Data Science Artificial intelligence Machine Learning IT Artificial Intelligence (AI) Data Science 1 week ago",
+  "text": "Artificial Intelligence (AI) Sankar Group Actively hiring Work from home ₹ 3,000 - 3,001 /month 6 Months As an AI Intern at Sankar Group, you’ll contribute to practical machine learning and data scie Python Data Structures Machine Learning Data Science Artificial intelligence Data Science IT Artificial Intelligence (AI) Machine Learning 1 week ago",
   "paid": "yes",
   "id": "ca5f5ee38a84",
   "first_seen": "2026-11-11T13:06:16.528632+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "fbaaa9fa2832": {
   "source": "Internshala",
@@ -17453,11 +17153,11 @@
   "remote": true,
   "pay": "₹ 6,000 - 7,500 /month",
   "posted": "",
-  "text": "AI Full Stack Web Development Emoolar Technology Private Limited Actively hiring Work from home ₹ 6,000 - 7,500 /month 3 Months As an AI full stack web development intern at Emoolar Technology Private Limited, you’ll build Web development Artificial intelligence MERN Engineering Computer Science Data Science Web Development Full Stack Development Education Artificial Intelligence (AI) 1 week ago Part time",
+  "text": "AI Full Stack Web Development Emoolar Technology Private Limited Actively hiring Work from home ₹ 6,000 - 7,500 /month 3 Months As an AI full stack web development intern at Emoolar Technology Private Limited, you’ll build Web development Artificial intelligence MERN Full Stack Development Data Science Web Development Computer Science Artificial Intelligence (AI) Information Technology Engineering 1 week ago Part time",
   "paid": "yes",
   "id": "bc7d9e09e3c1",
   "first_seen": "2026-11-12T14:09:01.716248+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1712be9e3015": {
   "source": "Internshala",
@@ -17543,11 +17243,11 @@
   "remote": true,
   "pay": "₹ 6,000 - 20,000 /month",
   "posted": "",
-  "text": "Artificial Intelligence (AI) Simpli Intern Work from home ₹ 6,000 - 20,000 /month 1 Month As an artificial intelligence (AI) intern at Simpli Intern, you’ll build practical experience Python Artificial intelligence Data Science Machine Learning Education Artificial Intelligence (AI) 1 week ago Part time",
+  "text": "Artificial Intelligence (AI) Simpli Intern Work from home ₹ 6,000 - 20,000 /month 1 Month As an artificial intelligence (AI) intern at Simpli Intern, you’ll build practical experience Python Artificial intelligence Artificial Intelligence (AI) Machine Learning Data Science Education 1 week ago Part time",
   "paid": "yes",
   "id": "dd58c857076e",
   "first_seen": "2026-11-12T14:09:01.716248+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "d9dcba60758a": {
   "source": "Internshala",
@@ -17558,11 +17258,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 19,000 /month",
   "posted": "",
-  "text": "Machine Learning Kidsneuron Actively hiring Work from home ₹ 12,000 - 19,000 /month 3 Months As a machine learning intern at Kidsneuron, you will work on cutting-edge projects in the fiel Python Data Analytics Machine Learning R Programming Data Science Natural Language Processing (NLP) Deep Learning +1 more Artificial Intelligence (AI) Education Machine Learning Data Science 1 week ago",
+  "text": "Machine Learning Kidsneuron Actively hiring Work from home ₹ 12,000 - 19,000 /month 3 Months As a machine learning intern at Kidsneuron, you will work on cutting-edge projects in the fiel Python Data Analytics Machine Learning R Programming Data Science Natural Language Processing (NLP) Deep Learning +1 more Artificial Intelligence (AI) Machine Learning Data Science Education 1 week ago",
   "paid": "yes",
   "id": "d9dcba60758a",
   "first_seen": "2026-11-12T14:09:01.716248+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "c012e488c71c": {
   "source": "Internshala",
@@ -18188,11 +17888,11 @@
   "remote": true,
   "pay": "₹ 9,000 - 10,000 /month",
   "posted": "",
-  "text": "Software Development Engineering (Web) Betatest Solutions Private Limited Actively hiring Work from home ₹ 9,000 - 10,000 /month 6 Months Location: Remote Duration: 6 months (full-time internship) Shift timing: 12 PM to 10 PM A JavaScript Python Linux Git Problem Solving REST API Database Management System (DBMS) +1 more Information Technology Software Development Computer Science Artificial Intelligence (AI) Web Development IT Engineering 1 week ago",
+  "text": "Software Development Engineering (Web) Betatest Solutions Private Limited Actively hiring Work from home ₹ 9,000 - 10,000 /month 6 Months Location: Remote Duration: 6 months (full-time internship) Shift timing: 12 PM to 10 PM A JavaScript Python Linux Git Problem Solving REST API Database Management System (DBMS) +1 more Artificial Intelligence (AI) Web Development Python/Django Engineering Software Development IT Computer Science 1 week ago",
   "paid": "yes",
   "id": "e04d0f226153",
   "first_seen": "2026-11-13T13:33:36.107872+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ba3ed63c8864": {
   "source": "Internshala",
@@ -19208,11 +18908,11 @@
   "remote": true,
   "pay": "₹ 1,000 - 2,000 /month",
   "posted": "",
-  "text": "AI Agent Development Zenith Actively hiring Work from home ₹ 1,000 - 2,000 /month 6 Months At Zenith, the AI Agent Development Intern will help prototype, test, and improve AI-powered a Python Machine Learning Deep Learning TensorFlow PyTorch Machine Learning Operations (MLOps) IT Machine Learning Data Science AI Agent Development Textiles Artificial Intelligence (AI) Advertising 7 days ago",
+  "text": "AI Agent Development Zenith Actively hiring Work from home ₹ 1,000 - 2,000 /month 6 Months At Zenith, the AI Agent Development Intern will help prototype, test, and improve AI-powered a Python Machine Learning Deep Learning TensorFlow PyTorch Machine Learning Operations (MLOps) AI Agent Development Data Science Advertising Artificial Intelligence (AI) IT Textiles Machine Learning 7 days ago",
   "paid": "yes",
   "id": "0e521f919c00",
   "first_seen": "2026-11-14T12:38:28.202102+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "beecdaadc062": {
   "source": "Internshala",
@@ -19977,7 +19677,7 @@
   "paid": "yes",
   "id": "d4b44ec25922",
   "first_seen": "2026-11-16T14:10:03.143120+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "445539a520f6": {
   "source": "Internshala",
@@ -19988,11 +19688,11 @@
   "remote": true,
   "pay": "₹ 15,000 /month",
   "posted": "",
-  "text": "Data Science & AI Content Specialist Accredian Actively hiring Work from home ₹ 15,000 /month 6 Months As a data science content specialist intern, you will be at the intersection of data science a Python Video Editing SQL Machine Learning Data Science Natural Language Processing (NLP) Deep Learning +2 more Data Science Machine Learning Artificial Intelligence (AI) Artificial Intelligence (AI) Education Content Writing Education 5 days ago",
+  "text": "Data Science & AI Content Specialist Accredian Actively hiring Work from home ₹ 15,000 /month 6 Months As a data science content specialist intern, you will be at the intersection of data science a Python Video Editing SQL Machine Learning Data Science Natural Language Processing (NLP) Deep Learning +2 more Machine Learning Education Artificial Intelligence (AI) Data Science Artificial Intelligence (AI) Education Content Writing 5 days ago",
   "paid": "yes",
   "id": "445539a520f6",
   "first_seen": "2026-11-16T14:10:03.143120+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "39c545f63878": {
   "source": "Internshala",
@@ -20067,7 +19767,7 @@
   "paid": "yes",
   "id": "244cb5ed7ff9",
   "first_seen": "2026-11-16T14:10:03.143120+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "c70cf09d2e9a": {
   "source": "jobspy/indeed",
@@ -20097,7 +19797,7 @@
   "paid": "yes",
   "id": "47cf950f3005",
   "first_seen": "2026-11-16T14:10:03.143120+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "e51e7c346f06": {
   "source": "jobspy/indeed",
@@ -20142,7 +19842,7 @@
   "paid": "yes",
   "id": "a75e092e51de",
   "first_seen": "2026-11-16T14:10:03.143120+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "f303324daed4": {
   "source": "jobspy/indeed",
@@ -20262,7 +19962,7 @@
   "paid": "yes",
   "id": "7fb01ab2c2b0",
   "first_seen": "2026-11-16T14:10:03.143120+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "32e9cc05dc59": {
   "source": "jobspy/indeed",
@@ -20307,7 +20007,7 @@
   "paid": "yes",
   "id": "180c477f5bf1",
   "first_seen": "2026-11-16T14:10:03.143120+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "c41f4326cfac": {
   "source": "jobspy/indeed",
@@ -20408,11 +20108,11 @@
   "remote": true,
   "pay": "₹ 15,000 - 20,000 /month",
   "posted": "",
-  "text": "Data Science INFINEXA LEARNING SOLUTIONS PRIVATE LIMITED Actively hiring Work from home ₹ 15,000 - 20,000 /month 3 Months As a Data Science Intern at INFINEXA LEARNING SOLUTIONS PRIVATE LIMITED, you’ll work on practi Python SQL Machine Learning Natural Language Processing (NLP) Education Machine Learning IT Natural Language Processing (NLP) Data Science 5 days ago Part time",
+  "text": "Data Science INFINEXA LEARNING SOLUTIONS PRIVATE LIMITED Actively hiring Work from home ₹ 15,000 - 20,000 /month 3 Months As a Data Science Intern at INFINEXA LEARNING SOLUTIONS PRIVATE LIMITED, you’ll work on practi Python SQL Machine Learning Natural Language Processing (NLP) IT Data Science Machine Learning Education Natural Language Processing (NLP) 5 days ago Part time",
   "paid": "yes",
   "id": "a43546b5a0d0",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "5dd9706836fc": {
   "source": "Internshala",
@@ -20438,11 +20138,11 @@
   "remote": true,
   "pay": "₹ 7,500 - 9,000 /month",
   "posted": "",
-  "text": "Data Science Emoolar Technology Private Limited Actively hiring Work from home ₹ 7,500 - 9,000 /month 3 Months As a Data Science Intern at Emoolar Technology Private Limited, you’ll work with the team to p Python SQL Machine Learning Data Science Natural Language Processing (NLP) Artificial intelligence Data Science Machine Learning Artificial Intelligence (AI) Natural Language Processing (NLP) Education 5 days ago Part time",
+  "text": "Data Science Emoolar Technology Private Limited Actively hiring Work from home ₹ 7,500 - 9,000 /month 3 Months As a Data Science Intern at Emoolar Technology Private Limited, you’ll work with the team to p Python SQL Machine Learning Data Science Natural Language Processing (NLP) Artificial intelligence Data Science Education Artificial Intelligence (AI) Machine Learning Natural Language Processing (NLP) 5 days ago Part time",
   "paid": "yes",
   "id": "1ec88fde7c46",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "aa37382d31af": {
   "source": "Internshala",
@@ -20577,7 +20277,7 @@
   "paid": "yes",
   "id": "d089b1ae1a56",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "83b819787f80": {
   "source": "Internshala",
@@ -20622,7 +20322,7 @@
   "paid": "yes",
   "id": "9383de457052",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "7c546e22390d": {
   "source": "jobspy/indeed",
@@ -20637,7 +20337,7 @@
   "paid": "yes",
   "id": "7c546e22390d",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "b2fd4a9d661f": {
   "source": "jobspy/indeed",
@@ -20652,7 +20352,7 @@
   "paid": "yes",
   "id": "b2fd4a9d661f",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "237b631f6787": {
   "source": "jobspy/indeed",
@@ -20667,7 +20367,7 @@
   "paid": "yes",
   "id": "237b631f6787",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "7673b2d45bbd": {
   "source": "jobspy/indeed",
@@ -20772,7 +20472,7 @@
   "paid": "yes",
   "id": "ca1e48db4dad",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "31437418012e": {
   "source": "jobspy/indeed",
@@ -20802,7 +20502,7 @@
   "paid": "yes",
   "id": "7d0110243005",
   "first_seen": "2026-11-17T01:14:40.526534+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "94ea22b8ab16": {
   "source": "Telegram/fresheroffcampus",
@@ -21147,7 +20847,7 @@
   "paid": "yes",
   "id": "b7955f4da1bc",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "911d897361e3": {
   "source": "jobspy/indeed",
@@ -21162,7 +20862,7 @@
   "paid": "yes",
   "id": "911d897361e3",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "38b7b175fee3": {
   "source": "jobspy/indeed",
@@ -21177,7 +20877,7 @@
   "paid": "yes",
   "id": "38b7b175fee3",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "06fb9be52e40": {
   "source": "jobspy/indeed",
@@ -21207,7 +20907,7 @@
   "paid": "yes",
   "id": "e9bd17163fd3",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "6c08a8a914ab": {
   "source": "jobspy/indeed",
@@ -21222,7 +20922,7 @@
   "paid": "yes",
   "id": "6c08a8a914ab",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "bf63c7595abc": {
   "source": "jobspy/indeed",
@@ -21237,7 +20937,7 @@
   "paid": "yes",
   "id": "bf63c7595abc",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "295b656f0d00": {
   "source": "jobspy/indeed",
@@ -21252,7 +20952,7 @@
   "paid": "yes",
   "id": "295b656f0d00",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "643ba20c251f": {
   "source": "jobspy/indeed",
@@ -21402,7 +21102,7 @@
   "paid": "yes",
   "id": "c2b2c45a5c0b",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "6d8a35eef4ba": {
   "source": "jobspy/indeed",
@@ -21462,7 +21162,7 @@
   "paid": "yes",
   "id": "29443c38f22b",
   "first_seen": "2026-11-17T15:03:17.858705+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "0f1fc3403916": {
   "source": "jobspy/indeed",
@@ -21507,7 +21207,7 @@
   "paid": "yes",
   "id": "4faf8ecffdc8",
   "first_seen": "2026-11-18T00:08:19.219096+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "6c564d32cc84": {
   "source": "Internshala",
@@ -21582,7 +21282,7 @@
   "paid": "yes",
   "id": "98c5d05eaf03",
   "first_seen": "2026-11-18T00:08:19.219096+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ab858233b9e1": {
   "source": "jobspy/indeed",
@@ -21668,11 +21368,11 @@
   "remote": true,
   "pay": "₹ 18,000 - 50,000 /month",
   "posted": "",
-  "text": "Artificial Intelligence Associate Vedron.ai Actively hiring Work from home ₹ 18,000 - 50,000 /month 3 Months Selected Intern's Day-to-Day Responsibilities: 1. RL Environment & Benchmark Development: A English Proficiency (Written) Artificial Intelligence (AI) Education Data Science Machine Learning 3 days ago Part time",
+  "text": "Artificial Intelligence Associate Vedron.ai Actively hiring Work from home ₹ 18,000 - 50,000 /month 3 Months Selected Intern's Day-to-Day Responsibilities: 1. RL Environment & Benchmark Development: A English Proficiency (Written) Data Science Artificial Intelligence (AI) Machine Learning Education 3 days ago Part time",
   "paid": "yes",
   "id": "5520869f5d90",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "390ba5297e24": {
   "source": "Internshala",
@@ -21837,7 +21537,7 @@
   "paid": "yes",
   "id": "bfd468b15a59",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "33cdcc1d0ba5": {
   "source": "jobspy/indeed",
@@ -21867,7 +21567,7 @@
   "paid": "yes",
   "id": "4a41590a0df5",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1aff97355457": {
   "source": "jobspy/naukri",
@@ -21897,7 +21597,7 @@
   "paid": "yes",
   "id": "6e1b8f029eca",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "a96353591178": {
   "source": "jobspy/indeed",
@@ -21927,7 +21627,7 @@
   "paid": "yes",
   "id": "e4ee42cd5838",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "58cbab61678a": {
   "source": "jobspy/indeed",
@@ -21942,7 +21642,7 @@
   "paid": "yes",
   "id": "58cbab61678a",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "d79ed897c0af": {
   "source": "jobspy/naukri",
@@ -21957,7 +21657,7 @@
   "paid": "yes",
   "id": "d79ed897c0af",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1610e7aedc1b": {
   "source": "jobspy/indeed",
@@ -21972,7 +21672,7 @@
   "paid": "yes",
   "id": "1610e7aedc1b",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-20T14:31:37.743524+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "5987d852289d": {
   "source": "jobspy/naukri",
@@ -21987,7 +21687,7 @@
   "paid": "yes",
   "id": "5987d852289d",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "99eb7abe24fa": {
   "source": "jobspy/naukri",
@@ -22017,7 +21717,7 @@
   "paid": "yes",
   "id": "b4c8fdd89060",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "042e65349408": {
   "source": "jobspy/naukri",
@@ -22032,7 +21732,7 @@
   "paid": "yes",
   "id": "042e65349408",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "f69d01ec876e": {
   "source": "jobspy/indeed",
@@ -22062,7 +21762,7 @@
   "paid": "yes",
   "id": "5d1a03c391d9",
   "first_seen": "2026-11-18T14:43:10.991002+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "38dadc524fed": {
   "source": "jobspy/indeed",
@@ -22287,7 +21987,7 @@
   "paid": "yes",
   "id": "f242f24b66f0",
   "first_seen": "2026-11-18T23:40:08.698097+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "378b43bb5f08": {
   "source": "jobspy/indeed",
@@ -22407,7 +22107,7 @@
   "paid": "yes",
   "id": "72b087bc256f",
   "first_seen": "2026-11-18T23:40:08.698097+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "6b3e09f66ec0": {
   "source": "Internshala",
@@ -22572,7 +22272,7 @@
   "paid": "yes",
   "id": "2d799d3e2bf0",
   "first_seen": "2026-11-19T04:51:09.204345+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "4cd2c4f586d5": {
   "source": "jobspy/indeed",
@@ -22673,11 +22373,11 @@
   "remote": true,
   "pay": "₹ 6,500 - 8,000 /month",
   "posted": "",
-  "text": "Cyber Security Emoolar Technology Private Limited Actively hiring Work from home ₹ 6,500 - 8,000 /month 3 Months As a Cyber Security Intern at Emoolar Technology Private Limited, you’ll support practical sec Computer Networking Linux Ethical Hacking VAPT Web Application Security Cybersecurity Education Engineering Cyber Security Information Technology Computer Science 2 days ago Part time",
+  "text": "Cyber Security Emoolar Technology Private Limited Actively hiring Work from home ₹ 6,500 - 8,000 /month 3 Months As a Cyber Security Intern at Emoolar Technology Private Limited, you’ll support practical sec Computer Networking Linux Ethical Hacking VAPT Web Application Security Cybersecurity Education Information Technology Cyber Security Computer Science Engineering 2 days ago Part time",
   "paid": "yes",
   "id": "193e78fda71b",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "39b17f105944": {
   "source": "Internshala",
@@ -22703,11 +22403,11 @@
   "remote": true,
   "pay": "₹ 10,000 - 20,000 lump sum",
   "posted": "",
-  "text": "Course Developer( Android Development With Kotlin) SelfCode Academy Actively hiring Work from home ₹ 10,000 - 20,000 lump sum 3 Months As a Course Developer (Android Development with Kotlin) Intern at SelfCode Academy, you’ll hel Teaching English Proficiency (Spoken) Kotlin Effective Communication Mobile App Development Teaching Engineering Computer Science Education Android App Development Information Technology 2 days ago Part time",
+  "text": "Course Developer( Android Development With Kotlin) SelfCode Academy Actively hiring Work from home ₹ 10,000 - 20,000 lump sum 3 Months As a Course Developer (Android Development with Kotlin) Intern at SelfCode Academy, you’ll hel Teaching English Proficiency (Spoken) Kotlin Effective Communication Mobile App Development Android App Development Computer Science Teaching Education Engineering Information Technology 2 days ago Part time",
   "paid": "yes",
   "id": "2cce2f496f06",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "55274bd66250": {
   "source": "Internshala",
@@ -22718,11 +22418,11 @@
   "remote": true,
   "pay": "₹ 5,000 - 15,000 /month",
   "posted": "",
-  "text": "Student Marketing Thinkedges Private Limited Actively hiring Work from home ₹ 5,000 - 15,000 /month 1 Month As a Student Marketing Intern at Thinkedges Private Limited, you’ll support practical marketin Leadership Lead Generation Teamwork Effective Communication Engineering Education Market/Business Research Content Writing Software Development Digital Marketing Marketing 2 days ago Job offer upto ₹ 3LPA post internship Part time",
+  "text": "Student Marketing Thinkedges Private Limited Actively hiring Work from home ₹ 5,000 - 15,000 /month 1 Month As a Student Marketing Intern at Thinkedges Private Limited, you’ll support practical marketin Leadership Lead Generation Teamwork Effective Communication Engineering Content Writing Content Writing Market/Business Research Strategy Digital Marketing Social Media Marketing 2 days ago Job offer upto ₹ 3LPA post internship Part time",
   "paid": "yes",
   "id": "55274bd66250",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "5b207919b2b8": {
   "source": "Internshala",
@@ -22793,11 +22493,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 25,000 /month",
   "posted": "",
-  "text": "Java Development Qubixo Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months We are seeking a dynamic Java Development intern to join our team at Qubixo. If you are passio Java MySQL JSP J2EE Hibernate ORM(Java) Spring MVC IT Java Computer Science Web Development Engineering Information Technology Software Development 2 days ago",
+  "text": "Java Development Qubixo Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months We are seeking a dynamic Java Development intern to join our team at Qubixo. If you are passio Java MySQL JSP J2EE Hibernate ORM(Java) Spring MVC Web Development Engineering Java IT Software Development Computer Science Information Technology 2 days ago",
   "paid": "yes",
   "id": "a6e388ad777a",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "73bd12d74588": {
   "source": "Internshala",
@@ -22808,11 +22508,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 24,000 /month",
   "posted": "",
-  "text": "Machine Learning Qubixo Actively hiring Work from home ₹ 12,000 - 24,000 /month 3 Months As a Machine Learning intern at Qubixo, you will have the opportunity to work with cutting-edg Python Data Analytics Machine Learning R Programming Data Science Natural Language Processing (NLP) Deep Learning +1 more Natural Language Processing (NLP) Artificial Intelligence (AI) Data Science IT Machine Learning 2 days ago",
+  "text": "Machine Learning Qubixo Actively hiring Work from home ₹ 12,000 - 24,000 /month 3 Months As a Machine Learning intern at Qubixo, you will have the opportunity to work with cutting-edg Python Data Analytics Machine Learning R Programming Data Science Natural Language Processing (NLP) Deep Learning +1 more Artificial Intelligence (AI) Data Science Natural Language Processing (NLP) IT Machine Learning 2 days ago",
   "paid": "yes",
   "id": "73bd12d74588",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "5bc4c95db7c7": {
   "source": "Internshala",
@@ -22827,7 +22527,7 @@
   "paid": "yes",
   "id": "5bc4c95db7c7",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "a0e57f62f19d": {
   "source": "jobspy/indeed",
@@ -22857,7 +22557,7 @@
   "paid": "yes",
   "id": "94657d40fcf1",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "04296446401b": {
   "source": "jobspy/indeed",
@@ -22887,7 +22587,7 @@
   "paid": "yes",
   "id": "758e4f728ff7",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "20072620583e": {
   "source": "jobspy/naukri",
@@ -22902,7 +22602,7 @@
   "paid": "yes",
   "id": "20072620583e",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "718d26005f1d": {
   "source": "jobspy/naukri",
@@ -22917,7 +22617,7 @@
   "paid": "yes",
   "id": "718d26005f1d",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "632e2f33e5cb": {
   "source": "jobspy/indeed",
@@ -22977,7 +22677,7 @@
   "paid": "yes",
   "id": "6c61c4dcf393",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "0e9a2b637b12": {
   "source": "jobspy/indeed",
@@ -23007,7 +22707,7 @@
   "paid": "yes",
   "id": "b28ef49b95c8",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "fc4b5ab284df": {
   "source": "jobspy/indeed",
@@ -23037,7 +22737,7 @@
   "paid": "yes",
   "id": "b54e2e7847a8",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "fae7a1047d74": {
   "source": "jobspy/indeed",
@@ -23052,7 +22752,7 @@
   "paid": "yes",
   "id": "fae7a1047d74",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "2c5dd910d9dc": {
   "source": "jobspy/indeed",
@@ -23097,7 +22797,7 @@
   "paid": "yes",
   "id": "0291d2695039",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "2648f38751c4": {
   "source": "jobspy/indeed",
@@ -23112,7 +22812,7 @@
   "paid": "yes",
   "id": "2648f38751c4",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "15a5e3b55f09": {
   "source": "jobspy/indeed",
@@ -23142,7 +22842,7 @@
   "paid": "yes",
   "id": "bc2137e77d56",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "07a30afd48e1": {
   "source": "jobspy/indeed",
@@ -23157,7 +22857,7 @@
   "paid": "yes",
   "id": "07a30afd48e1",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ce931964dd23": {
   "source": "jobspy/indeed",
@@ -23172,7 +22872,7 @@
   "paid": "yes",
   "id": "ce931964dd23",
   "first_seen": "2026-11-19T14:50:21.850499+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "11a87e33004f": {
   "source": "Telegram/freshershunt",
@@ -23202,7 +22902,7 @@
   "paid": "yes",
   "id": "7024df5ef6f7",
   "first_seen": "2026-11-19T23:59:22.434393+00:00",
-  "last_seen": "2026-11-19T23:59:22.434393+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "87df6118026c": {
   "source": "jobspy/indeed",
@@ -23292,7 +22992,7 @@
   "paid": "yes",
   "id": "a6c9498bbc24",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "408e37311d92": {
   "source": "Internshala",
@@ -23352,7 +23052,7 @@
   "paid": "yes",
   "id": "ce2fcaf4396c",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "621c3beb19f2": {
   "source": "jobspy/indeed",
@@ -23367,7 +23067,7 @@
   "paid": "yes",
   "id": "621c3beb19f2",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "f03149f2c25c": {
   "source": "jobspy/indeed",
@@ -23382,7 +23082,7 @@
   "paid": "yes",
   "id": "f03149f2c25c",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "f46ffb4b05e4": {
   "source": "jobspy/indeed",
@@ -23427,7 +23127,7 @@
   "paid": "yes",
   "id": "11f230e97e61",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "86bf646cfc7f": {
   "source": "jobspy/naukri",
@@ -23442,7 +23142,7 @@
   "paid": "yes",
   "id": "86bf646cfc7f",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "8367672ce377": {
   "source": "jobspy/indeed",
@@ -23472,7 +23172,7 @@
   "paid": "yes",
   "id": "579d2e5fe2ca",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "0d0222dac933": {
   "source": "jobspy/indeed",
@@ -23502,7 +23202,7 @@
   "paid": "yes",
   "id": "6b5cf6ead509",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-20T05:53:24.350951+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "40971d4ff22d": {
   "source": "jobspy/indeed",
@@ -23517,7 +23217,7 @@
   "paid": "yes",
   "id": "40971d4ff22d",
   "first_seen": "2026-11-20T05:53:24.350951+00:00",
-  "last_seen": "2026-11-20T23:28:14.404811+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1a3da449441a": {
   "source": "Telegram/fresheroffcampus",
@@ -23547,7 +23247,7 @@
   "paid": "yes",
   "id": "df8328b74357",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ffa3b1837c87": {
   "source": "Telegram/fresheroffcampus",
@@ -23562,7 +23262,7 @@
   "paid": "yes",
   "id": "ffa3b1837c87",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "a17112f955cb": {
   "source": "Telegram/freshershunt",
@@ -23577,7 +23277,7 @@
   "paid": "yes",
   "id": "a17112f955cb",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "3235bb344eb5": {
   "source": "Internshala",
@@ -23592,7 +23292,7 @@
   "paid": "yes",
   "id": "3235bb344eb5",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "bad5c33260f2": {
   "source": "Internshala",
@@ -23618,11 +23318,11 @@
   "remote": true,
   "pay": "₹ 10,000 - 13,000 /month",
   "posted": "",
-  "text": "Technical Mentor/Technical Specialist Right Recruit Consultancy Actively hiring Work from home ₹ 10,000 - 13,000 /month 3 Months A US-based EdTech organization is hiring a BTech candidate as a Technical Mentor Intern with s Machine Learning Artificial intelligence Generative AI Development Generative AI Tools Data Science Education Artificial Intelligence (AI) Machine Learning Teaching 1 day ago",
+  "text": "Technical Mentor/Technical Specialist Right Recruit Consultancy Actively hiring Work from home ₹ 10,000 - 13,000 /month 3 Months A US-based EdTech organization is hiring a BTech candidate as a Technical Mentor Intern with s Machine Learning Artificial intelligence Generative AI Development Generative AI Tools Teaching Machine Learning Artificial Intelligence (AI) Education Data Science 1 day ago",
   "paid": "yes",
   "id": "eceabe622afa",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "d4580e271cb3": {
   "source": "Internshala",
@@ -23648,11 +23348,11 @@
   "remote": true,
   "pay": "₹ 10,000 - 15,000 /month",
   "posted": "",
-  "text": "Automation Testing Voicedots Infotech Actively hiring Work from home ₹ 10,000 - 15,000 /month 6 Months We are looking for a dynamic Automation Testing intern to join our team at Voicedots Infotech. Software Testing TestNG Test Automation Test Case Design Software Testing Engineering Computer Science IT Information Technology 1 day ago",
+  "text": "Automation Testing Voicedots Infotech Actively hiring Work from home ₹ 10,000 - 15,000 /month 6 Months We are looking for a dynamic Automation Testing intern to join our team at Voicedots Infotech. Software Testing TestNG Test Automation Test Case Design Computer Science Software Testing IT Information Technology Engineering 1 day ago",
   "paid": "yes",
   "id": "832a7d2ea27c",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "222100202126": {
   "source": "Internshala",
@@ -23693,11 +23393,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 24,000 /month",
   "posted": "",
-  "text": "Cyber Security Qubixo Actively hiring Work from home ₹ 12,000 - 24,000 /month 3 Months As a cybersecurity intern at Qubixo, you will have the opportunity to work on cutting-edge pro Python Computer Networking Linux Ethical Hacking VAPT Web Application Security Cyber Security Computer Science Information Technology IT Engineering 1 day ago",
+  "text": "Cyber Security Qubixo Actively hiring Work from home ₹ 12,000 - 24,000 /month 3 Months As a cybersecurity intern at Qubixo, you will have the opportunity to work on cutting-edge pro Python Computer Networking Linux Ethical Hacking VAPT Web Application Security Cyber Security Engineering Computer Science Information Technology IT 1 day ago",
   "paid": "yes",
   "id": "9efa32f061cf",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "a835b605bd12": {
   "source": "Internshala",
@@ -23708,11 +23408,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 24,000 /month",
   "posted": "",
-  "text": "Python Development EvoNexis Actively hiring Work from home ₹ 12,000 - 24,000 /month 3 Months Are you a talented Python development intern with a passion for cutting-edge technology? EvoNe HTML CSS Python Django Machine Learning REST API Flask Machine Learning Web Development Python/Django Software Development Engineering Information Technology Computer Science 1 day ago",
+  "text": "Python Development EvoNexis Actively hiring Work from home ₹ 12,000 - 24,000 /month 3 Months Are you a talented Python development intern with a passion for cutting-edge technology? EvoNe HTML CSS Python Django Machine Learning REST API Flask Information Technology Engineering Machine Learning Python/Django Web Development Backend Development Computer Science 1 day ago",
   "paid": "yes",
   "id": "a835b605bd12",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "a27ae1d36d91": {
   "source": "Internshala",
@@ -23723,11 +23423,11 @@
   "remote": true,
   "pay": "₹ 10,000 /month",
   "posted": "",
-  "text": "Artificial Intelligence (AI) Pregrad Actively hiring Work from home ₹ 10,000 /month 2 Months As an Artificial Intelligence (AI) intern at Pregrad, you’ll work on practical AI tasks with g Python Data Structures Machine Learning Data Science Deep Learning Artificial intelligence Education Machine Learning Data Science Education Artificial Intelligence (AI) 1 day ago",
+  "text": "Artificial Intelligence (AI) Pregrad Actively hiring Work from home ₹ 10,000 /month 2 Months As an Artificial Intelligence (AI) intern at Pregrad, you’ll work on practical AI tasks with g Python Data Structures Machine Learning Data Science Deep Learning Artificial intelligence Education Artificial Intelligence (AI) Data Science Education Machine Learning 1 day ago",
   "paid": "yes",
   "id": "a27ae1d36d91",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "430a110c5739": {
   "source": "Internshala",
@@ -23742,7 +23442,7 @@
   "paid": "yes",
   "id": "430a110c5739",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "7a60a3d274f7": {
   "source": "Unstop",
@@ -23787,7 +23487,7 @@
   "paid": "yes",
   "id": "878c47727764",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "10e5c1bbd366": {
   "source": "jobspy/indeed",
@@ -23817,7 +23517,7 @@
   "paid": "yes",
   "id": "9b5ab5931623",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1f5fd97c6ca2": {
   "source": "jobspy/indeed",
@@ -23832,7 +23532,7 @@
   "paid": "yes",
   "id": "1f5fd97c6ca2",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "3add134163a5": {
   "source": "jobspy/indeed",
@@ -23847,7 +23547,7 @@
   "paid": "yes",
   "id": "3add134163a5",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "799f62194e11": {
   "source": "jobspy/indeed",
@@ -23877,7 +23577,7 @@
   "paid": "yes",
   "id": "040cd82a1169",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "321cb8349c92": {
   "source": "jobspy/indeed",
@@ -23892,7 +23592,7 @@
   "paid": "yes",
   "id": "321cb8349c92",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "4d19d464f364": {
   "source": "jobspy/indeed",
@@ -23922,7 +23622,7 @@
   "paid": "yes",
   "id": "eced5392eb0a",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "b499b2e7c9fe": {
   "source": "jobspy/indeed",
@@ -23937,7 +23637,7 @@
   "paid": "yes",
   "id": "b499b2e7c9fe",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "16da45b5a10a": {
   "source": "jobspy/indeed",
@@ -23967,7 +23667,7 @@
   "paid": "yes",
   "id": "da0b8958972b",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1c96fa536d54": {
   "source": "jobspy/indeed",
@@ -24012,7 +23712,7 @@
   "paid": "yes",
   "id": "2dbae9899f92",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "82e186d91652": {
   "source": "jobspy/indeed",
@@ -24027,7 +23727,7 @@
   "paid": "yes",
   "id": "82e186d91652",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ce6783b0bc32": {
   "source": "jobspy/indeed",
@@ -24042,7 +23742,7 @@
   "paid": "yes",
   "id": "ce6783b0bc32",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "4a017a40e775": {
   "source": "jobspy/indeed",
@@ -24057,7 +23757,7 @@
   "paid": "yes",
   "id": "4a017a40e775",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ac1a90eb904f": {
   "source": "jobspy/indeed",
@@ -24072,7 +23772,7 @@
   "paid": "yes",
   "id": "ac1a90eb904f",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "4a1c525d522b": {
   "source": "jobspy/indeed",
@@ -24087,7 +23787,7 @@
   "paid": "yes",
   "id": "4a1c525d522b",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "299b72c322d5": {
   "source": "jobspy/indeed",
@@ -24102,7 +23802,7 @@
   "paid": "yes",
   "id": "299b72c322d5",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "211cb9154e12": {
   "source": "jobspy/indeed",
@@ -24117,7 +23817,7 @@
   "paid": "yes",
   "id": "211cb9154e12",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-20T23:28:14.404811+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "5a4ece7a995b": {
   "source": "jobspy/indeed",
@@ -24132,7 +23832,7 @@
   "paid": "yes",
   "id": "5a4ece7a995b",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "2f176d72cb1b": {
   "source": "jobspy/indeed",
@@ -24147,7 +23847,7 @@
   "paid": "yes",
   "id": "2f176d72cb1b",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "832abec8401a": {
   "source": "jobspy/indeed",
@@ -24162,7 +23862,7 @@
   "paid": "yes",
   "id": "832abec8401a",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "52f7694c21cd": {
   "source": "jobspy/indeed",
@@ -24177,7 +23877,7 @@
   "paid": "yes",
   "id": "52f7694c21cd",
   "first_seen": "2026-11-20T14:31:37.743524+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "8b1eac7346dc": {
   "source": "Telegram/fresheroffcampus",
@@ -24192,7 +23892,7 @@
   "paid": "yes",
   "id": "8b1eac7346dc",
   "first_seen": "2026-11-20T23:28:14.404811+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "b127c9d231bf": {
   "source": "Telegram/fresheroffcampus",
@@ -24207,7 +23907,7 @@
   "paid": "yes",
   "id": "b127c9d231bf",
   "first_seen": "2026-11-20T23:28:14.404811+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "604b9d687088": {
   "source": "Internshala",
@@ -24222,7 +23922,7 @@
   "paid": "yes",
   "id": "604b9d687088",
   "first_seen": "2026-11-20T23:28:14.404811+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "fbdccfcda82e": {
   "source": "jobspy/naukri",
@@ -24237,7 +23937,7 @@
   "paid": "yes",
   "id": "fbdccfcda82e",
   "first_seen": "2026-11-20T23:28:14.404811+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "f091d3fb6dcf": {
   "source": "jobspy/naukri",
@@ -24252,7 +23952,7 @@
   "paid": "yes",
   "id": "f091d3fb6dcf",
   "first_seen": "2026-11-20T23:28:14.404811+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "16ab05dfaa4f": {
   "source": "jobspy/indeed",
@@ -24267,7 +23967,7 @@
   "paid": "yes",
   "id": "16ab05dfaa4f",
   "first_seen": "2026-11-20T23:28:14.404811+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "0aa9fae51da4": {
   "source": "jobspy/naukri",
@@ -24312,7 +24012,7 @@
   "paid": "yes",
   "id": "eece44c6849b",
   "first_seen": "2026-11-21T04:36:35.272038+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1b08c013e38b": {
   "source": "jobspy/indeed",
@@ -24327,7 +24027,7 @@
   "paid": "yes",
   "id": "1b08c013e38b",
   "first_seen": "2026-11-21T04:36:35.272038+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "6dba289bdebb": {
   "source": "jobspy/indeed",
@@ -24447,7 +24147,7 @@
   "paid": "yes",
   "id": "13dc9756f095",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "130773adb605": {
   "source": "Telegram/fresheroffcampus",
@@ -24462,7 +24162,7 @@
   "paid": "yes",
   "id": "130773adb605",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "cedef2283f82": {
   "source": "Telegram/freshershunt",
@@ -24477,7 +24177,7 @@
   "paid": "yes",
   "id": "cedef2283f82",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "76719aecaee8": {
   "source": "Telegram/freshershunt",
@@ -24492,7 +24192,7 @@
   "paid": "yes",
   "id": "76719aecaee8",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "658293843df3": {
   "source": "Internshala",
@@ -24503,11 +24203,11 @@
   "remote": true,
   "pay": "₹ 30,000 - 32,000 /month",
   "posted": "",
-  "text": "Portfolio Analytics Fin Maverick Actively hiring Work from home ₹ 30,000 - 32,000 /month 6 Months Fin Maverick is looking for analytical and detail-oriented interns to join its team as portfol Python Data Analytics MS-Excel Statistics Portfolio Management Few hours ago",
+  "text": "Portfolio Analytics Fin Maverick Actively hiring Work from home ₹ 30,000 - 32,000 /month 6 Months Fin Maverick is looking for analytical and detail-oriented interns to join its team as portfol Python Data Analytics MS-Excel Statistics Portfolio Management Finance Education Analytics MBA Data Science Today",
   "paid": "yes",
   "id": "658293843df3",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "b495718309e9": {
   "source": "Internshala",
@@ -24518,11 +24218,11 @@
   "remote": true,
   "pay": "₹ 25,000 - 30,000 /month",
   "posted": "",
-  "text": "Audit And Internal Control Fin Maverick Actively hiring Work from home ₹ 25,000 - 30,000 /month 6 Months Fin Maverick is looking for detail-oriented and analytical interns to join its assurance team Accounting Control systems MS-Excel Auditing Report Generation Few hours ago",
+  "text": "Audit And Internal Control Fin Maverick Actively hiring Work from home ₹ 25,000 - 30,000 /month 6 Months Fin Maverick is looking for detail-oriented and analytical interns to join its assurance team Accounting Control systems MS-Excel Auditing Report Generation Today",
   "paid": "yes",
   "id": "b495718309e9",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "9197ddfd576e": {
   "source": "Internshala",
@@ -24548,11 +24248,11 @@
   "remote": true,
   "pay": "₹ 3,000 - 5,000 /month",
   "posted": "",
-  "text": "Manual Testing Humanity Founders Actively hiring Work from home ₹ 3,000 - 5,000 /month 6 Months As a Manual Tester Intern at Humanity Founders, you will have the opportunity to work closely Software Testing Algorithms Creative Thinking Manual Testing Problem Solving UI & UX Design Express.js +12 more Quality Analyst IT Information Technology Engineering Software Testing Computer Science Today Job offer upto ₹ 4LPA post internship",
+  "text": "Manual Testing Humanity Founders Actively hiring Work from home ₹ 3,000 - 5,000 /month 6 Months As a Manual Tester Intern at Humanity Founders, you will have the opportunity to work closely Software Testing Algorithms Creative Thinking Manual Testing Problem Solving UI & UX Design Express.js +12 more Engineering Information Technology Software Testing IT Quality Analyst Computer Science Today Job offer upto ₹ 4LPA post internship",
   "paid": "yes",
   "id": "78d5d5814546",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "8fb059114ef7": {
   "source": "Internshala",
@@ -24567,7 +24267,7 @@
   "paid": "yes",
   "id": "8fb059114ef7",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "8363bfdd87b0": {
   "source": "Internshala",
@@ -24593,11 +24293,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 25,000 /month",
   "posted": "",
-  "text": "Java Development Diffzene Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months As a Java Development intern at Diffzene, you will have the opportunity to work on exciting pr Java MySQL JSP J2EE Hibernate ORM(Java) Spring MVC Java IT Programming Computer Science Information Technology Engineering Web Development Today",
+  "text": "Java Development Diffzene Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months As a Java Development intern at Diffzene, you will have the opportunity to work on exciting pr Java MySQL JSP J2EE Hibernate ORM(Java) Spring MVC IT Engineering Computer Science Web Development Programming Java Software Development Today",
   "paid": "yes",
   "id": "ae27d1043e9a",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "37601c4a8a20": {
   "source": "Internshala",
@@ -24608,11 +24308,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 25,000 /month",
   "posted": "",
-  "text": "Web Development Diffzene Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months As a Web Development intern at Diffzene, you will have the opportunity to work on exciting pro PHP MySQL HTML CSS JavaScript jQuery WordPress +3 more Web Development Wordpress Development Information Technology Engineering PHP Development Computer Science Node.js Development Today",
+  "text": "Web Development Diffzene Actively hiring Work from home ₹ 12,000 - 25,000 /month 3 Months As a Web Development intern at Diffzene, you will have the opportunity to work on exciting pro PHP MySQL HTML CSS JavaScript jQuery WordPress +3 more Node.js Development Web Development Wordpress Development Information Technology IT Engineering Computer Science Today",
   "paid": "yes",
   "id": "37601c4a8a20",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "6adb2d87575e": {
   "source": "Internshala",
@@ -24623,11 +24323,11 @@
   "remote": true,
   "pay": "₹ 10,000 - 20,000 /month",
   "posted": "",
-  "text": "Cyber Security EvoNexis Actively hiring Work from home ₹ 10,000 - 20,000 /month 3 Months As a cybersecurity intern at EvoNexis, you will have the opportunity to sharpen your skills in Python Computer Networking Linux Ethical Hacking VAPT Web Application Security Network Engineering Computer Science Information Technology Cyber Security Engineering Today",
+  "text": "Cyber Security EvoNexis Actively hiring Work from home ₹ 10,000 - 20,000 /month 3 Months As a cybersecurity intern at EvoNexis, you will have the opportunity to sharpen your skills in Python Computer Networking Linux Ethical Hacking VAPT Web Application Security Network Engineering Cyber Security Information Technology Engineering Computer Science Today",
   "paid": "yes",
   "id": "6adb2d87575e",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "9c808adbdd24": {
   "source": "Internshala",
@@ -24638,11 +24338,11 @@
   "remote": true,
   "pay": "₹ 12,000 - 24,000 /month",
   "posted": "",
-  "text": "Python Development Qubixo Actively hiring Work from home ₹ 12,000 - 24,000 /month 3 Months We are seeking a talented Python development intern to join our dynamic team at Qubixo. If you HTML CSS Python Django Machine Learning REST API Flask Computer Science Engineering Machine Learning Web Development Information Technology Backend Development Python/Django Today",
+  "text": "Python Development Qubixo Actively hiring Work from home ₹ 12,000 - 24,000 /month 3 Months We are seeking a talented Python development intern to join our dynamic team at Qubixo. If you HTML CSS Python Django Machine Learning REST API Flask Information Technology IT Computer Science Backend Development Web Development Data Science Machine Learning Today",
   "paid": "yes",
   "id": "9c808adbdd24",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "f801a83d3a79": {
   "source": "Internshala",
@@ -24657,7 +24357,7 @@
   "paid": "yes",
   "id": "f801a83d3a79",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "fbad1e9fc518": {
   "source": "jobspy/indeed",
@@ -24672,7 +24372,7 @@
   "paid": "yes",
   "id": "fbad1e9fc518",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ae1ea0421450": {
   "source": "jobspy/indeed",
@@ -24687,7 +24387,7 @@
   "paid": "yes",
   "id": "ae1ea0421450",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "d95fe1d26db7": {
   "source": "jobspy/indeed",
@@ -24717,7 +24417,7 @@
   "paid": "yes",
   "id": "4ba7cea9bc80",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T13:50:15.261429+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "d61a2139499c": {
   "source": "jobspy/naukri",
@@ -24732,7 +24432,7 @@
   "paid": "yes",
   "id": "d61a2139499c",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "9d058065e17c": {
   "source": "jobspy/naukri",
@@ -24747,7 +24447,7 @@
   "paid": "yes",
   "id": "9d058065e17c",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "a1daeaa57b64": {
   "source": "jobspy/naukri",
@@ -24762,7 +24462,7 @@
   "paid": "yes",
   "id": "a1daeaa57b64",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "ec7a0d368af7": {
   "source": "jobspy/naukri",
@@ -24777,7 +24477,7 @@
   "paid": "yes",
   "id": "ec7a0d368af7",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "b709c3ae5cf9": {
   "source": "jobspy/naukri",
@@ -24792,7 +24492,7 @@
   "paid": "yes",
   "id": "b709c3ae5cf9",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "35e73952415f": {
   "source": "jobspy/indeed",
@@ -24837,7 +24537,7 @@
   "paid": "yes",
   "id": "da310e4947e2",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "363a53dc72d1": {
   "source": "jobspy/indeed",
@@ -24852,7 +24552,7 @@
   "paid": "yes",
   "id": "363a53dc72d1",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "e154398b91b1": {
   "source": "jobspy/indeed",
@@ -24882,7 +24582,7 @@
   "paid": "yes",
   "id": "00e8820e3c3e",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "b73d9282e6a5": {
   "source": "jobspy/indeed",
@@ -24897,7 +24597,7 @@
   "paid": "yes",
   "id": "b73d9282e6a5",
   "first_seen": "2026-11-21T13:50:15.261429+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "60e680f0fd95": {
   "source": "Telegram/fresheroffcampus",
@@ -24912,7 +24612,7 @@
   "paid": "yes",
   "id": "60e680f0fd95",
   "first_seen": "2026-11-21T22:32:05.043268+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1f911a26d4b4": {
   "source": "Telegram/freshershunt",
@@ -24927,7 +24627,7 @@
   "paid": "yes",
   "id": "1f911a26d4b4",
   "first_seen": "2026-11-21T22:32:05.043268+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "683fedbf3963": {
   "source": "Internshala",
@@ -24953,11 +24653,11 @@
   "remote": true,
   "pay": "₹ 2,000 /month",
   "posted": "",
-  "text": "Graphic Design Reducate.ai Actively hiring Work from home ₹ 2,000 /month 6 Months As a Graphic Design Intern at Reducate.ai, you’ll support the creation of clear, polished visu Adobe Photoshop CorelDRAW Adobe Illustrator Video Editing Adobe Premiere Pro Few hours ago",
+  "text": "Graphic Design Reducate.ai Actively hiring Work from home ₹ 2,000 /month 6 Months As a Graphic Design Intern at Reducate.ai, you’ll support the creation of clear, polished visu Adobe Photoshop CorelDRAW Adobe Illustrator Video Editing Adobe Premiere Pro Today",
   "paid": "yes",
   "id": "9936def9e012",
   "first_seen": "2026-11-21T22:32:05.043268+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "3ba61f3c0252": {
   "source": "Internshala",
@@ -24968,11 +24668,11 @@
   "remote": true,
   "pay": "₹ 15,000 /month",
   "posted": "",
-  "text": "Social Media Marketing Reducate.ai Actively hiring Work from home ₹ 15,000 /month 4 Months As a Social Media Marketing Intern at Reducate.ai, you’ll help plan and create engaging conten Social Media Marketing Instagram Marketing Few hours ago",
+  "text": "Social Media Marketing Reducate.ai Actively hiring Work from home ₹ 15,000 /month 4 Months As a Social Media Marketing Intern at Reducate.ai, you’ll help plan and create engaging conten Social Media Marketing Instagram Marketing Today",
   "paid": "yes",
   "id": "3ba61f3c0252",
   "first_seen": "2026-11-21T22:32:05.043268+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "425471fd2770": {
   "source": "jobspy/indeed",
@@ -25002,7 +24702,7 @@
   "paid": "yes",
   "id": "4a244bb40e63",
   "first_seen": "2026-11-21T22:32:05.043268+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "1982f8c75d1d": {
   "source": "jobspy/indeed",
@@ -25032,7 +24732,7 @@
   "paid": "yes",
   "id": "e103e5755ac5",
   "first_seen": "2026-11-21T22:32:05.043268+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "24a256222281": {
   "source": "jobspy/indeed",
@@ -25047,7 +24747,7 @@
   "paid": "yes",
   "id": "24a256222281",
   "first_seen": "2026-11-21T22:32:05.043268+00:00",
-  "last_seen": "2026-11-21T22:32:05.043268+00:00"
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  },
  "d353c655352e": {
   "source": "jobspy/naukri",
@@ -25063,5 +24763,65 @@
   "id": "d353c655352e",
   "first_seen": "2026-11-21T22:32:05.043268+00:00",
   "last_seen": "2026-11-21T22:32:05.043268+00:00"
+ },
+ "936b8f72d13c": {
+  "source": "Himalayas",
+  "title": "Junior Finance & Billing Associate",
+  "company": "Ledgy",
+  "url": "https://himalayas.app/companies/ledgy/jobs/junior-finance-billing-associate?utm_source=api",
+  "location": "Germany, Poland, Romania, Spain, United Kingdom",
+  "remote": true,
+  "pay": "49000-64000 EUR",
+  "posted": "2026-11-21T23:06:10+00:00",
+  "text": "At Ledgy, we’re on a mission to make Europe a powerhouse of entrepreneurship by building a modern, tech-driven equity management and financial reporting platform for private and public companies. Full Time",
+  "paid": "yes",
+  "id": "936b8f72d13c",
+  "first_seen": "2026-11-22T03:50:44.594912+00:00",
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
+ },
+ "20858ef6721d": {
+  "source": "jobspy/indeed",
+  "title": "B.Tech Mechanical / Automobile Engineer – Freshers",
+  "company": "A2Z Technical Institute Pvt Ltd",
+  "url": "https://in.indeed.com/viewjob?jk=14428e01684830a5",
+  "location": "KL, India",
+  "remote": null,
+  "pay": "18000.0-25000.0 INR/monthly",
+  "posted": "2026-11-21T00:00:00+00:00",
+  "text": "Graduate Engineer Trainee – Mechanical / Automobile **Location:** Kalamassery, Kochi **Job Type:** Full-time We Are Hiring B.Tech Freshers! Are you a B.Tech graduate in Mechanical or Automobile Engineering looking to begin your career in the technical and heavy equipment industry? We are looking for enthusiastic fresh graduates to join our team. Eligibility * B.Tech in Mechanical Engineering. * B.Tech in Automobile Engineering. * Freshers only. * Interest in automobiles, machinery and heavy equipment. * Good communication and presentation skills. * Willingness to learn and develop technical sk",
+  "paid": "yes",
+  "id": "20858ef6721d",
+  "first_seen": "2026-11-22T03:50:44.594912+00:00",
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
+ },
+ "c9144bf03c28": {
+  "source": "jobspy/indeed",
+  "title": "Graduate Engineering Trainee (Technical Sales)",
+  "company": "ABS RENEW POWER PVT. LTD",
+  "url": "https://in.indeed.com/viewjob?jk=7c78b1c79eae1c0b",
+  "location": "MH, India",
+  "remote": null,
+  "pay": "20000.0-25000.0 INR/monthly",
+  "posted": "2026-11-21T00:00:00+00:00",
+  "text": "**Designation: Graduate Engineer Trainee (GET)** **Location**: Kopar Khairane, Navi Mumbai **Qualification**: Diploma / B.E. Mechanical Engineering **Experience**: Fresher / 0–1 Year We are looking for enthusiastic Mechanical Engineering graduates to join our Technical Support team. **Key Responsibilities:** ✔ Provide technical support to Sales, Service, Design, Quality, and CBMS teams ✔ Assist in BOM preparation and product selection activities ✔ Conduct product demonstrations, commissioning, and customer training programs ✔ Perform site visits for application studies, technical support, trou",
+  "paid": "yes",
+  "id": "c9144bf03c28",
+  "first_seen": "2026-11-22T03:50:44.594912+00:00",
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
+ },
+ "b8fc608e76fa": {
+  "source": "jobspy/indeed",
+  "title": "Trainee Mechanical Design Engineers - Solidedge",
+  "company": "Mahani Engineers Private Limited",
+  "url": "https://in.indeed.com/viewjob?jk=2daa434bd19aaf53",
+  "location": "MH, India",
+  "remote": null,
+  "pay": "150000.0-200000.0 INR/yearly",
+  "posted": "2026-11-16T00:00:00+00:00",
+  "text": "We are a **Chinchwad / Talawade-based engineering company** engaged in the **design and manufacture of Special Purpose Machines (SPMs), Robotic Systems, Jigs & Fixtures, and Industrial Automation Systems**. As part of our growth plans, we are looking to recruit **TWO Graduate Mechanical Engineers**, preferably from the **2025 or 2026 batch**. **Ideal Candidate Profile** * Graduate in Mechanical Engineering. * Strong proficiency in **Solid Edge** and 3D solid modelling. * Candidates with **up to 1 year of experience** may apply. * Formal training in Solid Modelling from a reputed institute will",
+  "paid": "yes",
+  "id": "b8fc608e76fa",
+  "first_seen": "2026-11-22T03:50:44.594912+00:00",
+  "last_seen": "2026-11-22T03:50:44.594912+00:00"
  }
 }
