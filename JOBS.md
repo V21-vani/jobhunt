@@ -1,27 +1,26 @@
 # Fresh remote & paid internships / jobs
 
-_Updated 2026-11-22 22:55 UTC · 566 active · 11 new this run · 3399 raw listings scanned_
+_Updated 2026-11-23 04:28 UTC · 550 active · 6 new this run · 3253 raw listings scanned_
 
 ## New this run
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Full Stack Development | Ravionics | Work from home | ₹ 3,000 - 5,000 /month (yes) | Internshala | 2026-11-22 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-ravionics1795372492) |
-| Data Processing Specialist-Entry Level | DLN Consulting Group | USA Only | - (yes) | WeWorkRemotely | 2026-11-22 | [Apply](https://weworkremotely.com/remote-jobs/dln-consulting-group-data-processing-specialist-entry-level) |
-| Customer Service Call Center Agent-Entry Level | DLN Consulting Group | USA Only | - (yes) | WeWorkRemotely | 2026-11-22 | [Apply](https://weworkremotely.com/remote-jobs/dln-consulting-group-customer-service-call-center-agent-entry-level) |
-| IT Help Desk Agent - Entry Level | DLN Consulting Group | USA Only | - (yes) | WeWorkRemotely | 2026-11-22 | [Apply](https://weworkremotely.com/remote-jobs/dln-consulting-group-it-help-desk-agent-entry-level) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-22 | [Apply](https://www.fresheroffcampus.com/microsoft-hiring-fresher-2/) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-22 | [Apply](https://www.fresheroffcampus.com/moodys-off-campus-2/) |
-| Web Developer Intern | Indian Treats | Remote, India | 10000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-22 | [Apply](https://in.indeed.com/viewjob?jk=d6010ed3676116ef) |
-| Social media marketing intern | MAHASHANKH DESIGN AND TECHNOLOGY | Remote, India | 8000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-22 | [Apply](https://in.indeed.com/viewjob?jk=012521cdabb4aa4d) |
-| Software Developer Intern | Aevorintai | Gurugram, India | 180000.0-240000.0 INR/yearly (yes) | jobspy/naukri | 2026-11-22 | [Apply](https://www.naukri.com/job-listings-software-developer-intern-aevorintai-gurugram-0-to-2-years-231126000095) |
-| Civil Engineer Intern | Kaveri Foods & Beverages | WB, India | 6000.0-12000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-21 | [Apply](https://in.indeed.com/viewjob?jk=8644976606062fca) |
-| Graduate Engineer Trainee (Mechanical) | Infinitycrest group private limited | TN, India | 15000.0-18000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-17 | [Apply](https://in.indeed.com/viewjob?jk=98a455d937a59b15) |
+| Growth Associate | Syd Life AI | Worldwide | 20000-40000 USD (yes) | Himalayas | 2026-11-23 | [Apply](https://himalayas.app/companies/syd-life-ai/jobs/growth-associate?utm_source=api) |
+| Junior Software Engineer | Syd Life AI | Worldwide | 25000-40000 USD (yes) | Himalayas | 2026-11-23 | [Apply](https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer?utm_source=api) |
+| Sales Development Associate | Clera | Worldwide | 60000-80000 USD (yes) | Himalayas | 2026-11-23 | [Apply](https://himalayas.app/companies/clera/jobs/sales-development-associate-4520581748?utm_source=api) |
+| Fresher Mechanical Engineers -2025 | San Institute Of Facility Management | Madurai, Chennai, Coimbatore, India | 275000.0-450000.0 INR/yearly (yes) | jobspy/naukri | 2026-11-23 | [Apply](https://www.naukri.com/job-listings-fresher-mechanical-engineers-2025-san-institute-of-facility-management-madurai-chennai-coimbatore-0-to-3-years-030925026225) |
+| Graduate Trainee Engineer - Electrical (Testing & Commissioning) | Narpavi enterprises | TN, India | 10000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-22 | [Apply](https://in.indeed.com/viewjob?jk=8f185c8245debc8a) |
+| MERN Stack Developer Intern | Paarsh E-Learning | MH, India | 15000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-17 | [Apply](https://in.indeed.com/viewjob?jk=df72cb0e55201482) |
 
 ## All active (newest first)
 
 | Role | Company | Location | Pay (paid?) | Source | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Growth Associate | Syd Life AI | Worldwide | 20000-40000 USD (yes) | Himalayas | 2026-11-23 | [Apply](https://himalayas.app/companies/syd-life-ai/jobs/growth-associate?utm_source=api) |
+| Junior Software Engineer | Syd Life AI | Worldwide | 25000-40000 USD (yes) | Himalayas | 2026-11-23 | [Apply](https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer?utm_source=api) |
+| Sales Development Associate | Clera | Worldwide | 60000-80000 USD (yes) | Himalayas | 2026-11-23 | [Apply](https://himalayas.app/companies/clera/jobs/sales-development-associate-4520581748?utm_source=api) |
+| Fresher Mechanical Engineers -2025 | San Institute Of Facility Management | Madurai, Chennai, Coimbatore, India | 275000.0-450000.0 INR/yearly (yes) | jobspy/naukri | 2026-11-23 | [Apply](https://www.naukri.com/job-listings-fresher-mechanical-engineers-2025-san-institute-of-facility-management-madurai-chennai-coimbatore-0-to-3-years-030925026225) |
 | Full Stack Development | Ravionics | Work from home | ₹ 3,000 - 5,000 /month (yes) | Internshala | 2026-11-22 | [Apply](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-ravionics1795372492) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-22 | [Apply](https://freshershunt.in/google-internship-2027/) |
 | Data Processing Specialist-Entry Level | DLN Consulting Group | USA Only | - (yes) | WeWorkRemotely | 2026-11-22 | [Apply](https://weworkremotely.com/remote-jobs/dln-consulting-group-data-processing-specialist-entry-level) |
@@ -54,6 +53,7 @@ _Updated 2026-11-22 22:55 UTC · 566 active · 11 new this run · 3399 raw listi
 | Web Developer Intern | Indian Treats | Remote, India | 10000.0-10000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-22 | [Apply](https://in.indeed.com/viewjob?jk=d6010ed3676116ef) |
 | Social media marketing intern | MAHASHANKH DESIGN AND TECHNOLOGY | Remote, India | 8000.0-23000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-22 | [Apply](https://in.indeed.com/viewjob?jk=012521cdabb4aa4d) |
 | Software Developer Intern | Aevorintai | Gurugram, India | 180000.0-240000.0 INR/yearly (yes) | jobspy/naukri | 2026-11-22 | [Apply](https://www.naukri.com/job-listings-software-developer-intern-aevorintai-gurugram-0-to-2-years-231126000095) |
+| Graduate Trainee Engineer - Electrical (Testing & Commissioning) | Narpavi enterprises | TN, India | 10000.0-15000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-22 | [Apply](https://in.indeed.com/viewjob?jk=8f185c8245debc8a) |
 | Junior Finance & Billing Associate | Ledgy | Germany, Poland, Romania, Spain, United Kingdom | 49000-64000 EUR (yes) | Himalayas | 2026-11-21 | [Apply](https://himalayas.app/companies/ledgy/jobs/junior-finance-billing-associate?utm_source=api) |
 | Human Resources (HR) | Reducate.ai Actively hiring | Work from home | ₹ 2,000 /month (yes) | Internshala | 2026-11-21 | [Apply](https://internshala.com/internship/detail/work-from-home-human-resources-hr-internship-at-reducateai1795273149) |
 | Graphic Design | Reducate.ai Actively hiring | Work from home | ₹ 2,000 /month (yes) | Internshala | 2026-11-21 | [Apply](https://internshala.com/internship/detail/work-from-home-graphic-design-internship-at-reducateai1795272635) |
@@ -357,6 +357,7 @@ _Updated 2026-11-22 22:55 UTC · 566 active · 11 new this run · 3399 raw listi
 | MERN Stack Developer Intern | Paarsh Infotech | MH, India | 12500.0- INR/monthly (yes) | jobspy/indeed | 2026-11-17 | [Apply](https://in.indeed.com/viewjob?jk=6ba23b7f84d53b48) |
 | Project Engineer / Site Supervisor – Fire Fighting Projects | Northern star engineering | GJ, India | 20000.0-30000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-17 | [Apply](https://in.indeed.com/viewjob?jk=0c36b30b091d4728) |
 | Graduate Engineer Trainee (Mechanical) | Infinitycrest group private limited | TN, India | 15000.0-18000.0 INR/monthly (yes) | jobspy/indeed | 2026-11-17 | [Apply](https://in.indeed.com/viewjob?jk=98a455d937a59b15) |
+| MERN Stack Developer Intern | Paarsh E-Learning | MH, India | 15000.0- INR/monthly (yes) | jobspy/indeed | 2026-11-17 | [Apply](https://in.indeed.com/viewjob?jk=df72cb0e55201482) |
 | Contract Officer | Northeastern University | United States | 67855-95845 USD (yes) | Himalayas | 2026-11-16 | [Apply](https://himalayas.app/companies/northeastern-university/jobs/contract-officer?utm_source=api) |
 | 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-16 | [Apply](https://www.fresheroffcampus.com/accenture-off-campus-2/) |
 | 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-16 | [Apply](https://freshershunt.in/honeywell-internship-2027/) |
@@ -416,12 +417,6 @@ _Updated 2026-11-22 22:55 UTC · 566 active · 11 new this run · 3399 raw listi
 | Python Development | Qubixo Actively hiring | Work from home | ₹ 12,000 - 24,000 /month (yes) | Internshala | 2026-11-15 | [Apply](https://internshala.com/internship/detail/work-from-home-python-development-internship-at-qubixo1794723754) |
 | Web Development | Qubixo Actively hiring | Work from home | ₹ 10,000 - 20,000 /month (yes) | Internshala | 2026-11-15 | [Apply](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-qubixo1794723694) |
 | Java Development | Qubixo Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-11-15 | [Apply](https://internshala.com/internship/detail/work-from-home-java-development-internship-at-qubixo1794723404) |
-| Machine Learning | Qubixo Actively hiring | Work from home | ₹ 12,000 - 24,000 /month (yes) | Internshala | 2026-11-15 | [Apply](https://internshala.com/internship/detail/work-from-home-machine-learning-internship-at-qubixo1794723625) |
-| Data Analytics | Qubixo Actively hiring | Work from home | ₹ 12,000 - 25,000 /month (yes) | Internshala | 2026-11-15 | [Apply](https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-qubixo1794723589) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-15 | [Apply](https://www.fresheroffcampus.com/intel-off-campus-intern/) |
-| 👨‍💻 |  | - | - (yes) | Telegram/fresheroffcampus | 2026-11-15 | [Apply](https://www.fresheroffcampus.com/cred-off-campus-hiring-fresher-for-backend-developer/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-15 | [Apply](https://freshershunt.in/accenture-ai-ml-associate-2026/) |
-| 🚨 |  | - | - (yes) | Telegram/freshershunt | 2026-11-15 | [Apply](https://freshershunt.in/capgemini-associate-software-engineer-2026/) |
 
 ## Source health
 
@@ -429,16 +424,16 @@ _Updated 2026-11-22 22:55 UTC · 566 active · 11 new this run · 3399 raw listi
 - **remotive**: 80 fetched → 0 matched
 - **remoteok**: 100 fetched → 0 matched
 - **weworkremotely**: 125 fetched → 3 matched
-- **himalayas**: 100 fetched → 0 matched
+- **himalayas**: 100 fetched → 3 matched
 - **arbeitnow**: 900 fetched → 0 matched
 - **jobicy**: FAILED (HTTPError: 429 Client Error: Too Many Requests for url: https://jobicy.com/api/v2/remote-jo) → 0 matched
 - **hn_whoishiring**: 380 fetched → 0 matched
 - **reddit**: FAILED (HTTPError: 404 Client Error: Not Found for url: https://www.reddit.com/r/forhire/new/.rss) → 0 matched
-- **telegram**: 100 fetched → 19 matched
-- **internshala**: 508 fetched → 44 matched
+- **telegram**: 100 fetched → 17 matched
+- **internshala**: 508 fetched → 45 matched
 - **unstop**: 60 fetched → 2 matched
-- **yc**: 39 fetched → 0 matched
-- **jobspy**: 689 fetched → 117 matched
+- **yc**: 40 fetched → 0 matched
+- **jobspy**: 540 fetched → 95 matched
 - **rss**: 0 fetched → 0 matched
 - **interndoor**: 0 fetched → 0 matched
 - **wellfound**: 0 fetched → 0 matched
@@ -446,4 +441,4 @@ _Updated 2026-11-22 22:55 UTC · 566 active · 11 new this run · 3399 raw listi
 - **twitter**: 0 fetched → 0 matched
 - **linkedin_groups**: 0 fetched → 0 matched
 - **angellist**: 0 fetched → 0 matched
-- **ats**: 63/63 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 0 workday sites, 270 title-matched postings; 67 companies tracked → 0 matched
+- **ats**: 63/63 boards read, 0 newly dead, 4 known-dead skipped, 0 errors, 0 workday sites, 272 title-matched postings; 67 companies tracked → 0 matched
